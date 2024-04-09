@@ -100,8 +100,8 @@ def filter_data(in_filepath, chosen_year):
         
         # Filter out links where both source and target nodes belong to the specified group value
         filtered_links = [link for link in links 
-                        if link["source"] in [node["id"] for node in filtered_nodes] 
-                        and link["target"] in [node["id"] for node in filtered_nodes]]
+                        if (link["source"] in [node["id"] for node in filtered_nodes])
+                        and (link["target"] in [node["id"] for node in filtered_nodes])]
         
         return filtered_nodes, filtered_links
 
