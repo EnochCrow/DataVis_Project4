@@ -1,59 +1,19 @@
 {
     "nodes": [
         {
+            "id": "Hungary",
+            "group": 2
+        },
+        {
+            "id": "Poland",
+            "group": 1
+        },
+        {
             "id": "Japan",
             "group": 2
         },
         {
-            "id": "Bulgaria",
-            "group": 2
-        },
-        {
-            "id": "Thailand",
-            "group": 2
-        },
-        {
-            "id": "Australia",
-            "group": 1
-        },
-        {
-            "id": "Finland",
-            "group": 2
-        },
-        {
-            "id": "Brazil",
-            "group": 1
-        },
-        {
-            "id": "France",
-            "group": 1
-        },
-        {
-            "id": "Romania",
-            "group": 2
-        },
-        {
-            "id": "Germany",
-            "group": 2
-        },
-        {
-            "id": "South Africa",
-            "group": 1
-        },
-        {
-            "id": "Italy",
-            "group": 2
-        },
-        {
-            "id": "China",
-            "group": 1
-        },
-        {
-            "id": "United Kingdom",
-            "group": 1
-        },
-        {
-            "id": "Mexico",
+            "id": "Norway",
             "group": 1
         },
         {
@@ -61,15 +21,19 @@
             "group": 1
         },
         {
-            "id": "New Zealand",
-            "group": 1
-        },
-        {
-            "id": "Hungary",
+            "id": "Thailand",
             "group": 2
         },
         {
-            "id": "Ethiopia",
+            "id": "Finland",
+            "group": 2
+        },
+        {
+            "id": "Germany",
+            "group": 2
+        },
+        {
+            "id": "Brazil",
             "group": 1
         },
         {
@@ -77,8 +41,60 @@
             "group": 1
         },
         {
+            "id": "Italy",
+            "group": 2
+        },
+        {
+            "id": "Netherlands",
+            "group": 1
+        },
+        {
+            "id": "Yugoslavia",
+            "group": 1
+        },
+        {
+            "id": "South Africa",
+            "group": 1
+        },
+        {
+            "id": "United Kingdom",
+            "group": 1
+        },
+        {
+            "id": "Bulgaria",
+            "group": 2
+        },
+        {
             "id": "Canada",
             "group": 1
+        },
+        {
+            "id": "China",
+            "group": 1
+        },
+        {
+            "id": "Australia",
+            "group": 1
+        },
+        {
+            "id": "Mexico",
+            "group": 1
+        },
+        {
+            "id": "France",
+            "group": 1
+        },
+        {
+            "id": "Greece",
+            "group": 1
+        },
+        {
+            "id": "New Zealand",
+            "group": 1
+        },
+        {
+            "id": "Romania",
+            "group": 2
         }
     ],
     "links": [

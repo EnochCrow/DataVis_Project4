@@ -1,0 +1,565 @@
+,source,target,value
+0,Cuba,United States,337.57999
+1,United States,Cuba,195.75
+2,Haiti,United States,15.95
+3,United States,Haiti,9.6099997
+4,Dominican Republic,United States,14.46
+5,United States,Dominican Republic,18.77
+6,Paraguay,United States,6.2199998
+7,United States,Paraguay,2.5599999
+8,Netherlands,United States,5.3600001
+9,United States,Netherlands,82.150002
+10,France,United States,13.28
+11,United States,France,606.04346
+12,Spain,United States,57.990002
+13,United States,Spain,51.48
+14,Germany,United States,1.1
+15,United States,Germany,2.2
+16,Poland,United States,0.001
+17,United States,Poland,84.620003
+18,Czechoslovakia,United States,0.49000001
+19,United States,Czechoslovakia,51.950001
+20,Albania,United States,0.0
+21,United States,Albania,6.9099998
+22,Yugoslavia,United States,0.19
+23,United States,Yugoslavia,90.559998
+24,Greece,United States,0.34
+25,United States,Greece,93.190002
+26,Norway,United States,1.27
+27,United States,Norway,19.02
+28,Denmark,United States,0.25
+29,United States,Denmark,5.2199998
+30,Ethiopia,United States,1.0700001
+31,United States,Ethiopia,1.5
+32,Egypt,United States,11.23
+33,United States,Egypt,164.78999
+34,Japan,United States,0.13
+35,United States,Japan,0.63
+36,Cuba,Canada,6.79
+37,Canada,Cuba,0.0
+38,Haiti,Canada,0.46000001
+39,Canada,Haiti,0.0
+40,Dominican Republic,Canada,5.6100001
+41,Canada,Dominican Republic,0.0
+42,Paraguay,Canada,0.20999999
+43,Canada,Paraguay,0.0
+44,Netherlands,Canada,0.36000001
+45,Canada,Netherlands,0.0
+46,France,Canada,0.23999999
+47,Canada,France,47.516796
+48,Germany,Canada,0.001905
+49,Canada,Germany,0.0
+50,Poland,Canada,0.0
+51,Canada,Poland,0.0
+52,Czechoslovakia,Canada,0.0
+53,Canada,Czechoslovakia,0.0
+54,Albania,Canada,0.0
+55,Canada,Albania,0.0
+56,Yugoslavia,Canada,0.0
+57,Canada,Yugoslavia,0.0
+58,Greece,Canada,0.002144
+59,Canada,Greece,0.0
+60,Norway,Canada,0.56999999
+61,Canada,Norway,0.0
+62,Denmark,Canada,0.0053750002
+63,Canada,Denmark,0.0
+64,Ethiopia,Canada,0.001619
+65,Canada,Ethiopia,0.0
+66,Egypt,Canada,0.19
+67,Canada,Egypt,0.0
+68,Japan,Canada,0.0
+69,Canada,Japan,0.0
+70,Mexico,Cuba,0.0
+71,Cuba,Mexico,4.3899999
+72,Nicaragua,Cuba,0.004404
+73,Cuba,Nicaragua,0.02
+74,Costa Rica,Cuba,0.0029150001
+75,Cuba,Costa Rica,0.63
+76,Colombia,Cuba,0.0
+77,Cuba,Colombia,2.4000001
+78,Venezuela,Cuba,0.0
+79,Cuba,Venezuela,1.1900001
+80,Peru,Cuba,0.0
+81,Cuba,Peru,0.34
+82,Brazil,Cuba,0.0
+83,Cuba,Brazil,0.07
+84,Argentina,Cuba,0.0
+85,Cuba,Argentina,2.24
+86,United Kingdom,Cuba,0.0
+87,Cuba,United Kingdom,53.610001
+88,France,Cuba,0.0
+89,Cuba,France,10.490499
+90,Italy,Cuba,0.0
+91,Cuba,Italy,0.0
+92,South Africa,Cuba,0.0
+93,Cuba,South Africa,0.25
+94,Australia,Cuba,0.0
+95,Cuba,Australia,0.029999999
+96,New Zealand,Cuba,0.0
+97,Cuba,New Zealand,0.0099999998
+98,Mexico,Haiti,0.0
+99,Haiti,Mexico,0.00025799999
+100,Costa Rica,Haiti,0.0
+101,Haiti,Costa Rica,2.4999999e-05
+102,Colombia,Haiti,0.0
+103,Haiti,Colombia,0.75
+104,Venezuela,Haiti,0.0
+105,Haiti,Venezuela,0.029999999
+106,Peru,Haiti,0.0
+107,Haiti,Peru,0.000183
+108,Brazil,Haiti,0.0
+109,Haiti,Brazil,0.0
+110,Argentina,Haiti,0.0
+111,Haiti,Argentina,0.00098300003
+112,United Kingdom,Haiti,0.0
+113,Haiti,United Kingdom,2.5799999
+114,France,Haiti,0.0
+115,Haiti,France,0.00045299999
+116,Italy,Haiti,0.0
+117,Haiti,Italy,0.0
+118,South Africa,Haiti,0.0
+119,Haiti,South Africa,0.0
+120,Australia,Haiti,0.0
+121,Haiti,Australia,1.8999999e-05
+122,New Zealand,Haiti,0.0
+123,Haiti,New Zealand,0.0
+124,Mexico,Dominican Republic,0.0
+125,Dominican Republic,Mexico,1.01
+126,Nicaragua,Dominican Republic,0.0
+127,Dominican Republic,Nicaragua,0.0
+128,Costa Rica,Dominican Republic,7.8999998e-05
+129,Dominican Republic,Costa Rica,0.00028599999
+130,Colombia,Dominican Republic,0.0
+131,Dominican Republic,Colombia,0.0099999998
+132,Venezuela,Dominican Republic,0.0
+133,Dominican Republic,Venezuela,0.20999999
+134,Peru,Dominican Republic,0.0
+135,Dominican Republic,Peru,0.000187
+136,Argentina,Dominican Republic,0.0
+137,Dominican Republic,Argentina,2.9999999e-05
+138,United Kingdom,Dominican Republic,0.0
+139,Dominican Republic,United Kingdom,22.290001
+140,France,Dominican Republic,0.0
+141,Dominican Republic,France,0.36000001
+142,Italy,Dominican Republic,0.0
+143,Dominican Republic,Italy,0.0
+144,South Africa,Dominican Republic,0.0
+145,Dominican Republic,South Africa,0.0
+146,New Zealand,Dominican Republic,0.0
+147,Dominican Republic,New Zealand,0.000158
+148,Paraguay,Mexico,0.0072460002
+149,Mexico,Paraguay,0.0
+150,Netherlands,Mexico,3.0000001e-06
+151,Mexico,Netherlands,0.0
+152,France,Mexico,0.079999998
+153,Mexico,France,0.54000002
+154,Germany,Mexico,0.002695
+155,Mexico,Germany,0.0
+156,Poland,Mexico,0.0
+157,Mexico,Poland,0.0
+158,Czechoslovakia,Mexico,0.0
+159,Mexico,Czechoslovakia,0.0
+160,Albania,Mexico,0.0
+161,Mexico,Albania,0.0
+162,Yugoslavia,Mexico,0.0
+163,Mexico,Yugoslavia,0.0
+164,Greece,Mexico,0.0
+165,Mexico,Greece,0.0
+166,Norway,Mexico,0.0046399999
+167,Mexico,Norway,0.0
+168,Denmark,Mexico,0.0059930002
+169,Mexico,Denmark,0.0
+170,Ethiopia,Mexico,0.0
+171,Mexico,Ethiopia,0.0
+172,Egypt,Mexico,2e-06
+173,Mexico,Egypt,0.0
+174,Japan,Mexico,0.0
+175,Mexico,Japan,0.0
+176,France,Guatemala,0.0
+177,Guatemala,France,0.0
+178,France,Honduras,0.0
+179,Honduras,France,0.0
+180,France,El Salvador,0.0
+181,El Salvador,France,0.003489
+182,Netherlands,Nicaragua,0.0
+183,Nicaragua,Netherlands,0.0
+184,France,Nicaragua,0.0
+185,Nicaragua,France,0.0
+186,Germany,Nicaragua,0.0
+187,Nicaragua,Germany,0.0
+188,Czechoslovakia,Nicaragua,0.0
+189,Nicaragua,Czechoslovakia,0.0
+190,Yugoslavia,Nicaragua,0.0
+191,Nicaragua,Yugoslavia,0.0
+192,Norway,Nicaragua,0.0
+193,Nicaragua,Norway,0.0
+194,Denmark,Nicaragua,0.0
+195,Nicaragua,Denmark,0.0
+196,Japan,Nicaragua,0.0
+197,Nicaragua,Japan,0.0
+198,Paraguay,Costa Rica,0.0
+199,Costa Rica,Paraguay,0.0
+200,Netherlands,Costa Rica,0.0
+201,Costa Rica,Netherlands,0.0
+202,France,Costa Rica,0.0074880002
+203,Costa Rica,France,1.9999999e-05
+204,Germany,Costa Rica,0.0
+205,Costa Rica,Germany,0.0
+206,Poland,Costa Rica,0.0
+207,Costa Rica,Poland,0.0
+208,Czechoslovakia,Costa Rica,0.0
+209,Costa Rica,Czechoslovakia,0.0
+210,Yugoslavia,Costa Rica,0.0
+211,Costa Rica,Yugoslavia,0.0
+212,Greece,Costa Rica,0.0
+213,Costa Rica,Greece,0.0
+214,Norway,Costa Rica,0.0
+215,Costa Rica,Norway,0.0
+216,Denmark,Costa Rica,0.0
+217,Costa Rica,Denmark,0.0
+218,Egypt,Costa Rica,0.0
+219,Costa Rica,Egypt,0.0
+220,Japan,Costa Rica,0.0
+221,Costa Rica,Japan,0.0
+222,France,Panama,0.0
+223,Panama,France,0.0
+224,Paraguay,Colombia,0.15000001
+225,Colombia,Paraguay,0.0
+226,Netherlands,Colombia,0.0
+227,Colombia,Netherlands,0.0
+228,France,Colombia,0.00043099999
+229,Colombia,France,0.00086700002
+230,Germany,Colombia,0.0
+231,Colombia,Germany,0.0
+232,Poland,Colombia,0.0
+233,Colombia,Poland,0.0
+234,Czechoslovakia,Colombia,0.000161
+235,Colombia,Czechoslovakia,0.0
+236,Albania,Colombia,0.0
+237,Colombia,Albania,0.0
+238,Yugoslavia,Colombia,4e-06
+239,Colombia,Yugoslavia,0.0
+240,Greece,Colombia,0.0
+241,Colombia,Greece,0.0
+242,Norway,Colombia,0.0045790002
+243,Colombia,Norway,0.0
+244,Denmark,Colombia,0.0
+245,Colombia,Denmark,0.0
+246,Egypt,Colombia,0.0
+247,Colombia,Egypt,0.0
+248,Japan,Colombia,0.0
+249,Colombia,Japan,0.0
+250,Paraguay,Venezuela,0.07
+251,Venezuela,Paraguay,0.0
+252,Netherlands,Venezuela,0.039999999
+253,Venezuela,Netherlands,0.0
+254,France,Venezuela,0.36000001
+255,Venezuela,France,2.45
+256,Germany,Venezuela,0.00096899999
+257,Venezuela,Germany,0.0
+258,Poland,Venezuela,0.0
+259,Venezuela,Poland,0.0
+260,Czechoslovakia,Venezuela,0.0
+261,Venezuela,Czechoslovakia,0.0
+262,Norway,Venezuela,0.00090699998
+263,Venezuela,Norway,0.0
+264,Denmark,Venezuela,0.0
+265,Venezuela,Denmark,0.0
+266,Egypt,Venezuela,0.001244
+267,Venezuela,Egypt,0.0
+268,Japan,Venezuela,0.0
+269,Venezuela,Japan,0.0
+270,France,Ecuador,0.0
+271,Ecuador,France,0.0023650001
+272,Paraguay,Peru,0.02
+273,Peru,Paraguay,0.0
+274,Netherlands,Peru,1.1e-05
+275,Peru,Netherlands,0.0
+276,France,Peru,0.001959
+277,Peru,France,0.0099999998
+278,Germany,Peru,0.0
+279,Peru,Germany,0.0
+280,Poland,Peru,0.0
+281,Peru,Poland,0.0
+282,Czechoslovakia,Peru,0.0
+283,Peru,Czechoslovakia,0.0
+284,Yugoslavia,Peru,0.0
+285,Peru,Yugoslavia,0.0
+286,Greece,Peru,0.0
+287,Peru,Greece,0.0
+288,Norway,Peru,0.0
+289,Peru,Norway,0.0
+290,Denmark,Peru,0.0
+291,Peru,Denmark,0.0
+292,Egypt,Peru,0.001468
+293,Peru,Egypt,0.0
+294,Japan,Peru,0.00045200001
+295,Peru,Japan,0.0
+296,Paraguay,Brazil,0.059999999
+297,Brazil,Paraguay,0.0
+298,Netherlands,Brazil,0.02
+299,Brazil,Netherlands,0.0
+300,France,Brazil,0.029999999
+301,Brazil,France,2.9000001
+302,Germany,Brazil,0.0
+303,Brazil,Germany,0.0
+304,Poland,Brazil,0.0
+305,Brazil,Poland,0.0
+306,Czechoslovakia,Brazil,0.0
+307,Brazil,Czechoslovakia,0.0
+308,Yugoslavia,Brazil,0.0
+309,Brazil,Yugoslavia,0.0
+310,Greece,Brazil,0.0
+311,Brazil,Greece,0.0
+312,Norway,Brazil,0.1
+313,Brazil,Norway,0.0
+314,Denmark,Brazil,0.0
+315,Brazil,Denmark,0.0
+316,Egypt,Brazil,0.0
+317,Brazil,Egypt,0.0
+318,Japan,Brazil,0.0
+319,Brazil,Japan,0.0
+320,France,Bolivia,0.0
+321,Bolivia,France,0.0
+322,Argentina,Paraguay,0.0
+323,Paraguay,Argentina,2.74
+324,United Kingdom,Paraguay,0.0
+325,Paraguay,United Kingdom,4.5300002
+326,France,Paraguay,0.0
+327,Paraguay,France,0.25999999
+328,Italy,Paraguay,0.0
+329,Paraguay,Italy,0.0
+330,South Africa,Paraguay,0.0
+331,Paraguay,South Africa,0.0044100001
+332,Australia,Paraguay,0.0
+333,Paraguay,Australia,0.0099999998
+334,New Zealand,Paraguay,0.0
+335,Paraguay,New Zealand,4.5000001e-05
+336,France,Chile,0.0
+337,Chile,France,2.76
+338,United Kingdom,Argentina,29.139999
+339,Argentina,United Kingdom,163.06
+340,Netherlands,Argentina,0.0099999998
+341,Argentina,Netherlands,0.0
+342,France,Argentina,0.12
+343,Argentina,France,24.234455
+344,Germany,Argentina,0.07
+345,Argentina,Germany,0.0
+346,Poland,Argentina,0.0
+347,Argentina,Poland,0.0
+348,Czechoslovakia,Argentina,0.00053600001
+349,Argentina,Czechoslovakia,0.0
+350,Albania,Argentina,0.0
+351,Argentina,Albania,0.0
+352,Yugoslavia,Argentina,8.9000001e-05
+353,Argentina,Yugoslavia,0.0
+354,Greece,Argentina,0.003573
+355,Argentina,Greece,0.0
+356,Norway,Argentina,0.38999999
+357,Argentina,Norway,0.0
+358,Denmark,Argentina,0.0059839999
+359,Argentina,Denmark,0.0
+360,Ethiopia,Argentina,0.0
+361,Argentina,Ethiopia,0.0
+362,Egypt,Argentina,0.0
+363,Argentina,Egypt,0.0
+364,Japan,Argentina,0.00065499998
+365,Argentina,Japan,0.0
+366,France,Uruguay,0.050000001
+367,Uruguay,France,0.059999999
+368,Netherlands,United Kingdom,5.04
+369,United Kingdom,Netherlands,0.0
+370,France,United Kingdom,8.6000004
+371,United Kingdom,France,112.93407
+372,Germany,United Kingdom,8.46
+373,United Kingdom,Germany,0.0
+374,Poland,United Kingdom,0.00052399997
+375,United Kingdom,Poland,0.0
+376,Czechoslovakia,United Kingdom,0.0099999998
+377,United Kingdom,Czechoslovakia,0.0
+378,Albania,United Kingdom,0.0
+379,United Kingdom,Albania,0.0
+380,Yugoslavia,United Kingdom,1.6e-05
+381,United Kingdom,Yugoslavia,0.0
+382,Greece,United Kingdom,0.000214
+383,United Kingdom,Greece,0.0
+384,Norway,United Kingdom,2.1400001
+385,United Kingdom,Norway,0.0
+386,Denmark,United Kingdom,31.32
+387,United Kingdom,Denmark,0.0
+388,Ethiopia,United Kingdom,0.36000001
+389,United Kingdom,Ethiopia,0.0
+390,Egypt,United Kingdom,56.139999
+391,United Kingdom,Egypt,0.0
+392,Japan,United Kingdom,0.0099999998
+393,United Kingdom,Japan,0.0
+394,Netherlands,Ireland,0.0
+395,Ireland,Netherlands,0.0
+396,France,Ireland,0.0
+397,Ireland,France,0.28999999
+398,Germany,Ireland,0.0
+399,Ireland,Germany,0.0
+400,France,Netherlands,0.0
+401,Netherlands,France,4.7800002
+402,Germany,Netherlands,0.0
+403,Netherlands,Germany,0.0
+404,Italy,Netherlands,0.0
+405,Netherlands,Italy,0.0
+406,South Africa,Netherlands,0.0
+407,Netherlands,South Africa,0.002937
+408,Australia,Netherlands,0.0
+409,Netherlands,Australia,0.001439
+410,New Zealand,Netherlands,0.0
+411,Netherlands,New Zealand,1.3e-05
+412,Switzerland,France,43.678234
+413,France,Switzerland,0.0
+414,Spain,France,4.8600001
+415,France,Spain,0.0
+416,Portugal,France,4.4099998
+417,France,Portugal,0.0
+418,Germany,France,37.125134
+419,France,Germany,0.0
+420,Poland,France,0.0042770002
+421,France,Poland,0.0
+422,Hungary,France,0.25
+423,France,Hungary,0.0
+424,Czechoslovakia,France,0.02
+425,France,Czechoslovakia,0.0
+426,Italy,France,2.03
+427,France,Italy,0.0
+428,Albania,France,0.0
+429,France,Albania,0.0
+430,Yugoslavia,France,0.0066430001
+431,France,Yugoslavia,0.0
+432,Greece,France,0.30000001
+433,France,Greece,0.0
+434,Bulgaria,France,0.050000001
+435,France,Bulgaria,0.0
+436,Romania,France,0.85000002
+437,France,Romania,0.0
+438,Russia,France,1.39
+439,France,Russia,0.0
+440,Finland,France,0.31
+441,France,Finland,0.0
+442,Sweden,France,10.748796
+443,France,Sweden,0.0
+444,Norway,France,2.1400001
+445,France,Norway,0.0
+446,Denmark,France,10.579193
+447,France,Denmark,0.0
+448,Iceland,France,0.0
+449,France,Iceland,0.0
+450,South Africa,France,1.5
+451,France,South Africa,0.029999999
+452,Iran,France,0.029999999
+453,France,Iran,0.0
+454,Turkey,France,2.22
+455,France,Turkey,0.0
+456,Iraq,France,2.5699999
+457,France,Iraq,0.0
+458,Egypt,France,29.050379
+459,France,Egypt,0.0
+460,Afghanistan,France,0.0
+461,France,Afghanistan,0.0
+462,China,France,0.47
+463,France,China,0.0
+464,Japan,France,0.029999999
+465,France,Japan,0.0
+466,Thailand,France,0.0
+467,France,Thailand,0.0
+468,Australia,France,17.457003
+469,France,Australia,0.0074769999
+470,New Zealand,France,5.4299998
+471,France,New Zealand,0.00095399999
+472,Italy,Germany,0.0
+473,Germany,Italy,0.0
+474,South Africa,Germany,0.0
+475,Germany,South Africa,0.0091220001
+476,Australia,Germany,0.0
+477,Germany,Australia,0.0099999998
+478,New Zealand,Germany,0.0
+479,Germany,New Zealand,0.00095399999
+480,Italy,Poland,0.0
+481,Poland,Italy,0.0
+482,South Africa,Poland,0.0
+483,Poland,South Africa,0.00016
+484,Australia,Poland,0.0
+485,Poland,Australia,0.001053
+486,New Zealand,Poland,0.0
+487,Poland,New Zealand,0.0
+488,Russia,Hungary,0.5
+489,Hungary,Russia,0.40000001
+490,Italy,Czechoslovakia,0.0
+491,Czechoslovakia,Italy,0.0
+492,South Africa,Czechoslovakia,0.0
+493,Czechoslovakia,South Africa,0.0029130001
+494,Australia,Czechoslovakia,0.0
+495,Czechoslovakia,Australia,0.0
+496,New Zealand,Czechoslovakia,0.0
+497,Czechoslovakia,New Zealand,0.0
+498,Albania,Italy,0.0
+499,Italy,Albania,0.0
+500,Yugoslavia,Italy,0.0
+501,Italy,Yugoslavia,0.0
+502,Greece,Italy,0.0
+503,Italy,Greece,0.0
+504,Norway,Italy,0.0
+505,Italy,Norway,0.0
+506,Denmark,Italy,0.0
+507,Italy,Denmark,0.0
+508,Ethiopia,Italy,0.0
+509,Italy,Ethiopia,0.0
+510,Egypt,Italy,0.0
+511,Italy,Egypt,0.0
+512,Japan,Italy,0.0
+513,Italy,Japan,0.0
+514,Australia,Albania,0.0
+515,Albania,Australia,0.0
+516,New Zealand,Albania,0.0
+517,Albania,New Zealand,0.0
+518,South Africa,Yugoslavia,0.0
+519,Yugoslavia,South Africa,0.0
+520,Australia,Yugoslavia,0.0
+521,Yugoslavia,Australia,3.2e-05
+522,New Zealand,Yugoslavia,0.0
+523,Yugoslavia,New Zealand,0.0
+524,South Africa,Greece,0.0
+525,Greece,South Africa,0.001756
+526,Australia,Greece,0.0
+527,Greece,Australia,0.0
+528,New Zealand,Greece,0.0
+529,Greece,New Zealand,0.00339
+530,Romania,Bulgaria,3.9000001
+531,Bulgaria,Romania,2.5999999
+532,South Africa,Norway,0.0
+533,Norway,South Africa,0.02
+534,Australia,Norway,0.0
+535,Norway,Australia,0.000161
+536,New Zealand,Norway,0.0
+537,Norway,New Zealand,0.0
+538,South Africa,Denmark,0.0
+539,Denmark,South Africa,0.0035039999
+540,Australia,Denmark,0.0
+541,Denmark,Australia,0.0
+542,New Zealand,Denmark,0.0
+543,Denmark,New Zealand,0.0
+544,South Africa,Ethiopia,0.0
+545,Ethiopia,South Africa,5.9999998e-05
+546,Australia,Ethiopia,0.0
+547,Ethiopia,Australia,0.00036899999
+548,New Zealand,Ethiopia,0.0
+549,Ethiopia,New Zealand,0.0
+550,Egypt,South Africa,0.92000002
+551,South Africa,Egypt,0.0
+552,Japan,South Africa,0.0099999998
+553,South Africa,Japan,0.0
+554,Australia,Egypt,0.0
+555,Egypt,Australia,2.75
+556,New Zealand,Egypt,0.0
+557,Egypt,New Zealand,0.079999998
+558,Japan,China,87.199997
+559,China,Japan,200.17999
+560,Australia,Japan,0.0
+561,Japan,Australia,1.6e-05
+562,New Zealand,Japan,0.0
+563,Japan,New Zealand,0.001954

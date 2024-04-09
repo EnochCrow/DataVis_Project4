@@ -17,7 +17,11 @@ ww2_trade_df = ww2_trade_df[ww2_trade_df['flow2'] != -9]
 ww2_trade_df = ww2_trade_df.reset_index(drop=True)
 ww2_trade_df.to_csv(temp_file_path)
 
+starting_nodes_json = {"nodes": {"id": "N/A", "group": 3}}
+
 def filter_data(in_filepath, chosen_year):
+    
+    global starting_nodes_json
     # Read the CSV data into a string
     # print(in_filepath)
     
@@ -112,7 +116,11 @@ def filter_data(in_filepath, chosen_year):
 
     # Remove nodes and links of the specified group value
     filtered_nodes, filtered_links = remove_group(nodes, links, group_to_remove)
-    nodes_json = {"nodes": filtered_nodes}
+    if (chosen_year == 1939):
+        nodes_json = {"nodes": filtered_nodes}
+        starting_nodes_json = nodes_json
+    else:
+        nodes_json = starting_nodes_json
     links_json = {"links": filtered_links}
 
     # Convert to JSON string
@@ -133,7 +141,7 @@ def filter_data(in_filepath, chosen_year):
     print("Final JSON exported to",out_json)
 
 us_export_data = pd.DataFrame()
-for i in range(1939, 1945):
+for i in range(1939, 1946):
     filter_data(temp_file_path, i)
 
 #us_export_data.to_csv('us_export_data_ww2.csv')
