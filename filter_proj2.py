@@ -57,8 +57,8 @@ def filter_data(in_filepath, chosen_year):
         new_df = pd.concat([new_df, row1_df], ignore_index=True)
         new_df = pd.concat([new_df, row2_df], ignore_index=True)
 
-    source_nations = ['United States of America']
-    dest_nations = ['Germany', 'Japan']
+    # source_nations = ['United States of America']
+    # dest_nations = ['Germany', 'Japan']
     new_df = new_df.drop_duplicates()
     new_df.to_csv(final_out)
 
@@ -100,8 +100,8 @@ def filter_data(in_filepath, chosen_year):
         
         # Filter out links where both source and target nodes belong to the specified group value
         filtered_links = [link for link in links 
-                        if link["source"] not in [node["id"] for node in filtered_nodes] 
-                        or link["target"] not in [node["id"] for node in filtered_nodes]]
+                        if link["source"] in [node["id"] for node in filtered_nodes] 
+                        and link["target"] in [node["id"] for node in filtered_nodes]]
         
         return filtered_nodes, filtered_links
 
