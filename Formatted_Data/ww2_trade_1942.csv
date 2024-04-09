@@ -1,0 +1,172 @@
+,year,importer1,importer2,flow1,flow2
+0,1942,United States of America,Cuba,161.03999,133.23
+1,1942,United States of America,Haiti,6.0799999,5.1500001
+2,1942,United States of America,Dominican Republic,8.4099998,9.2600002
+3,1942,United States of America,Paraguay,3.03,1.65
+4,1942,United States of America,France,0.77999997,125.54
+5,1942,United States of America,Spain,7.8200002,5.21
+6,1942,United States of America,Germany,0.47,0.02
+7,1942,United States of America,Ethiopia,1.0700001,0.0
+8,1942,United States of America,Egypt,18.110001,583.91998
+9,1942,United States of America,Japan,0.19,0.1
+10,1942,Canada,Cuba,5.2199998,0.0
+11,1942,Canada,Haiti,0.19,0.0
+12,1942,Canada,Dominican Republic,0.54000002,0.0
+13,1942,Canada,Paraguay,0.49000001,0.0
+14,1942,Canada,France,0.0099999998,8.4200001
+15,1942,Canada,Germany,0.001824,0.0
+16,1942,Canada,Ethiopia,0.0,0.0
+17,1942,Canada,Egypt,0.93000001,0.0
+18,1942,Canada,Japan,0.92000002,0.0
+19,1942,Cuba,Mexico,0.0,0.039999999
+20,1942,Cuba,Guatemala,0.0,0.0099999998
+21,1942,Cuba,Nicaragua,0.0067509999,0.0035349999
+22,1942,Cuba,Costa Rica,3.4000001e-05,0.0087609999
+23,1942,Cuba,Colombia,0.0,0.17
+24,1942,Cuba,Venezuela,0.0,0.079999998
+25,1942,Cuba,Peru,0.0,0.14
+26,1942,Cuba,Brazil,0.0,0.02
+27,1942,Cuba,Argentina,0.0,0.41
+28,1942,Cuba,United Kingdom,0.0,7.6300001
+29,1942,Cuba,Ireland,0.0,0.0
+30,1942,Cuba,France,0.0,0.23999999
+31,1942,Cuba,Italy,0.0,0.0
+32,1942,Cuba,South Africa,0.0,0.079999998
+33,1942,Cuba,Australia,0.0,0.00281
+34,1942,Cuba,New Zealand,0.0,0.000336
+35,1942,Haiti,Mexico,0.0,0.0031059999
+36,1942,Haiti,Guatemala,0.0,0.0
+37,1942,Haiti,Costa Rica,0.0,3.4000001e-05
+38,1942,Haiti,Colombia,0.0,0.61000001
+39,1942,Haiti,Venezuela,0.0,0.0
+40,1942,Haiti,Peru,0.0,0.0
+41,1942,Haiti,Brazil,0.0,0.0
+42,1942,Haiti,Argentina,0.0,9.9999997e-06
+43,1942,Haiti,United Kingdom,0.0,0.23
+44,1942,Haiti,France,0.0,0.050000001
+45,1942,Haiti,Italy,0.0,0.0
+46,1942,Haiti,South Africa,0.0,0.0
+47,1942,Haiti,Australia,0.0,0.000145
+48,1942,Haiti,New Zealand,0.0,0.0
+49,1942,Dominican Republic,Mexico,0.0,0.27000001
+50,1942,Dominican Republic,Guatemala,0.0,0.0
+51,1942,Dominican Republic,Nicaragua,0.0,0.0
+52,1942,Dominican Republic,Costa Rica,0.0,1.9999999e-05
+53,1942,Dominican Republic,Colombia,0.0,9.0000003e-06
+54,1942,Dominican Republic,Venezuela,0.0,0.0059850002
+55,1942,Dominican Republic,Peru,0.0,0.0
+56,1942,Dominican Republic,Argentina,0.0,1.1e-05
+57,1942,Dominican Republic,United Kingdom,0.0,9.1199999
+58,1942,Dominican Republic,France,0.0,0.059999999
+59,1942,Dominican Republic,Italy,0.0,0.0
+60,1942,Dominican Republic,South Africa,0.0,0.0
+61,1942,Dominican Republic,New Zealand,0.0,1.3e-05
+62,1942,Mexico,Paraguay,0.00052200002,0.0
+63,1942,Mexico,France,0.0067070001,0.30000001
+64,1942,Mexico,Germany,0.0080089998,0.0
+65,1942,Mexico,Ethiopia,0.0,0.0
+66,1942,Mexico,Egypt,0.029999999,0.0
+67,1942,Mexico,Japan,0.20999999,0.0
+68,1942,Guatemala,Paraguay,2.4000001e-05,0.0
+69,1942,Guatemala,France,0.00339,0.0
+70,1942,Guatemala,Germany,0.001745,0.0
+71,1942,Guatemala,Egypt,0.0,0.0
+72,1942,Guatemala,Japan,0.0025249999,0.0
+73,1942,Honduras,France,0.0,0.0
+74,1942,El Salvador,France,0.0,0.029999999
+75,1942,Nicaragua,France,0.0,0.27000001
+76,1942,Nicaragua,Germany,0.007338,0.0
+77,1942,Nicaragua,Japan,0.02,0.0
+78,1942,Costa Rica,Paraguay,0.0,0.0
+79,1942,Costa Rica,France,0.003089,0.14
+80,1942,Costa Rica,Germany,0.003357,0.0
+81,1942,Costa Rica,Egypt,0.0,0.0
+82,1942,Costa Rica,Japan,0.0059819999,0.0
+83,1942,Panama,France,0.0,0.0
+84,1942,Colombia,Paraguay,0.23999999,0.0
+85,1942,Colombia,France,0.00051099999,0.0035369999
+86,1942,Colombia,Germany,0.00025300001,0.0
+87,1942,Colombia,Egypt,2e-06,0.0
+88,1942,Colombia,Japan,0.0041100001,0.0
+89,1942,Venezuela,Paraguay,4.9999999e-05,0.0
+90,1942,Venezuela,France,0.039999999,9.8599997
+91,1942,Venezuela,Germany,0.0060640001,0.0
+92,1942,Venezuela,Egypt,0.00031500001,0.0
+93,1942,Venezuela,Japan,0.0099999998,0.0
+94,1942,Ecuador,France,0.0,0.12
+95,1942,Peru,Paraguay,0.001596,0.0
+96,1942,Peru,France,0.0099999998,0.0099999998
+97,1942,Peru,Germany,0.00038400001,0.0
+98,1942,Peru,Egypt,0.001172,0.0
+99,1942,Peru,Japan,1.16,0.0
+100,1942,Brazil,Paraguay,0.039999999,0.0
+101,1942,Brazil,France,0.02,5.0300002
+102,1942,Brazil,Germany,0.55000001,0.0
+103,1942,Brazil,Egypt,0.0,0.0
+104,1942,Brazil,Japan,0.0,0.0
+105,1942,Bolivia,France,0.0,0.28999999
+106,1942,Paraguay,Argentina,0.0,1.88
+107,1942,Paraguay,United Kingdom,0.0,1.71
+108,1942,Paraguay,France,0.0,0.25
+109,1942,Paraguay,Italy,0.0,0.0
+110,1942,Paraguay,South Africa,0.0,0.001926
+111,1942,Paraguay,Australia,0.0,0.0077260002
+112,1942,Paraguay,New Zealand,0.0,0.00027799999
+113,1942,Chile,France,0.0,0.61000001
+114,1942,Argentina,United Kingdom,50.349998,142.08
+115,1942,Argentina,France,0.07,5.0
+116,1942,Argentina,Germany,1.12,0.0
+117,1942,Argentina,Ethiopia,0.0,0.0
+118,1942,Argentina,Egypt,0.00018,0.0
+119,1942,Argentina,Japan,0.37,0.0
+120,1942,Uruguay,France,0.0099999998,12.63
+121,1942,United Kingdom,France,0.23999999,11.87
+122,1942,United Kingdom,Germany,0.15000001,0.0
+123,1942,United Kingdom,Ethiopia,0.039999999,0.0
+124,1942,United Kingdom,Egypt,63.119999,0.0
+125,1942,United Kingdom,Japan,0.17,0.0
+126,1942,Ireland,France,0.0,0.00088399998
+127,1942,Ireland,Germany,0.0,0.0
+128,1942,Ireland,Egypt,0.0,0.0
+129,1942,Ireland,Japan,0.0,0.0
+130,1942,France,Switzerland,598.54999,0.0
+131,1942,France,Spain,454.98001,0.0
+132,1942,France,Portugal,129.7,0.0
+133,1942,France,Germany,6648.3999,0.0
+134,1942,France,Hungary,265.54999,0.0
+135,1942,France,Italy,375.20999,24.52
+136,1942,France,Bulgaria,110.71,0.0
+137,1942,France,Romania,271.63,0.0
+138,1942,France,Russia,7.9699998,0.0
+139,1942,France,Finland,144.00999,0.0
+140,1942,France,Sweden,214.02,0.0
+141,1942,France,South Africa,2.75,0.029999999
+142,1942,France,Iran,4.8200002,0.0
+143,1942,France,Turkey,81.269997,0.0
+144,1942,France,Iraq,0.41,0.0
+145,1942,France,Egypt,6.7800002,0.0
+146,1942,France,Afghanistan,0.02,0.0
+147,1942,France,China,3.1900001,0.0
+148,1942,France,Japan,0.62,0.0
+149,1942,France,Thailand,0.31,0.0
+150,1942,France,Australia,0.31999999,0.0099999998
+151,1942,France,New Zealand,0.059999999,0.0056810002
+152,1942,Germany,Italy,0.0,1722.33
+153,1942,Germany,South Africa,0.0,0.0099999998
+154,1942,Germany,Australia,0.0,0.079999998
+155,1942,Germany,New Zealand,0.0,0.0099999998
+156,1942,Hungary,Russia,0.1,0.60000002
+157,1942,Italy,Ethiopia,0.0,0.0
+158,1942,Italy,Egypt,0.0,0.0
+159,1942,Italy,Japan,0.0,0.0
+160,1942,Bulgaria,Romania,6.9000001,4.1999998
+161,1942,Ethiopia,South Africa,0.0,0.0
+162,1942,Ethiopia,Australia,0.0,4.8000002e-05
+163,1942,Ethiopia,New Zealand,0.0,0.0
+164,1942,South Africa,Egypt,0.49000001,0.0
+165,1942,South Africa,Japan,0.18000001,0.0
+166,1942,Egypt,Australia,0.0,1.49
+167,1942,Egypt,New Zealand,0.0,0.23
+168,1942,China,Japan,354.89001,286.67999
+169,1942,Japan,Australia,0.0,1.5599999
+170,1942,Japan,New Zealand,0.0,0.029999999

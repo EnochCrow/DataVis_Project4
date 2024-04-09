@@ -1,0 +1,411 @@
+,year,importer1,importer2,flow1,flow2
+0,1940,United States of America,Cuba,105.42,84.690002
+1,1940,United States of America,Haiti,3.6099999,4.6100001
+2,1940,United States of America,Dominican Republic,5.3600001,6.9899998
+3,1940,United States of America,Paraguay,1.88,1.23
+4,1940,United States of America,Netherlands,8.54,34.02
+5,1940,United States of America,France,36.560001,176.72
+6,1940,United States of America,Spain,4.02,7.4400001
+7,1940,United States of America,Germany,5.4099998,6.3299999
+8,1940,United States of America,Yugoslavia,1.05,2.98
+9,1940,United States of America,Greece,12.93,9.7600002
+10,1940,United States of America,Norway,7.9299998,24.549999
+11,1940,United States of America,Denmark,0.92000002,17.98
+12,1940,United States of America,Egypt,7.2800002,20.559999
+13,1940,United States of America,Japan,158.37,290.73999
+14,1940,Canada,Cuba,1.21,0.0
+15,1940,Canada,Haiti,0.19,0.0
+16,1940,Canada,Dominican Republic,3.22,0.0
+17,1940,Canada,Paraguay,0.050000001,0.0
+18,1940,Canada,Netherlands,0.99000001,0.0
+19,1940,Canada,France,4.0,11.96
+20,1940,Canada,Germany,0.28999999,0.0
+21,1940,Canada,Yugoslavia,0.050000001,0.0
+22,1940,Canada,Greece,0.1,0.0
+23,1940,Canada,Norway,0.22,4.8400002
+24,1940,Canada,Denmark,0.050000001,0.20999999
+25,1940,Canada,Egypt,0.82999998,0.0
+26,1940,Canada,Japan,5.0100002,17.309999
+27,1940,Cuba,Mexico,0.0,0.029999999
+28,1940,Cuba,Guatemala,0.0,0.0099999998
+29,1940,Cuba,Nicaragua,0.0089100003,0.0
+30,1940,Cuba,Costa Rica,0.000224,0.27000001
+31,1940,Cuba,Colombia,0.0,0.02
+32,1940,Cuba,Venezuela,0.0,0.22
+33,1940,Cuba,Peru,0.0,0.11
+34,1940,Cuba,Brazil,0.0,0.0099999998
+35,1940,Cuba,Chile,0.0,0.059999999
+36,1940,Cuba,Argentina,0.0,0.36000001
+37,1940,Cuba,United Kingdom,0.0,16.93
+38,1940,Cuba,Ireland,0.0,0.0
+39,1940,Cuba,France,0.0,1.54
+40,1940,Cuba,Switzerland,0.0,1.79
+41,1940,Cuba,Spain,0.0,2.1500001
+42,1940,Cuba,Portugal,0.0,0.029999999
+43,1940,Cuba,Germany,0.0,0.95999998
+44,1940,Cuba,Italy,0.0,0.50999999
+45,1940,Cuba,Sweden,0.0,0.41999999
+46,1940,Cuba,Norway,0.0,2.4300001
+47,1940,Cuba,Denmark,0.0,0.02
+48,1940,Cuba,South Africa,0.0,0.059999999
+49,1940,Cuba,China,0.0,0.001434
+50,1940,Cuba,Japan,0.0,0.001875
+51,1940,Cuba,Australia,0.0,0.039999999
+52,1940,Cuba,New Zealand,0.0,0.00095299998
+53,1940,Haiti,Mexico,0.0,1e-06
+54,1940,Haiti,Guatemala,0.0,0.0
+55,1940,Haiti,Costa Rica,0.0,0.0
+56,1940,Haiti,Colombia,0.0,0.000271
+57,1940,Haiti,Venezuela,0.0,0.0012150001
+58,1940,Haiti,Peru,0.0,0.000164
+59,1940,Haiti,Brazil,0.0,0.0
+60,1940,Haiti,Chile,0.0,7.0000001e-06
+61,1940,Haiti,Argentina,0.0,0.002873
+62,1940,Haiti,United Kingdom,0.0,2.24
+63,1940,Haiti,France,0.0,0.52999997
+64,1940,Haiti,Switzerland,0.0,0.22
+65,1940,Haiti,Spain,0.0,0.000214
+66,1940,Haiti,Portugal,0.0,0.0
+67,1940,Haiti,Germany,0.0,0.13
+68,1940,Haiti,Italy,0.0,0.029999999
+69,1940,Haiti,Norway,0.0,0.039999999
+70,1940,Haiti,South Africa,0.0,0.0
+71,1940,Haiti,Japan,0.0,0.0
+72,1940,Haiti,Australia,0.0,0.000336
+73,1940,Haiti,New Zealand,0.0,0.0
+74,1940,Dominican Republic,Mexico,0.0,0.009261
+75,1940,Dominican Republic,Guatemala,0.0,0.0
+76,1940,Dominican Republic,Nicaragua,0.0,0.0
+77,1940,Dominican Republic,Costa Rica,4.9999999e-06,0.0
+78,1940,Dominican Republic,Colombia,0.0,0.0099999998
+79,1940,Dominican Republic,Venezuela,0.0,0.002383
+80,1940,Dominican Republic,Peru,0.0,0.0
+81,1940,Dominican Republic,Chile,0.0,4.2e-05
+82,1940,Dominican Republic,Argentina,0.0,0.00080500002
+83,1940,Dominican Republic,United Kingdom,0.0,7.8800001
+84,1940,Dominican Republic,France,0.0,1.6799999
+85,1940,Dominican Republic,Spain,0.0,0.0079549998
+86,1940,Dominican Republic,Portugal,0.0,0.0053699999
+87,1940,Dominican Republic,Germany,0.0,1.03
+88,1940,Dominican Republic,Italy,0.0,0.001865
+89,1940,Dominican Republic,Norway,0.0,0.0056770002
+90,1940,Dominican Republic,South Africa,0.0,0.0
+91,1940,Dominican Republic,Japan,0.0,0.0
+92,1940,Dominican Republic,New Zealand,0.0,0.000325
+93,1940,Mexico,Paraguay,1.1e-05,0.0
+94,1940,Mexico,Netherlands,0.54000002,0.0
+95,1940,Mexico,France,2.46,0.81999999
+96,1940,Mexico,Germany,1.5599999,1.62
+97,1940,Mexico,Yugoslavia,1.4e-05,0.0
+98,1940,Mexico,Greece,0.0099809999,0.0
+99,1940,Mexico,Norway,0.19,0.0
+100,1940,Mexico,Denmark,0.059999999,0.0099999998
+101,1940,Mexico,Egypt,0.07,0.0
+102,1940,Mexico,Japan,3.24,3.8299999
+103,1940,Guatemala,Paraguay,0.0,0.0
+104,1940,Guatemala,Netherlands,0.079999998,0.0
+105,1940,Guatemala,France,0.13,0.02
+106,1940,Guatemala,Germany,0.36000001,0.63999999
+107,1940,Guatemala,Yugoslavia,0.0062000002,0.0
+108,1940,Guatemala,Greece,0.001095,0.0
+109,1940,Guatemala,Norway,0.02,0.13
+110,1940,Guatemala,Denmark,0.0052519999,0.0
+111,1940,Guatemala,Egypt,2.4000001e-05,0.0
+112,1940,Guatemala,Japan,0.090000004,0.0
+113,1940,Honduras,France,0.0,0.00012500001
+114,1940,Honduras,Germany,0.0,0.12
+115,1940,Honduras,Norway,0.0,0.0049959999
+116,1940,Honduras,Japan,0.0,0.0
+117,1940,El Salvador,France,0.0,0.050000001
+118,1940,El Salvador,Germany,0.0,0.37
+119,1940,El Salvador,Norway,0.0,0.81999999
+120,1940,El Salvador,Japan,0.0,0.0
+121,1940,Nicaragua,Netherlands,0.0,0.0099999998
+122,1940,Nicaragua,France,0.1,0.25999999
+123,1940,Nicaragua,Germany,0.050000001,0.34999999
+124,1940,Nicaragua,Yugoslavia,0.0,0.0
+125,1940,Nicaragua,Norway,0.0020010001,0.0
+126,1940,Nicaragua,Denmark,0.002073,0.0
+127,1940,Nicaragua,Japan,0.16,0.0
+128,1940,Costa Rica,Paraguay,7.2000003e-05,0.0
+129,1940,Costa Rica,Netherlands,0.07,0.07
+130,1940,Costa Rica,France,0.11,0.0099999998
+131,1940,Costa Rica,Germany,0.58999997,0.63999999
+132,1940,Costa Rica,Yugoslavia,0.0067599998,0.0099999998
+133,1940,Costa Rica,Greece,4.8000002e-05,0.0
+134,1940,Costa Rica,Norway,0.1,0.11
+135,1940,Costa Rica,Denmark,0.003185,0.0099999998
+136,1940,Costa Rica,Egypt,1.6e-05,0.0
+137,1940,Costa Rica,Japan,0.41,0.0
+138,1940,Panama,France,0.0,0.0
+139,1940,Panama,Germany,0.0,0.029999999
+140,1940,Panama,Norway,0.0,0.0
+141,1940,Panama,Japan,0.0,0.0
+142,1940,Colombia,Paraguay,0.0,0.0
+143,1940,Colombia,Netherlands,0.49000001,0.0
+144,1940,Colombia,France,1.61,6.6599998
+145,1940,Colombia,Germany,0.52999997,2.8599999
+146,1940,Colombia,Yugoslavia,0.14,0.0
+147,1940,Colombia,Greece,0.002355,0.0
+148,1940,Colombia,Norway,0.12,0.41
+149,1940,Colombia,Denmark,0.12,0.059999999
+150,1940,Colombia,Egypt,4e-06,0.0
+151,1940,Colombia,Japan,0.23,0.0
+152,1940,Venezuela,Paraguay,2.6e-05,0.0
+153,1940,Venezuela,Netherlands,0.58999997,0.0
+154,1940,Venezuela,France,1.97,9.2200003
+155,1940,Venezuela,Germany,0.34999999,1.9299999
+156,1940,Venezuela,Norway,0.02,0.0099999998
+157,1940,Venezuela,Denmark,0.37,0.059999999
+158,1940,Venezuela,Egypt,0.001448,0.0
+159,1940,Venezuela,Japan,3.1199999,0.0
+160,1940,Ecuador,France,0.0,0.60000002
+161,1940,Ecuador,Germany,0.0,0.38999999
+162,1940,Ecuador,Norway,0.0,0.02
+163,1940,Ecuador,Japan,0.0,0.0
+164,1940,Peru,Paraguay,2.1e-05,0.0
+165,1940,Peru,Netherlands,0.47999999,0.0
+166,1940,Peru,France,0.91000003,3.4400001
+167,1940,Peru,Germany,0.72000003,0.56
+168,1940,Peru,Yugoslavia,0.0099999998,0.0
+169,1940,Peru,Greece,0.02,0.0
+170,1940,Peru,Norway,0.090000004,0.050000001
+171,1940,Peru,Denmark,0.02,0.38999999
+172,1940,Peru,Egypt,0.0019950001,0.0
+173,1940,Peru,Japan,3.0,0.0
+174,1940,Brazil,Paraguay,0.039999999,0.0
+175,1940,Brazil,Netherlands,1.29,0.0
+176,1940,Brazil,France,5.0,20.01
+177,1940,Brazil,Germany,5.5700002,15.1
+178,1940,Brazil,Yugoslavia,0.039999999,0.0
+179,1940,Brazil,Greece,0.050000001,0.0
+180,1940,Brazil,Norway,0.92000002,1.05
+181,1940,Brazil,Denmark,0.23,3.0
+182,1940,Brazil,Egypt,0.0099999998,0.0
+183,1940,Brazil,Japan,7.3499999,15.95
+184,1940,Bolivia,France,0.0,0.079999998
+185,1940,Bolivia,Germany,0.0,0.52999997
+186,1940,Bolivia,Norway,0.0,0.000227
+187,1940,Bolivia,Japan,0.0,0.0
+188,1940,Paraguay,Chile,0.0,2.9000001e-05
+189,1940,Paraguay,Argentina,0.0,1.9400001
+190,1940,Paraguay,United Kingdom,0.0,1.8
+191,1940,Paraguay,France,0.0,0.2
+192,1940,Paraguay,Switzerland,0.0,0.13
+193,1940,Paraguay,Spain,0.0,0.0
+194,1940,Paraguay,Portugal,0.0,0.02
+195,1940,Paraguay,Germany,0.0,0.18000001
+196,1940,Paraguay,Italy,0.0,0.059999999
+197,1940,Paraguay,Norway,0.0,0.0
+198,1940,Paraguay,South Africa,0.0,0.000788
+199,1940,Paraguay,Japan,0.0,0.0
+200,1940,Paraguay,Australia,0.0,0.0044189999
+201,1940,Paraguay,New Zealand,0.0,0.00085800001
+202,1940,Chile,Netherlands,0.13,0.0
+203,1940,Chile,France,0.27000001,22.02
+204,1940,Chile,Germany,0.92000002,0.74000001
+205,1940,Chile,Yugoslavia,0.000153,0.0
+206,1940,Chile,Greece,0.00312,0.0
+207,1940,Chile,Norway,0.0099999998,0.1
+208,1940,Chile,Denmark,0.0099999998,0.11
+209,1940,Chile,Egypt,5.3e-05,0.0
+210,1940,Chile,Japan,1.4400001,11.03
+211,1940,Argentina,United Kingdom,74.370003,124.71
+212,1940,Argentina,Netherlands,4.0799999,0.0
+213,1940,Argentina,France,7.5282874,32.169998
+214,1940,Argentina,Germany,2.3299999,4.1300001
+215,1940,Argentina,Yugoslavia,1.04,0.0
+216,1940,Argentina,Greece,1.61,0.0
+217,1940,Argentina,Norway,2.22,5.1900001
+218,1940,Argentina,Denmark,0.18000001,6.1199999
+219,1940,Argentina,Egypt,0.00171,0.0
+220,1940,Argentina,Japan,5.2471509,9.8699999
+221,1940,Uruguay,France,1.02,4.0999999
+222,1940,Uruguay,Germany,0.50999999,0.13
+223,1940,Uruguay,Norway,0.28,0.07
+224,1940,Uruguay,Denmark,0.039999999,0.0
+225,1940,Uruguay,Japan,1.13,1.9299999
+226,1940,United Kingdom,Netherlands,45.32,0.0
+227,1940,United Kingdom,France,56.259998,76.129997
+228,1940,United Kingdom,Germany,0.090000004,0.0
+229,1940,United Kingdom,Yugoslavia,5.4400001,0.0
+230,1940,United Kingdom,Greece,5.48,0.0
+231,1940,United Kingdom,Norway,25.01,22.23
+232,1940,United Kingdom,Denmark,43.669998,29.01
+233,1940,United Kingdom,Egypt,51.27,0.0
+234,1940,United Kingdom,Japan,24.459999,2.5899999
+235,1940,Ireland,Netherlands,0.0,0.0
+236,1940,Ireland,France,0.0,0.47999999
+237,1940,Ireland,Germany,0.0,0.050000001
+238,1940,Ireland,Yugoslavia,0.0,0.0
+239,1940,Ireland,Greece,0.0,0.0
+240,1940,Ireland,Norway,0.0,0.050000001
+241,1940,Ireland,Denmark,0.0,0.0099999998
+242,1940,Ireland,Egypt,0.0,0.0
+243,1940,Ireland,Japan,0.0,0.0
+244,1940,Netherlands,France,0.0,8.4799995
+245,1940,Netherlands,Switzerland,0.0,7.5700002
+246,1940,Netherlands,Spain,0.0,0.44
+247,1940,Netherlands,Portugal,0.0,0.95999998
+248,1940,Netherlands,Germany,0.0,162.63
+249,1940,Netherlands,Hungary,0.0,0.0
+250,1940,Netherlands,Italy,0.0,4.6500001
+251,1940,Netherlands,Yugoslavia,0.0,0.0
+252,1940,Netherlands,Greece,0.0,0.0
+253,1940,Netherlands,Romania,0.0,0.0
+254,1940,Netherlands,Sweden,0.0,9.0200005
+255,1940,Netherlands,Norway,0.0,2.8599999
+256,1940,Netherlands,Denmark,0.0,3.6300001
+257,1940,Netherlands,South Africa,0.0,2.0799999
+258,1940,Netherlands,China,0.0,0.20999999
+259,1940,Netherlands,Japan,0.0,0.64999998
+260,1940,Netherlands,Australia,0.0,2.75
+261,1940,Netherlands,New Zealand,0.0,0.31999999
+262,1940,France,Switzerland,25.700001,31.49
+263,1940,France,Spain,8.9300003,1.89
+264,1940,France,Portugal,6.25,3.72
+265,1940,France,Germany,2.0599999,0.0
+266,1940,France,Hungary,3.6099999,0.0
+267,1940,France,Italy,17.08,6.29
+268,1940,France,Yugoslavia,6.73,0.0
+269,1940,France,Greece,2.1500001,0.0
+270,1940,France,Bulgaria,0.5,0.0
+271,1940,France,Romania,5.6399999,0.0
+272,1940,France,Russia,1.5599999,0.0
+273,1940,France,Finland,0.40000001,0.0
+274,1940,France,Sweden,7.2399998,5.8400002
+275,1940,France,Norway,3.8399999,3.24
+276,1940,France,Denmark,0.68000001,1.03
+277,1940,France,South Africa,5.5300002,3.4400001
+278,1940,France,Iran,1.87,0.0
+279,1940,France,Turkey,6.0500002,0.0
+280,1940,France,Iraq,22.02,0.0
+281,1940,France,Egypt,21.610001,0.0
+282,1940,France,Afghanistan,0.13,0.0
+283,1940,France,China,4.0599999,0.46000001
+284,1940,France,Japan,6.7399998,2.8900001
+285,1940,France,Thailand,0.059999999,0.0
+286,1940,France,Australia,27.16,3.3599999
+287,1940,France,New Zealand,6.1399999,0.49000001
+288,1940,Switzerland,Germany,93.260002,66.449997
+289,1940,Switzerland,Yugoslavia,8.5200005,0.0
+290,1940,Switzerland,Greece,0.88,0.0
+291,1940,Switzerland,Norway,1.22,1.5
+292,1940,Switzerland,Denmark,4.8699999,3.52
+293,1940,Switzerland,Egypt,2.4400001,0.0
+294,1940,Switzerland,Japan,2.29,1.98
+295,1940,Spain,Germany,2.23,7.98
+296,1940,Spain,Yugoslavia,0.40000001,0.0
+297,1940,Spain,Greece,0.0099999998,0.0
+298,1940,Spain,Norway,0.25999999,1.33
+299,1940,Spain,Denmark,0.059999999,0.17
+300,1940,Spain,Egypt,0.99000001,0.0
+301,1940,Spain,Japan,0.050000001,0.0
+302,1940,Portugal,Germany,1.45,1.71
+303,1940,Portugal,Yugoslavia,0.81999999,0.0
+304,1940,Portugal,Greece,0.0099999998,0.0
+305,1940,Portugal,Norway,0.97000003,0.79000002
+306,1940,Portugal,Denmark,0.66000003,0.46000001
+307,1940,Portugal,Egypt,0.72000003,0.0
+308,1940,Portugal,Japan,0.41999999,0.0
+309,1940,Germany,Hungary,82.940002,0.0
+310,1940,Germany,Italy,203.27,258.78
+311,1940,Germany,Yugoslavia,95.93,0.0
+312,1940,Germany,Greece,37.220001,0.0
+313,1940,Germany,Bulgaria,70.769997,0.0
+314,1940,Germany,Romania,170.91,0.0
+315,1940,Germany,Russia,156.34,0.0
+316,1940,Germany,Finland,31.68,0.0
+317,1940,Germany,Sweden,138.46001,183.05
+318,1940,Germany,Norway,56.759998,77.139999
+319,1940,Germany,Denmark,197.91,148.60001
+320,1940,Germany,Liberia,0.079999998,0.0
+321,1940,Germany,South Africa,0.0,0.37
+322,1940,Germany,Iran,24.110001,0.0
+323,1940,Germany,Turkey,20.440001,0.0
+324,1940,Germany,Iraq,0.0,0.0
+325,1940,Germany,Egypt,0.0,0.0
+326,1940,Germany,Afghanistan,0.2,0.0
+327,1940,Germany,China,6.6700001,3.3
+328,1940,Germany,Japan,10.68,19.440001
+329,1940,Germany,Thailand,1.23,0.0
+330,1940,Germany,Australia,0.0,3.96
+331,1940,Germany,New Zealand,0.0,0.15000001
+332,1940,Hungary,Yugoslavia,0.0,0.0
+333,1940,Hungary,Greece,0.0,0.0
+334,1940,Hungary,Russia,0.30000001,0.1
+335,1940,Hungary,Norway,0.0,0.37
+336,1940,Hungary,Denmark,0.0,0.58999997
+337,1940,Italy,Yugoslavia,22.620001,0.0
+338,1940,Italy,Greece,5.8800001,0.0
+339,1940,Italy,Norway,3.8599999,3.97
+340,1940,Italy,Denmark,3.0999999,4.1900001
+341,1940,Italy,Egypt,5.75,0.0
+342,1940,Italy,Japan,1.04,4.4899998
+343,1940,Yugoslavia,Greece,0.0,0.0
+344,1940,Yugoslavia,Romania,0.0,0.0
+345,1940,Yugoslavia,Sweden,0.0,1.9
+346,1940,Yugoslavia,Norway,0.0,0.22
+347,1940,Yugoslavia,Denmark,0.0,0.0
+348,1940,Yugoslavia,South Africa,0.0,0.11
+349,1940,Yugoslavia,China,0.0,0.0099999998
+350,1940,Yugoslavia,Australia,0.0,0.12
+351,1940,Yugoslavia,New Zealand,0.0,0.0097000003
+352,1940,Greece,Romania,0.0,0.0
+353,1940,Greece,Sweden,0.0,1.41
+354,1940,Greece,Norway,0.0,0.25
+355,1940,Greece,Denmark,0.0,0.0
+356,1940,Greece,South Africa,0.0,0.050000001
+357,1940,Greece,China,0.0,0.0070119998
+358,1940,Greece,Australia,0.0,0.039999999
+359,1940,Greece,New Zealand,0.0,0.029999999
+360,1940,Bulgaria,Romania,1.5,0.5
+361,1940,Bulgaria,Norway,0.0,0.029999999
+362,1940,Bulgaria,Denmark,0.0,0.0
+363,1940,Romania,Norway,0.0,0.15000001
+364,1940,Romania,Denmark,0.0,0.69999999
+365,1940,Russia,Norway,0.0,0.12
+366,1940,Russia,Denmark,0.0,0.22
+367,1940,Russia,Japan,0.0,0.0
+368,1940,Finland,Norway,0.0,0.62
+369,1940,Finland,Denmark,0.0,7.8600001
+370,1940,Finland,Japan,0.0,0.0
+371,1940,Sweden,Norway,21.1,21.48
+372,1940,Sweden,Denmark,11.16,12.95
+373,1940,Sweden,Egypt,0.76999998,0.0
+374,1940,Sweden,Japan,3.1300001,4.2399998
+375,1940,Norway,Denmark,7.9099998,9.29
+376,1940,Norway,Liberia,0.039999999,0.0
+377,1940,Norway,South Africa,0.79000002,1.1900001
+378,1940,Norway,Iran,1.41,0.0
+379,1940,Norway,Turkey,0.34999999,0.0
+380,1940,Norway,Iraq,0.003179,0.0
+381,1940,Norway,Egypt,0.090000004,0.0
+382,1940,Norway,Afghanistan,0.0,0.0
+383,1940,Norway,China,0.38999999,0.14
+384,1940,Norway,Japan,0.97000003,1.75
+385,1940,Norway,Thailand,0.07,0.0
+386,1940,Norway,Australia,0.1,1.73
+387,1940,Norway,New Zealand,0.001363,0.11
+388,1940,Denmark,South Africa,0.079999998,0.28999999
+389,1940,Denmark,Egypt,0.41,0.0
+390,1940,Denmark,China,1.14,0.0099999998
+391,1940,Denmark,Japan,0.090000004,0.47999999
+392,1940,Denmark,Thailand,0.5,0.0
+393,1940,Denmark,Australia,0.029999999,0.17
+394,1940,Denmark,New Zealand,0.0044410001,0.02
+395,1940,Liberia,Japan,0.0,0.0
+396,1940,South Africa,Egypt,0.090000004,0.0
+397,1940,South Africa,Japan,18.969999,5.9000001
+398,1940,Iran,Japan,0.0,1.3200001
+399,1940,Turkey,Japan,0.0,0.0
+400,1940,Iraq,Japan,0.0,0.81999999
+401,1940,Egypt,China,0.0,0.55000001
+402,1940,Egypt,Japan,0.0,10.75
+403,1940,Egypt,Australia,0.0,0.54000002
+404,1940,Egypt,New Zealand,0.0,0.13
+405,1940,Saudi Arabia,Japan,0.0,0.0
+406,1940,China,Japan,27.969999,79.419998
+407,1940,Japan,Thailand,12.41,0.0
+408,1940,Japan,Australia,22.059999,20.15
+409,1940,Japan,New Zealand,0.27000001,2.47

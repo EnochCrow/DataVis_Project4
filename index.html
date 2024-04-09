@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+  <style>
+    {
+      box-sizing: border-box;
+    }
+    .big {
+      width: 57%;
+      float: left;
+    }
+    .smaller {
+      width: 43%;
+      float: left;
+    }
+    .main {
+      float: left;
+      padding: 15px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Moviegoing is on a Decline in the United States (2003-2021).</h1>
+
+<div class="big">
+  <p> The United States Census Bureau tracks yearly data on many industries. Their County Business Patterns datasets provide by zip-code data on the number of establishments operating within each industry, which was used to create this visualization. However, in 2017 there was a sudden drop off in the number of entries for movie theaters, which continued until 2021, the most recent available data. The zip codes associated with each datapoint were paired with latitude and longitude using a dataset linked below. This allowed me to plot the theaters on a map.</p>
+</div>
+
+<div class="big" id="observablehq-viewof-Year2-6c46a573"></div>
+<div class="big" id="observablehq-viewof-selectedState-6c46a573"></div>
+<div class="big" id="observablehq-working_test_map_2-6c46a573"></div>
+<div class="smaller" id="observablehq-state_plot-6c46a573"></div>
+<div class="big">
+  <p> My original hypothesis was based on the belief COVID affected movie theater attendance, but the zip-code data past 2017 did not allow me to explore this. Therefore, I also wanted to include a visual of the change in box office revenue over the same period of time as the map. This data also does clearly show COVID's effect.</p>
+</div>
+
+<div class="big" id="observablehq-Box_Office_Plot-6c46a573"></div>
+
+<div class="main">
+  <p>Credit: <a href="https://observablehq.com/d/fdbcde3e5d72cb80@1091">The State of Cinemas in the United States (2003-2021) by Enoch Crow&#039;s Workspace</a></p>
+
+  
+  <p>The dataset for theater locations by zip code was retrieved from <a href="https://www.census.gov/programs-surveys/cbp/data/datasets.html">United States Census Bureau County Business Patterns</a>. </p> 
+  <p>The dataset for zip code latitude and longitudes was retrieved from <a href="https://simplemaps.com/data/us-zips">simplemaps US Zip Codes Database</a>. </p>
+  <p>The graphics were made with <a href="https://observablehq.com/plot/">Observable Plot</a>. </p>
+
+  <p>The dataset was filtered with python.</p>
+  <p>The html formatting help was from <a href="https://www.w3schools.com/css/css_rwd_grid.asp">w3schools</a>. </p>
+</div>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/fdbcde3e5d72cb80@1106.js?v=4";
+new Runtime().module(define, name => {
+  if (name === "viewof Year2") return new Inspector(document.querySelector("#observablehq-viewof-Year2-6c46a573"));
+  if (name === "working_test_map_2") return new Inspector(document.querySelector("#observablehq-working_test_map_2-6c46a573"));
+  if (name === "viewof selectedState") return new Inspector(document.querySelector("#observablehq-viewof-selectedState-6c46a573"));
+  if (name === "state_plot") return new Inspector(document.querySelector("#observablehq-state_plot-6c46a573"));
+  if (name === "Box_Office_Plot") return new Inspector(document.querySelector("#observablehq-Box_Office_Plot-6c46a573"));
+  return ["year_data","working_test_map","test_map","working_test_map_3","total_num_theaters","total_theaters_curr_state","test_map_2","curr_state","curr_projection"].includes(name);
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,2204 @@
+{
+    "nodes": [
+        {
+            "id": "Australia",
+            "group": 1
+        },
+        {
+            "id": "Romania",
+            "group": 1
+        },
+        {
+            "id": "Hungary",
+            "group": 1
+        },
+        {
+            "id": "Haiti",
+            "group": 1
+        },
+        {
+            "id": "Ireland",
+            "group": 1
+        },
+        {
+            "id": "Germany",
+            "group": 1
+        },
+        {
+            "id": "Russia",
+            "group": 1
+        },
+        {
+            "id": "Panama",
+            "group": 1
+        },
+        {
+            "id": "Bulgaria",
+            "group": 1
+        },
+        {
+            "id": "Cuba",
+            "group": 1
+        },
+        {
+            "id": "Spain",
+            "group": 1
+        },
+        {
+            "id": "New Zealand",
+            "group": 1
+        },
+        {
+            "id": "Colombia",
+            "group": 1
+        },
+        {
+            "id": "Uruguay",
+            "group": 1
+        },
+        {
+            "id": "Afghanistan",
+            "group": 1
+        },
+        {
+            "id": "Bolivia",
+            "group": 1
+        },
+        {
+            "id": "Ethiopia",
+            "group": 1
+        },
+        {
+            "id": "Peru",
+            "group": 1
+        },
+        {
+            "id": "Chile",
+            "group": 1
+        },
+        {
+            "id": "Switzerland",
+            "group": 1
+        },
+        {
+            "id": "Guatemala",
+            "group": 1
+        },
+        {
+            "id": "Dominican Republic",
+            "group": 1
+        },
+        {
+            "id": "Ecuador",
+            "group": 1
+        },
+        {
+            "id": "Portugal",
+            "group": 1
+        },
+        {
+            "id": "Argentina",
+            "group": 1
+        },
+        {
+            "id": "Yugoslavia",
+            "group": 1
+        },
+        {
+            "id": "Italy",
+            "group": 1
+        },
+        {
+            "id": "France",
+            "group": 1
+        },
+        {
+            "id": "Costa Rica",
+            "group": 1
+        },
+        {
+            "id": "Iran",
+            "group": 1
+        },
+        {
+            "id": "Canada",
+            "group": 1
+        },
+        {
+            "id": "Greece",
+            "group": 1
+        },
+        {
+            "id": "Egypt",
+            "group": 1
+        },
+        {
+            "id": "Iraq",
+            "group": 1
+        },
+        {
+            "id": "Iceland",
+            "group": 1
+        },
+        {
+            "id": "Honduras",
+            "group": 1
+        },
+        {
+            "id": "Albania",
+            "group": 1
+        },
+        {
+            "id": "South Africa",
+            "group": 1
+        },
+        {
+            "id": "United States of America",
+            "group": 1
+        },
+        {
+            "id": "Sweden",
+            "group": 1
+        },
+        {
+            "id": "Paraguay",
+            "group": 1
+        },
+        {
+            "id": "Japan",
+            "group": 1
+        },
+        {
+            "id": "Mexico",
+            "group": 1
+        },
+        {
+            "id": "Brazil",
+            "group": 1
+        },
+        {
+            "id": "Finland",
+            "group": 1
+        },
+        {
+            "id": "Turkey",
+            "group": 1
+        },
+        {
+            "id": "Nicaragua",
+            "group": 1
+        },
+        {
+            "id": "United Kingdom",
+            "group": 1
+        },
+        {
+            "id": "Thailand",
+            "group": 1
+        },
+        {
+            "id": "China",
+            "group": 1
+        },
+        {
+            "id": "El Salvador",
+            "group": 1
+        },
+        {
+            "id": "Venezuela",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "Cuba",
+            "target": "United States of America",
+            "value": 386.98001
+        },
+        {
+            "source": "United States of America",
+            "target": "Cuba",
+            "value": 167.37
+        },
+        {
+            "source": "Haiti",
+            "target": "United States of America",
+            "value": 12.49
+        },
+        {
+            "source": "United States of America",
+            "target": "Haiti",
+            "value": 9.25
+        },
+        {
+            "source": "Dominican Republic",
+            "target": "United States of America",
+            "value": 16.700001
+        },
+        {
+            "source": "United States of America",
+            "target": "Dominican Republic",
+            "value": 14.04
+        },
+        {
+            "source": "Paraguay",
+            "target": "United States of America",
+            "value": 3.6400001
+        },
+        {
+            "source": "United States of America",
+            "target": "Paraguay",
+            "value": 1.85
+        },
+        {
+            "source": "France",
+            "target": "United States of America",
+            "value": 0.40000001
+        },
+        {
+            "source": "United States of America",
+            "target": "France",
+            "value": 1264.22
+        },
+        {
+            "source": "Spain",
+            "target": "United States of America",
+            "value": 43.98
+        },
+        {
+            "source": "United States of America",
+            "target": "Spain",
+            "value": 36.490002
+        },
+        {
+            "source": "Germany",
+            "target": "United States of America",
+            "value": 0.07
+        },
+        {
+            "source": "United States of America",
+            "target": "Germany",
+            "value": 0.0
+        },
+        {
+            "source": "Albania",
+            "target": "United States of America",
+            "value": 0.0
+        },
+        {
+            "source": "United States of America",
+            "target": "Albania",
+            "value": 0.0
+        },
+        {
+            "source": "Yugoslavia",
+            "target": "United States of America",
+            "value": 0.0
+        },
+        {
+            "source": "United States of America",
+            "target": "Yugoslavia",
+            "value": 0.0
+        },
+        {
+            "source": "Greece",
+            "target": "United States of America",
+            "value": 0.0060000001
+        },
+        {
+            "source": "United States of America",
+            "target": "Greece",
+            "value": 21.530001
+        },
+        {
+            "source": "Ethiopia",
+            "target": "United States of America",
+            "value": 0.72000003
+        },
+        {
+            "source": "United States of America",
+            "target": "Ethiopia",
+            "value": 0.83999997
+        },
+        {
+            "source": "Egypt",
+            "target": "United States of America",
+            "value": 9.9399996
+        },
+        {
+            "source": "United States of America",
+            "target": "Egypt",
+            "value": 491.04001
+        },
+        {
+            "source": "Japan",
+            "target": "United States of America",
+            "value": 0.0099999998
+        },
+        {
+            "source": "United States of America",
+            "target": "Japan",
+            "value": 0.0
+        },
+        {
+            "source": "Cuba",
+            "target": "Canada",
+            "value": 3.8
+        },
+        {
+            "source": "Canada",
+            "target": "Cuba",
+            "value": 0.0
+        },
+        {
+            "source": "Haiti",
+            "target": "Canada",
+            "value": 1.88
+        },
+        {
+            "source": "Canada",
+            "target": "Haiti",
+            "value": 0.0
+        },
+        {
+            "source": "Dominican Republic",
+            "target": "Canada",
+            "value": 4.4499998
+        },
+        {
+            "source": "Canada",
+            "target": "Dominican Republic",
+            "value": 0.0
+        },
+        {
+            "source": "Paraguay",
+            "target": "Canada",
+            "value": 0.18000001
+        },
+        {
+            "source": "Canada",
+            "target": "Paraguay",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "Canada",
+            "value": 0.0080610001
+        },
+        {
+            "source": "Canada",
+            "target": "France",
+            "value": 329.23001
+        },
+        {
+            "source": "Germany",
+            "target": "Canada",
+            "value": 0.0
+        },
+        {
+            "source": "Canada",
+            "target": "Germany",
+            "value": 0.0
+        },
+        {
+            "source": "Albania",
+            "target": "Canada",
+            "value": 0.0
+        },
+        {
+            "source": "Canada",
+            "target": "Albania",
+            "value": 0.0
+        },
+        {
+            "source": "Yugoslavia",
+            "target": "Canada",
+            "value": 0.0
+        },
+        {
+            "source": "Canada",
+            "target": "Yugoslavia",
+            "value": 0.0
+        },
+        {
+            "source": "Greece",
+            "target": "Canada",
+            "value": 0.0
+        },
+        {
+            "source": "Canada",
+            "target": "Greece",
+            "value": 0.0
+        },
+        {
+            "source": "Ethiopia",
+            "target": "Canada",
+            "value": 0.0
+        },
+        {
+            "source": "Canada",
+            "target": "Ethiopia",
+            "value": 0.0
+        },
+        {
+            "source": "Egypt",
+            "target": "Canada",
+            "value": 0.16
+        },
+        {
+            "source": "Canada",
+            "target": "Egypt",
+            "value": 0.0
+        },
+        {
+            "source": "Japan",
+            "target": "Canada",
+            "value": 0.0
+        },
+        {
+            "source": "Canada",
+            "target": "Japan",
+            "value": 0.0
+        },
+        {
+            "source": "Mexico",
+            "target": "Cuba",
+            "value": 0.0
+        },
+        {
+            "source": "Cuba",
+            "target": "Mexico",
+            "value": 1.13
+        },
+        {
+            "source": "Nicaragua",
+            "target": "Cuba",
+            "value": 0.11
+        },
+        {
+            "source": "Cuba",
+            "target": "Nicaragua",
+            "value": 0.02
+        },
+        {
+            "source": "Costa Rica",
+            "target": "Cuba",
+            "value": 0.0025810001
+        },
+        {
+            "source": "Cuba",
+            "target": "Costa Rica",
+            "value": 0.039999999
+        },
+        {
+            "source": "Colombia",
+            "target": "Cuba",
+            "value": 0.0
+        },
+        {
+            "source": "Cuba",
+            "target": "Colombia",
+            "value": 0.49000001
+        },
+        {
+            "source": "Venezuela",
+            "target": "Cuba",
+            "value": 0.0
+        },
+        {
+            "source": "Cuba",
+            "target": "Venezuela",
+            "value": 0.16
+        },
+        {
+            "source": "Peru",
+            "target": "Cuba",
+            "value": 0.0
+        },
+        {
+            "source": "Cuba",
+            "target": "Peru",
+            "value": 0.28999999
+        },
+        {
+            "source": "Brazil",
+            "target": "Cuba",
+            "value": 0.0
+        },
+        {
+            "source": "Cuba",
+            "target": "Brazil",
+            "value": 0.039999999
+        },
+        {
+            "source": "Argentina",
+            "target": "Cuba",
+            "value": 0.0
+        },
+        {
+            "source": "Cuba",
+            "target": "Argentina",
+            "value": 1.87
+        },
+        {
+            "source": "United Kingdom",
+            "target": "Cuba",
+            "value": 0.0
+        },
+        {
+            "source": "Cuba",
+            "target": "United Kingdom",
+            "value": 35.720001
+        },
+        {
+            "source": "France",
+            "target": "Cuba",
+            "value": 0.0
+        },
+        {
+            "source": "Cuba",
+            "target": "France",
+            "value": 0.059999999
+        },
+        {
+            "source": "Italy",
+            "target": "Cuba",
+            "value": 0.0
+        },
+        {
+            "source": "Cuba",
+            "target": "Italy",
+            "value": 0.0
+        },
+        {
+            "source": "South Africa",
+            "target": "Cuba",
+            "value": 0.0
+        },
+        {
+            "source": "Cuba",
+            "target": "South Africa",
+            "value": 0.02
+        },
+        {
+            "source": "Australia",
+            "target": "Cuba",
+            "value": 0.0
+        },
+        {
+            "source": "Cuba",
+            "target": "Australia",
+            "value": 0.079999998
+        },
+        {
+            "source": "New Zealand",
+            "target": "Cuba",
+            "value": 0.0
+        },
+        {
+            "source": "Cuba",
+            "target": "New Zealand",
+            "value": 0.0
+        },
+        {
+            "source": "Mexico",
+            "target": "Haiti",
+            "value": 0.0
+        },
+        {
+            "source": "Haiti",
+            "target": "Mexico",
+            "value": 2.6e-05
+        },
+        {
+            "source": "Costa Rica",
+            "target": "Haiti",
+            "value": 0.0
+        },
+        {
+            "source": "Haiti",
+            "target": "Costa Rica",
+            "value": 0.00031900001
+        },
+        {
+            "source": "Colombia",
+            "target": "Haiti",
+            "value": 0.0
+        },
+        {
+            "source": "Haiti",
+            "target": "Colombia",
+            "value": 1.17
+        },
+        {
+            "source": "Venezuela",
+            "target": "Haiti",
+            "value": 0.0
+        },
+        {
+            "source": "Haiti",
+            "target": "Venezuela",
+            "value": 0.02
+        },
+        {
+            "source": "Peru",
+            "target": "Haiti",
+            "value": 0.0
+        },
+        {
+            "source": "Haiti",
+            "target": "Peru",
+            "value": 7.0000001e-06
+        },
+        {
+            "source": "Brazil",
+            "target": "Haiti",
+            "value": 0.0
+        },
+        {
+            "source": "Haiti",
+            "target": "Brazil",
+            "value": 0.0
+        },
+        {
+            "source": "Argentina",
+            "target": "Haiti",
+            "value": 0.0
+        },
+        {
+            "source": "Haiti",
+            "target": "Argentina",
+            "value": 0.003245
+        },
+        {
+            "source": "United Kingdom",
+            "target": "Haiti",
+            "value": 0.0
+        },
+        {
+            "source": "Haiti",
+            "target": "United Kingdom",
+            "value": 2.48
+        },
+        {
+            "source": "France",
+            "target": "Haiti",
+            "value": 0.0
+        },
+        {
+            "source": "Haiti",
+            "target": "France",
+            "value": 0.16
+        },
+        {
+            "source": "Italy",
+            "target": "Haiti",
+            "value": 0.0
+        },
+        {
+            "source": "Haiti",
+            "target": "Italy",
+            "value": 0.0
+        },
+        {
+            "source": "South Africa",
+            "target": "Haiti",
+            "value": 0.0
+        },
+        {
+            "source": "Haiti",
+            "target": "South Africa",
+            "value": 0.0
+        },
+        {
+            "source": "Australia",
+            "target": "Haiti",
+            "value": 0.0
+        },
+        {
+            "source": "Haiti",
+            "target": "Australia",
+            "value": 6.0000002e-06
+        },
+        {
+            "source": "New Zealand",
+            "target": "Haiti",
+            "value": 0.0
+        },
+        {
+            "source": "Haiti",
+            "target": "New Zealand",
+            "value": 1.6e-05
+        },
+        {
+            "source": "Mexico",
+            "target": "Dominican Republic",
+            "value": 0.0
+        },
+        {
+            "source": "Dominican Republic",
+            "target": "Mexico",
+            "value": 0.5
+        },
+        {
+            "source": "Nicaragua",
+            "target": "Dominican Republic",
+            "value": 0.0
+        },
+        {
+            "source": "Dominican Republic",
+            "target": "Nicaragua",
+            "value": 0.0
+        },
+        {
+            "source": "Costa Rica",
+            "target": "Dominican Republic",
+            "value": 0.000166
+        },
+        {
+            "source": "Dominican Republic",
+            "target": "Costa Rica",
+            "value": 1.6e-05
+        },
+        {
+            "source": "Colombia",
+            "target": "Dominican Republic",
+            "value": 0.0
+        },
+        {
+            "source": "Dominican Republic",
+            "target": "Colombia",
+            "value": 0.16
+        },
+        {
+            "source": "Venezuela",
+            "target": "Dominican Republic",
+            "value": 0.0
+        },
+        {
+            "source": "Dominican Republic",
+            "target": "Venezuela",
+            "value": 0.18000001
+        },
+        {
+            "source": "Peru",
+            "target": "Dominican Republic",
+            "value": 0.0
+        },
+        {
+            "source": "Dominican Republic",
+            "target": "Peru",
+            "value": 9.1000002e-05
+        },
+        {
+            "source": "Argentina",
+            "target": "Dominican Republic",
+            "value": 0.0
+        },
+        {
+            "source": "Dominican Republic",
+            "target": "Argentina",
+            "value": 0.000208
+        },
+        {
+            "source": "United Kingdom",
+            "target": "Dominican Republic",
+            "value": 0.0
+        },
+        {
+            "source": "Dominican Republic",
+            "target": "United Kingdom",
+            "value": 50.43
+        },
+        {
+            "source": "France",
+            "target": "Dominican Republic",
+            "value": 0.0
+        },
+        {
+            "source": "Dominican Republic",
+            "target": "France",
+            "value": 0.050000001
+        },
+        {
+            "source": "Italy",
+            "target": "Dominican Republic",
+            "value": 0.0
+        },
+        {
+            "source": "Dominican Republic",
+            "target": "Italy",
+            "value": 0.0
+        },
+        {
+            "source": "South Africa",
+            "target": "Dominican Republic",
+            "value": 0.0
+        },
+        {
+            "source": "Dominican Republic",
+            "target": "South Africa",
+            "value": 0.0
+        },
+        {
+            "source": "New Zealand",
+            "target": "Dominican Republic",
+            "value": 0.0
+        },
+        {
+            "source": "Dominican Republic",
+            "target": "New Zealand",
+            "value": 0.0024359999
+        },
+        {
+            "source": "Paraguay",
+            "target": "Mexico",
+            "value": 4.8999998e-05
+        },
+        {
+            "source": "Mexico",
+            "target": "Paraguay",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "Mexico",
+            "value": 0.0042889998
+        },
+        {
+            "source": "Mexico",
+            "target": "France",
+            "value": 0.15000001
+        },
+        {
+            "source": "Germany",
+            "target": "Mexico",
+            "value": 0.001501
+        },
+        {
+            "source": "Mexico",
+            "target": "Germany",
+            "value": 0.0
+        },
+        {
+            "source": "Albania",
+            "target": "Mexico",
+            "value": 0.0
+        },
+        {
+            "source": "Mexico",
+            "target": "Albania",
+            "value": 0.0
+        },
+        {
+            "source": "Yugoslavia",
+            "target": "Mexico",
+            "value": 0.0
+        },
+        {
+            "source": "Mexico",
+            "target": "Yugoslavia",
+            "value": 0.0
+        },
+        {
+            "source": "Greece",
+            "target": "Mexico",
+            "value": 0.0
+        },
+        {
+            "source": "Mexico",
+            "target": "Greece",
+            "value": 0.0
+        },
+        {
+            "source": "Ethiopia",
+            "target": "Mexico",
+            "value": 0.0
+        },
+        {
+            "source": "Mexico",
+            "target": "Ethiopia",
+            "value": 0.0
+        },
+        {
+            "source": "Egypt",
+            "target": "Mexico",
+            "value": 4e-06
+        },
+        {
+            "source": "Mexico",
+            "target": "Egypt",
+            "value": 0.0
+        },
+        {
+            "source": "Japan",
+            "target": "Mexico",
+            "value": 0.0
+        },
+        {
+            "source": "Mexico",
+            "target": "Japan",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "Guatemala",
+            "value": 0.0
+        },
+        {
+            "source": "Guatemala",
+            "target": "France",
+            "value": 0.0071879998
+        },
+        {
+            "source": "France",
+            "target": "Honduras",
+            "value": 0.0
+        },
+        {
+            "source": "Honduras",
+            "target": "France",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "El Salvador",
+            "value": 0.0
+        },
+        {
+            "source": "El Salvador",
+            "target": "France",
+            "value": 0.11
+        },
+        {
+            "source": "France",
+            "target": "Nicaragua",
+            "value": 0.0
+        },
+        {
+            "source": "Nicaragua",
+            "target": "France",
+            "value": 0.0
+        },
+        {
+            "source": "Germany",
+            "target": "Nicaragua",
+            "value": 0.0
+        },
+        {
+            "source": "Nicaragua",
+            "target": "Germany",
+            "value": 0.0
+        },
+        {
+            "source": "Yugoslavia",
+            "target": "Nicaragua",
+            "value": 0.0
+        },
+        {
+            "source": "Nicaragua",
+            "target": "Yugoslavia",
+            "value": 0.0
+        },
+        {
+            "source": "Japan",
+            "target": "Nicaragua",
+            "value": 0.0
+        },
+        {
+            "source": "Nicaragua",
+            "target": "Japan",
+            "value": 0.0
+        },
+        {
+            "source": "Paraguay",
+            "target": "Costa Rica",
+            "value": 0.0
+        },
+        {
+            "source": "Costa Rica",
+            "target": "Paraguay",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "Costa Rica",
+            "value": 0.001469
+        },
+        {
+            "source": "Costa Rica",
+            "target": "France",
+            "value": 0.0044920002
+        },
+        {
+            "source": "Germany",
+            "target": "Costa Rica",
+            "value": 0.0
+        },
+        {
+            "source": "Costa Rica",
+            "target": "Germany",
+            "value": 0.0
+        },
+        {
+            "source": "Yugoslavia",
+            "target": "Costa Rica",
+            "value": 0.0
+        },
+        {
+            "source": "Costa Rica",
+            "target": "Yugoslavia",
+            "value": 0.0
+        },
+        {
+            "source": "Greece",
+            "target": "Costa Rica",
+            "value": 0.0
+        },
+        {
+            "source": "Costa Rica",
+            "target": "Greece",
+            "value": 0.0
+        },
+        {
+            "source": "Egypt",
+            "target": "Costa Rica",
+            "value": 0.0
+        },
+        {
+            "source": "Costa Rica",
+            "target": "Egypt",
+            "value": 0.0
+        },
+        {
+            "source": "Japan",
+            "target": "Costa Rica",
+            "value": 0.0
+        },
+        {
+            "source": "Costa Rica",
+            "target": "Japan",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "Panama",
+            "value": 0.0
+        },
+        {
+            "source": "Panama",
+            "target": "France",
+            "value": 0.0
+        },
+        {
+            "source": "Paraguay",
+            "target": "Colombia",
+            "value": 0.11
+        },
+        {
+            "source": "Colombia",
+            "target": "Paraguay",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "Colombia",
+            "value": 0.0011549999
+        },
+        {
+            "source": "Colombia",
+            "target": "France",
+            "value": 7.6700001
+        },
+        {
+            "source": "Germany",
+            "target": "Colombia",
+            "value": 0.0
+        },
+        {
+            "source": "Colombia",
+            "target": "Germany",
+            "value": 0.0
+        },
+        {
+            "source": "Albania",
+            "target": "Colombia",
+            "value": 0.0
+        },
+        {
+            "source": "Colombia",
+            "target": "Albania",
+            "value": 0.0
+        },
+        {
+            "source": "Yugoslavia",
+            "target": "Colombia",
+            "value": 0.0
+        },
+        {
+            "source": "Colombia",
+            "target": "Yugoslavia",
+            "value": 0.0
+        },
+        {
+            "source": "Greece",
+            "target": "Colombia",
+            "value": 0.0
+        },
+        {
+            "source": "Colombia",
+            "target": "Greece",
+            "value": 0.0
+        },
+        {
+            "source": "Egypt",
+            "target": "Colombia",
+            "value": 0.0
+        },
+        {
+            "source": "Colombia",
+            "target": "Egypt",
+            "value": 0.0
+        },
+        {
+            "source": "Japan",
+            "target": "Colombia",
+            "value": 0.0
+        },
+        {
+            "source": "Colombia",
+            "target": "Japan",
+            "value": 0.0
+        },
+        {
+            "source": "Paraguay",
+            "target": "Venezuela",
+            "value": 0.029999999
+        },
+        {
+            "source": "Venezuela",
+            "target": "Paraguay",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "Venezuela",
+            "value": 0.029999999
+        },
+        {
+            "source": "Venezuela",
+            "target": "France",
+            "value": 0.0099999998
+        },
+        {
+            "source": "Germany",
+            "target": "Venezuela",
+            "value": 0.0022730001
+        },
+        {
+            "source": "Venezuela",
+            "target": "Germany",
+            "value": 0.0
+        },
+        {
+            "source": "Egypt",
+            "target": "Venezuela",
+            "value": 7.4000003e-05
+        },
+        {
+            "source": "Venezuela",
+            "target": "Egypt",
+            "value": 0.0
+        },
+        {
+            "source": "Japan",
+            "target": "Venezuela",
+            "value": 0.00056900003
+        },
+        {
+            "source": "Venezuela",
+            "target": "Japan",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "Ecuador",
+            "value": 0.0
+        },
+        {
+            "source": "Ecuador",
+            "target": "France",
+            "value": 0.0
+        },
+        {
+            "source": "Paraguay",
+            "target": "Peru",
+            "value": 0.0099999998
+        },
+        {
+            "source": "Peru",
+            "target": "Paraguay",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "Peru",
+            "value": 0.001011
+        },
+        {
+            "source": "Peru",
+            "target": "France",
+            "value": 0.0
+        },
+        {
+            "source": "Germany",
+            "target": "Peru",
+            "value": 0.0012450001
+        },
+        {
+            "source": "Peru",
+            "target": "Germany",
+            "value": 0.0
+        },
+        {
+            "source": "Yugoslavia",
+            "target": "Peru",
+            "value": 0.0
+        },
+        {
+            "source": "Peru",
+            "target": "Yugoslavia",
+            "value": 0.0
+        },
+        {
+            "source": "Greece",
+            "target": "Peru",
+            "value": 0.0
+        },
+        {
+            "source": "Peru",
+            "target": "Greece",
+            "value": 0.0
+        },
+        {
+            "source": "Egypt",
+            "target": "Peru",
+            "value": 0.0
+        },
+        {
+            "source": "Peru",
+            "target": "Egypt",
+            "value": 0.0
+        },
+        {
+            "source": "Japan",
+            "target": "Peru",
+            "value": 0.0040549999
+        },
+        {
+            "source": "Peru",
+            "target": "Japan",
+            "value": 0.0
+        },
+        {
+            "source": "Paraguay",
+            "target": "Brazil",
+            "value": 0.07
+        },
+        {
+            "source": "Brazil",
+            "target": "Paraguay",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "Brazil",
+            "value": 0.0
+        },
+        {
+            "source": "Brazil",
+            "target": "France",
+            "value": 21.82
+        },
+        {
+            "source": "Germany",
+            "target": "Brazil",
+            "value": 0.0
+        },
+        {
+            "source": "Brazil",
+            "target": "Germany",
+            "value": 0.0
+        },
+        {
+            "source": "Yugoslavia",
+            "target": "Brazil",
+            "value": 0.0
+        },
+        {
+            "source": "Brazil",
+            "target": "Yugoslavia",
+            "value": 0.0
+        },
+        {
+            "source": "Greece",
+            "target": "Brazil",
+            "value": 0.0
+        },
+        {
+            "source": "Brazil",
+            "target": "Greece",
+            "value": 0.0
+        },
+        {
+            "source": "Egypt",
+            "target": "Brazil",
+            "value": 0.0
+        },
+        {
+            "source": "Brazil",
+            "target": "Egypt",
+            "value": 0.0
+        },
+        {
+            "source": "Japan",
+            "target": "Brazil",
+            "value": 0.0
+        },
+        {
+            "source": "Brazil",
+            "target": "Japan",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "Bolivia",
+            "value": 0.0
+        },
+        {
+            "source": "Bolivia",
+            "target": "France",
+            "value": 0.0
+        },
+        {
+            "source": "Argentina",
+            "target": "Paraguay",
+            "value": 0.0
+        },
+        {
+            "source": "Paraguay",
+            "target": "Argentina",
+            "value": 1.97
+        },
+        {
+            "source": "United Kingdom",
+            "target": "Paraguay",
+            "value": 0.0
+        },
+        {
+            "source": "Paraguay",
+            "target": "United Kingdom",
+            "value": 3.3800001
+        },
+        {
+            "source": "France",
+            "target": "Paraguay",
+            "value": 0.0
+        },
+        {
+            "source": "Paraguay",
+            "target": "France",
+            "value": 0.0
+        },
+        {
+            "source": "Italy",
+            "target": "Paraguay",
+            "value": 0.0
+        },
+        {
+            "source": "Paraguay",
+            "target": "Italy",
+            "value": 0.0
+        },
+        {
+            "source": "South Africa",
+            "target": "Paraguay",
+            "value": 0.0
+        },
+        {
+            "source": "Paraguay",
+            "target": "South Africa",
+            "value": 0.001015
+        },
+        {
+            "source": "Australia",
+            "target": "Paraguay",
+            "value": 0.0
+        },
+        {
+            "source": "Paraguay",
+            "target": "Australia",
+            "value": 0.0
+        },
+        {
+            "source": "New Zealand",
+            "target": "Paraguay",
+            "value": 0.0
+        },
+        {
+            "source": "Paraguay",
+            "target": "New Zealand",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "Chile",
+            "value": 0.0
+        },
+        {
+            "source": "Chile",
+            "target": "France",
+            "value": 5.96
+        },
+        {
+            "source": "United Kingdom",
+            "target": "Argentina",
+            "value": 20.1
+        },
+        {
+            "source": "Argentina",
+            "target": "United Kingdom",
+            "value": 236.67999
+        },
+        {
+            "source": "France",
+            "target": "Argentina",
+            "value": 0.029999999
+        },
+        {
+            "source": "Argentina",
+            "target": "France",
+            "value": 32.389999
+        },
+        {
+            "source": "Germany",
+            "target": "Argentina",
+            "value": 0.059999999
+        },
+        {
+            "source": "Argentina",
+            "target": "Germany",
+            "value": 0.0
+        },
+        {
+            "source": "Albania",
+            "target": "Argentina",
+            "value": 0.0
+        },
+        {
+            "source": "Argentina",
+            "target": "Albania",
+            "value": 0.0
+        },
+        {
+            "source": "Yugoslavia",
+            "target": "Argentina",
+            "value": 0.000119
+        },
+        {
+            "source": "Argentina",
+            "target": "Yugoslavia",
+            "value": 0.0
+        },
+        {
+            "source": "Greece",
+            "target": "Argentina",
+            "value": 0.002382
+        },
+        {
+            "source": "Argentina",
+            "target": "Greece",
+            "value": 0.0
+        },
+        {
+            "source": "Ethiopia",
+            "target": "Argentina",
+            "value": 0.00071499997
+        },
+        {
+            "source": "Argentina",
+            "target": "Ethiopia",
+            "value": 0.0
+        },
+        {
+            "source": "Egypt",
+            "target": "Argentina",
+            "value": 0.0
+        },
+        {
+            "source": "Argentina",
+            "target": "Egypt",
+            "value": 0.0
+        },
+        {
+            "source": "Japan",
+            "target": "Argentina",
+            "value": 0.0078600002
+        },
+        {
+            "source": "Argentina",
+            "target": "Japan",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "Uruguay",
+            "value": 0.02
+        },
+        {
+            "source": "Uruguay",
+            "target": "France",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "United Kingdom",
+            "value": 0.31
+        },
+        {
+            "source": "United Kingdom",
+            "target": "France",
+            "value": 27.25
+        },
+        {
+            "source": "Germany",
+            "target": "United Kingdom",
+            "value": 0.02
+        },
+        {
+            "source": "United Kingdom",
+            "target": "Germany",
+            "value": 0.0
+        },
+        {
+            "source": "Albania",
+            "target": "United Kingdom",
+            "value": 0.0
+        },
+        {
+            "source": "United Kingdom",
+            "target": "Albania",
+            "value": 0.0
+        },
+        {
+            "source": "Yugoslavia",
+            "target": "United Kingdom",
+            "value": 0.0
+        },
+        {
+            "source": "United Kingdom",
+            "target": "Yugoslavia",
+            "value": 0.0
+        },
+        {
+            "source": "Greece",
+            "target": "United Kingdom",
+            "value": 0.079999998
+        },
+        {
+            "source": "United Kingdom",
+            "target": "Greece",
+            "value": 0.0
+        },
+        {
+            "source": "Ethiopia",
+            "target": "United Kingdom",
+            "value": 0.20999999
+        },
+        {
+            "source": "United Kingdom",
+            "target": "Ethiopia",
+            "value": 0.0
+        },
+        {
+            "source": "Egypt",
+            "target": "United Kingdom",
+            "value": 53.029999
+        },
+        {
+            "source": "United Kingdom",
+            "target": "Egypt",
+            "value": 0.0
+        },
+        {
+            "source": "Japan",
+            "target": "United Kingdom",
+            "value": 0.00099299999
+        },
+        {
+            "source": "United Kingdom",
+            "target": "Japan",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "Ireland",
+            "value": 0.0
+        },
+        {
+            "source": "Ireland",
+            "target": "France",
+            "value": 0.00089800003
+        },
+        {
+            "source": "Switzerland",
+            "target": "France",
+            "value": 258.69
+        },
+        {
+            "source": "France",
+            "target": "Switzerland",
+            "value": 0.0
+        },
+        {
+            "source": "Spain",
+            "target": "France",
+            "value": 201.50999
+        },
+        {
+            "source": "France",
+            "target": "Spain",
+            "value": 0.0
+        },
+        {
+            "source": "Portugal",
+            "target": "France",
+            "value": 11.44
+        },
+        {
+            "source": "France",
+            "target": "Portugal",
+            "value": 0.0
+        },
+        {
+            "source": "Germany",
+            "target": "France",
+            "value": 4319.2798
+        },
+        {
+            "source": "France",
+            "target": "Germany",
+            "value": 0.0
+        },
+        {
+            "source": "Hungary",
+            "target": "France",
+            "value": 332.14001
+        },
+        {
+            "source": "France",
+            "target": "Hungary",
+            "value": 0.0
+        },
+        {
+            "source": "Italy",
+            "target": "France",
+            "value": 22.559999
+        },
+        {
+            "source": "France",
+            "target": "Italy",
+            "value": 0.0
+        },
+        {
+            "source": "Albania",
+            "target": "France",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "Albania",
+            "value": 0.0
+        },
+        {
+            "source": "Yugoslavia",
+            "target": "France",
+            "value": 0.94
+        },
+        {
+            "source": "France",
+            "target": "Yugoslavia",
+            "value": 0.0
+        },
+        {
+            "source": "Greece",
+            "target": "France",
+            "value": 12.28
+        },
+        {
+            "source": "France",
+            "target": "Greece",
+            "value": 0.0
+        },
+        {
+            "source": "Bulgaria",
+            "target": "France",
+            "value": 94.150002
+        },
+        {
+            "source": "France",
+            "target": "Bulgaria",
+            "value": 0.0
+        },
+        {
+            "source": "Romania",
+            "target": "France",
+            "value": 176.39
+        },
+        {
+            "source": "France",
+            "target": "Romania",
+            "value": 0.0
+        },
+        {
+            "source": "Russia",
+            "target": "France",
+            "value": 0.23999999
+        },
+        {
+            "source": "France",
+            "target": "Russia",
+            "value": 0.0
+        },
+        {
+            "source": "Finland",
+            "target": "France",
+            "value": 127.3
+        },
+        {
+            "source": "France",
+            "target": "Finland",
+            "value": 0.0
+        },
+        {
+            "source": "Sweden",
+            "target": "France",
+            "value": 108.1
+        },
+        {
+            "source": "France",
+            "target": "Sweden",
+            "value": 0.0
+        },
+        {
+            "source": "Iceland",
+            "target": "France",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "Iceland",
+            "value": 0.0
+        },
+        {
+            "source": "South Africa",
+            "target": "France",
+            "value": 0.95999998
+        },
+        {
+            "source": "France",
+            "target": "South Africa",
+            "value": 0.001664
+        },
+        {
+            "source": "Iran",
+            "target": "France",
+            "value": 9.0600004
+        },
+        {
+            "source": "France",
+            "target": "Iran",
+            "value": 0.0
+        },
+        {
+            "source": "Turkey",
+            "target": "France",
+            "value": 2.6600001
+        },
+        {
+            "source": "France",
+            "target": "Turkey",
+            "value": 0.0
+        },
+        {
+            "source": "Iraq",
+            "target": "France",
+            "value": 0.00089800003
+        },
+        {
+            "source": "France",
+            "target": "Iraq",
+            "value": 0.0
+        },
+        {
+            "source": "Egypt",
+            "target": "France",
+            "value": 0.029999999
+        },
+        {
+            "source": "France",
+            "target": "Egypt",
+            "value": 0.0
+        },
+        {
+            "source": "Afghanistan",
+            "target": "France",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "Afghanistan",
+            "value": 0.0
+        },
+        {
+            "source": "China",
+            "target": "France",
+            "value": 0.050000001
+        },
+        {
+            "source": "France",
+            "target": "China",
+            "value": 0.0
+        },
+        {
+            "source": "Japan",
+            "target": "France",
+            "value": 1.16
+        },
+        {
+            "source": "France",
+            "target": "Japan",
+            "value": 0.0
+        },
+        {
+            "source": "Thailand",
+            "target": "France",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "Thailand",
+            "value": 0.0
+        },
+        {
+            "source": "Australia",
+            "target": "France",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "Australia",
+            "value": 0.0022110001
+        },
+        {
+            "source": "New Zealand",
+            "target": "France",
+            "value": 0.0
+        },
+        {
+            "source": "France",
+            "target": "New Zealand",
+            "value": 0.0022090001
+        },
+        {
+            "source": "Italy",
+            "target": "Germany",
+            "value": 0.0
+        },
+        {
+            "source": "Germany",
+            "target": "Italy",
+            "value": 0.0
+        },
+        {
+            "source": "South Africa",
+            "target": "Germany",
+            "value": 0.0
+        },
+        {
+            "source": "Germany",
+            "target": "South Africa",
+            "value": 0.0099999998
+        },
+        {
+            "source": "Australia",
+            "target": "Germany",
+            "value": 0.0
+        },
+        {
+            "source": "Germany",
+            "target": "Australia",
+            "value": 0.0055749998
+        },
+        {
+            "source": "New Zealand",
+            "target": "Germany",
+            "value": 0.0
+        },
+        {
+            "source": "Germany",
+            "target": "New Zealand",
+            "value": 0.0050639999
+        },
+        {
+            "source": "Albania",
+            "target": "Italy",
+            "value": 0.0
+        },
+        {
+            "source": "Italy",
+            "target": "Albania",
+            "value": 0.0
+        },
+        {
+            "source": "Yugoslavia",
+            "target": "Italy",
+            "value": 0.0
+        },
+        {
+            "source": "Italy",
+            "target": "Yugoslavia",
+            "value": 0.0
+        },
+        {
+            "source": "Greece",
+            "target": "Italy",
+            "value": 0.0
+        },
+        {
+            "source": "Italy",
+            "target": "Greece",
+            "value": 0.0
+        },
+        {
+            "source": "Ethiopia",
+            "target": "Italy",
+            "value": 0.0
+        },
+        {
+            "source": "Italy",
+            "target": "Ethiopia",
+            "value": 0.0
+        },
+        {
+            "source": "Egypt",
+            "target": "Italy",
+            "value": 0.0
+        },
+        {
+            "source": "Italy",
+            "target": "Egypt",
+            "value": 0.0
+        },
+        {
+            "source": "Japan",
+            "target": "Italy",
+            "value": 0.0
+        },
+        {
+            "source": "Italy",
+            "target": "Japan",
+            "value": 0.0
+        },
+        {
+            "source": "Australia",
+            "target": "Albania",
+            "value": 0.0
+        },
+        {
+            "source": "Albania",
+            "target": "Australia",
+            "value": 0.0
+        },
+        {
+            "source": "New Zealand",
+            "target": "Albania",
+            "value": 0.0
+        },
+        {
+            "source": "Albania",
+            "target": "New Zealand",
+            "value": 0.0
+        },
+        {
+            "source": "South Africa",
+            "target": "Yugoslavia",
+            "value": 0.0
+        },
+        {
+            "source": "Yugoslavia",
+            "target": "South Africa",
+            "value": 0.0
+        },
+        {
+            "source": "Australia",
+            "target": "Yugoslavia",
+            "value": 0.0
+        },
+        {
+            "source": "Yugoslavia",
+            "target": "Australia",
+            "value": 0.0
+        },
+        {
+            "source": "New Zealand",
+            "target": "Yugoslavia",
+            "value": 0.0
+        },
+        {
+            "source": "Yugoslavia",
+            "target": "New Zealand",
+            "value": 0.0
+        },
+        {
+            "source": "South Africa",
+            "target": "Greece",
+            "value": 0.0
+        },
+        {
+            "source": "Greece",
+            "target": "South Africa",
+            "value": 3.6000001e-05
+        },
+        {
+            "source": "Australia",
+            "target": "Greece",
+            "value": 0.0
+        },
+        {
+            "source": "Greece",
+            "target": "Australia",
+            "value": 0.00057799998
+        },
+        {
+            "source": "New Zealand",
+            "target": "Greece",
+            "value": 0.0
+        },
+        {
+            "source": "Greece",
+            "target": "New Zealand",
+            "value": 0.00095999998
+        },
+        {
+            "source": "Romania",
+            "target": "Bulgaria",
+            "value": 7.5999999
+        },
+        {
+            "source": "Bulgaria",
+            "target": "Romania",
+            "value": 1.7
+        },
+        {
+            "source": "South Africa",
+            "target": "Ethiopia",
+            "value": 0.0
+        },
+        {
+            "source": "Ethiopia",
+            "target": "South Africa",
+            "value": 0.0
+        },
+        {
+            "source": "Australia",
+            "target": "Ethiopia",
+            "value": 0.0
+        },
+        {
+            "source": "Ethiopia",
+            "target": "Australia",
+            "value": 0.0099999998
+        },
+        {
+            "source": "New Zealand",
+            "target": "Ethiopia",
+            "value": 0.0
+        },
+        {
+            "source": "Ethiopia",
+            "target": "New Zealand",
+            "value": 0.0026759999
+        },
+        {
+            "source": "Egypt",
+            "target": "South Africa",
+            "value": 0.67000002
+        },
+        {
+            "source": "South Africa",
+            "target": "Egypt",
+            "value": 0.0
+        },
+        {
+            "source": "Japan",
+            "target": "South Africa",
+            "value": 0.0099999998
+        },
+        {
+            "source": "South Africa",
+            "target": "Japan",
+            "value": 0.0
+        },
+        {
+            "source": "Australia",
+            "target": "Egypt",
+            "value": 0.0
+        },
+        {
+            "source": "Egypt",
+            "target": "Australia",
+            "value": 1.33
+        },
+        {
+            "source": "New Zealand",
+            "target": "Egypt",
+            "value": 0.0
+        },
+        {
+            "source": "Egypt",
+            "target": "New Zealand",
+            "value": 0.079999998
+        },
+        {
+            "source": "Japan",
+            "target": "China",
+            "value": 263.23999
+        },
+        {
+            "source": "China",
+            "target": "Japan",
+            "value": 400.14001
+        },
+        {
+            "source": "Australia",
+            "target": "Japan",
+            "value": 0.0
+        },
+        {
+            "source": "Japan",
+            "target": "Australia",
+            "value": 0.000239
+        },
+        {
+            "source": "New Zealand",
+            "target": "Japan",
+            "value": 0.0
+        },
+        {
+            "source": "Japan",
+            "target": "New Zealand",
+            "value": 0.00023400001
+        }
+    ]
+}

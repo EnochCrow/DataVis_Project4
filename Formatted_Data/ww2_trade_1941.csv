@@ -1,0 +1,276 @@
+,year,importer1,importer2,flow1,flow2
+0,1941,United States of America,Cuba,181.06,125.76
+1,1941,United States of America,Haiti,7.48,5.77
+2,1941,United States of America,Dominican Republic,9.7399998,9.3000002
+3,1941,United States of America,Paraguay,3.3900001,1.0599999
+4,1941,United States of America,France,5.0999999,201.86
+5,1941,United States of America,Spain,13.68,12.7
+6,1941,United States of America,Germany,3.47,0.0099999998
+7,1941,United States of America,Yugoslavia,0.70999998,0.55000001
+8,1941,United States of America,Greece,9.5100002,12.78
+9,1941,United States of America,Ethiopia,0.23999999,0.0
+10,1941,United States of America,Egypt,12.39,249.84
+11,1941,United States of America,Japan,78.269997,134.10001
+12,1941,Canada,Cuba,3.78,0.0
+13,1941,Canada,Haiti,0.28,0.0
+14,1941,Canada,Dominican Republic,4.2199998,0.0
+15,1941,Canada,Paraguay,0.090000004,0.0
+16,1941,Canada,France,0.28999999,9.3800001
+17,1941,Canada,Germany,0.0092730001,0.0
+18,1941,Canada,Yugoslavia,0.0099999998,0.0
+19,1941,Canada,Greece,0.02,0.0
+20,1941,Canada,Ethiopia,0.0,0.0
+21,1941,Canada,Egypt,2.3199999,0.0
+22,1941,Canada,Japan,2.04,4.6700001
+23,1941,Cuba,Mexico,0.0,2.05
+24,1941,Cuba,Guatemala,0.0,0.0099999998
+25,1941,Cuba,Nicaragua,0.0047559999,0.0
+26,1941,Cuba,Costa Rica,0.00034599999,0.090000004
+27,1941,Cuba,Colombia,0.0,0.029999999
+28,1941,Cuba,Venezuela,0.0,0.25999999
+29,1941,Cuba,Peru,0.0,0.090000004
+30,1941,Cuba,Brazil,0.0,0.0099999998
+31,1941,Cuba,Chile,0.0,0.050000001
+32,1941,Cuba,Argentina,0.0,0.38999999
+33,1941,Cuba,United Kingdom,0.0,28.799999
+34,1941,Cuba,Ireland,0.0,0.0
+35,1941,Cuba,France,0.0,3.29
+36,1941,Cuba,Switzerland,0.0,0.44
+37,1941,Cuba,Spain,0.0,0.37
+38,1941,Cuba,Portugal,0.0,0.039999999
+39,1941,Cuba,Italy,0.0,0.0
+40,1941,Cuba,Sweden,0.0,0.029999999
+41,1941,Cuba,South Africa,0.0,0.18000001
+42,1941,Cuba,Japan,0.0,0.0023439999
+43,1941,Cuba,Australia,0.0,0.0099999998
+44,1941,Cuba,New Zealand,0.0,0.00091300003
+45,1941,Haiti,Mexico,0.0,2.2e-05
+46,1941,Haiti,Guatemala,0.0,0.0
+47,1941,Haiti,Costa Rica,0.0,0.0
+48,1941,Haiti,Colombia,0.0,0.16
+49,1941,Haiti,Venezuela,0.0,0.0
+50,1941,Haiti,Peru,0.0,0.0
+51,1941,Haiti,Brazil,0.0,0.0
+52,1941,Haiti,Chile,0.0,1.5e-05
+53,1941,Haiti,Argentina,0.0,0.00021699999
+54,1941,Haiti,United Kingdom,0.0,0.37
+55,1941,Haiti,France,0.0,2.3900001
+56,1941,Haiti,Switzerland,0.0,0.02
+57,1941,Haiti,Spain,0.0,0.0
+58,1941,Haiti,Portugal,0.0,0.0
+59,1941,Haiti,Italy,0.0,0.0
+60,1941,Haiti,South Africa,0.0,0.0
+61,1941,Haiti,Japan,0.0,0.0
+62,1941,Haiti,Australia,0.0,7.9999998e-05
+63,1941,Haiti,New Zealand,0.0,0.0
+64,1941,Dominican Republic,Mexico,0.0,0.0099999998
+65,1941,Dominican Republic,Guatemala,0.0,0.0
+66,1941,Dominican Republic,Nicaragua,0.0,0.0
+67,1941,Dominican Republic,Costa Rica,0.0,0.0
+68,1941,Dominican Republic,Colombia,0.0,6.0000002e-06
+69,1941,Dominican Republic,Venezuela,0.0,0.059999999
+70,1941,Dominican Republic,Peru,0.0,0.0
+71,1941,Dominican Republic,Chile,0.0,0.0
+72,1941,Dominican Republic,Argentina,0.0,0.0012309999
+73,1941,Dominican Republic,United Kingdom,0.0,9.2299995
+74,1941,Dominican Republic,France,0.0,0.82999998
+75,1941,Dominican Republic,Spain,0.0,0.00045600001
+76,1941,Dominican Republic,Portugal,0.0,0.0054830001
+77,1941,Dominican Republic,Italy,0.0,0.0
+78,1941,Dominican Republic,South Africa,0.0,0.0
+79,1941,Dominican Republic,Japan,0.0,0.0
+80,1941,Dominican Republic,New Zealand,0.0,0.001242
+81,1941,Mexico,Paraguay,0.0065489998,0.0
+82,1941,Mexico,France,0.02,0.61000001
+83,1941,Mexico,Germany,0.43000001,0.0
+84,1941,Mexico,Yugoslavia,2.6e-05,0.0
+85,1941,Mexico,Greece,0.00066100003,0.0
+86,1941,Mexico,Ethiopia,0.0,0.0
+87,1941,Mexico,Egypt,0.090000004,0.0
+88,1941,Mexico,Japan,5.21,10.4
+89,1941,Guatemala,Paraguay,0.0,0.0
+90,1941,Guatemala,France,0.0099999998,0.0099999998
+91,1941,Guatemala,Germany,0.039999999,0.0
+92,1941,Guatemala,Yugoslavia,2.6e-05,0.0
+93,1941,Guatemala,Greece,0.0038439999,0.0
+94,1941,Guatemala,Egypt,0.0,0.0
+95,1941,Guatemala,Japan,0.059999999,0.0
+96,1941,Honduras,France,0.0,0.0
+97,1941,Honduras,Japan,0.0,0.0
+98,1941,El Salvador,France,0.0,0.02
+99,1941,El Salvador,Japan,0.0,0.0
+100,1941,Nicaragua,France,0.0077189999,0.16
+101,1941,Nicaragua,Germany,0.0041729999,0.0
+102,1941,Nicaragua,Yugoslavia,0.0,0.0
+103,1941,Nicaragua,Japan,0.20999999,0.0
+104,1941,Costa Rica,Paraguay,0.0,0.0
+105,1941,Costa Rica,France,0.0077269999,0.050000001
+106,1941,Costa Rica,Germany,0.050000001,0.0
+107,1941,Costa Rica,Yugoslavia,1.4e-05,0.0
+108,1941,Costa Rica,Greece,0.0,0.0
+109,1941,Costa Rica,Egypt,3.1e-05,0.0
+110,1941,Costa Rica,Japan,0.36000001,0.0
+111,1941,Panama,France,0.0,0.0
+112,1941,Panama,Japan,0.0,0.0
+113,1941,Colombia,Paraguay,0.0,0.0
+114,1941,Colombia,France,0.029999999,0.11
+115,1941,Colombia,Germany,0.47,0.0
+116,1941,Colombia,Yugoslavia,0.0,0.0
+117,1941,Colombia,Greece,0.0,0.0
+118,1941,Colombia,Egypt,1.9999999e-05,0.0
+119,1941,Colombia,Japan,0.5,0.0
+120,1941,Venezuela,Paraguay,0.0,0.0
+121,1941,Venezuela,France,0.039999999,6.27
+122,1941,Venezuela,Germany,0.56,0.0
+123,1941,Venezuela,Egypt,0.001529,0.0
+124,1941,Venezuela,Japan,0.44999999,0.0
+125,1941,Ecuador,France,0.0,0.34999999
+126,1941,Ecuador,Japan,0.0,0.0
+127,1941,Peru,Paraguay,1.3e-05,0.0
+128,1941,Peru,France,0.029999999,1.1799999
+129,1941,Peru,Germany,0.64999998,0.0
+130,1941,Peru,Yugoslavia,0.0099999998,0.0
+131,1941,Peru,Greece,0.039999999,0.0
+132,1941,Peru,Egypt,9.0000003e-06,0.0
+133,1941,Peru,Japan,2.45,0.0
+134,1941,Brazil,Paraguay,0.0061789998,0.0
+135,1941,Brazil,France,0.050000001,23.469999
+136,1941,Brazil,Germany,6.1300001,0.0
+137,1941,Brazil,Yugoslavia,0.0,0.0
+138,1941,Brazil,Greece,0.0,0.0
+139,1941,Brazil,Egypt,0.0,0.0
+140,1941,Brazil,Japan,6.4400001,22.450001
+141,1941,Bolivia,France,0.0,0.63
+142,1941,Bolivia,Japan,0.0,0.0
+143,1941,Paraguay,Chile,0.0,6.1999999e-05
+144,1941,Paraguay,Argentina,0.0,1.5599999
+145,1941,Paraguay,United Kingdom,0.0,2.77
+146,1941,Paraguay,France,0.0,0.00079899997
+147,1941,Paraguay,Switzerland,0.0,0.11
+148,1941,Paraguay,Spain,0.0,0.0
+149,1941,Paraguay,Portugal,0.0,0.02
+150,1941,Paraguay,Italy,0.0,0.0
+151,1941,Paraguay,South Africa,0.0,0.0017509999
+152,1941,Paraguay,Japan,0.0,0.0
+153,1941,Paraguay,Australia,0.0,0.001822
+154,1941,Paraguay,New Zealand,0.0,0.00090599997
+155,1941,Chile,France,0.050000001,20.219999
+156,1941,Chile,Germany,0.2,0.0
+157,1941,Chile,Yugoslavia,1e-06,0.0
+158,1941,Chile,Greece,0.00034299999,0.0
+159,1941,Chile,Egypt,3.0000001e-06,0.0
+160,1941,Chile,Japan,1.27,13.08
+161,1941,Argentina,United Kingdom,63.439999,112.5
+162,1941,Argentina,France,0.41,72.620003
+163,1941,Argentina,Germany,1.14,0.0
+164,1941,Argentina,Yugoslavia,0.0043720002,0.0
+165,1941,Argentina,Greece,0.13,0.0
+166,1941,Argentina,Ethiopia,0.0,0.0
+167,1941,Argentina,Egypt,0.000363,0.0
+168,1941,Argentina,Japan,6.0930066,17.219999
+169,1941,Uruguay,France,0.039999999,2.7
+170,1941,Uruguay,Japan,1.23,2.3800001
+171,1941,United Kingdom,France,0.30000001,58.299999
+172,1941,United Kingdom,Germany,0.16,0.0
+173,1941,United Kingdom,Yugoslavia,1.49,0.0
+174,1941,United Kingdom,Greece,9.9300003,0.0
+175,1941,United Kingdom,Ethiopia,4e-06,0.0
+176,1941,United Kingdom,Egypt,36.169998,0.0
+177,1941,United Kingdom,Japan,2.8599999,1.17
+178,1941,Ireland,France,0.0,0.050000001
+179,1941,Ireland,Germany,0.0,0.0
+180,1941,Ireland,Yugoslavia,0.0,0.0
+181,1941,Ireland,Greece,0.0,0.0
+182,1941,Ireland,Egypt,0.0,0.0
+183,1941,Ireland,Japan,0.0,0.0
+184,1941,France,Switzerland,354.75,16.73
+185,1941,France,Spain,104.5,1.29
+186,1941,France,Portugal,39.689999,1.88
+187,1941,France,Germany,1564.9,0.0
+188,1941,France,Hungary,55.330002,0.0
+189,1941,France,Italy,201.09,10.45
+190,1941,France,Yugoslavia,23.549999,0.0
+191,1941,France,Greece,2.8499999,0.0
+192,1941,France,Bulgaria,19.040001,0.0
+193,1941,France,Romania,107.31,0.0
+194,1941,France,Russia,15.67,0.0
+195,1941,France,Finland,37.990002,0.0
+196,1941,France,Sweden,101.97,2.21
+197,1941,France,South Africa,8.71,0.1
+198,1941,France,Iran,38.200001,0.0
+199,1941,France,Turkey,10.86,0.0
+200,1941,France,Iraq,0.81999999,0.0
+201,1941,France,Egypt,7.8299999,0.0
+202,1941,France,Afghanistan,0.0,0.0
+203,1941,France,China,2.1900001,0.0
+204,1941,France,Japan,4.8899999,0.23999999
+205,1941,France,Thailand,0.0099999998,0.0
+206,1941,France,Australia,38.220001,0.34
+207,1941,France,New Zealand,64.510002,0.039999999
+208,1941,Switzerland,Germany,152.3,0.0
+209,1941,Switzerland,Yugoslavia,8.2799997,0.0
+210,1941,Switzerland,Greece,0.75999999,0.0
+211,1941,Switzerland,Ethiopia,0.0,0.0
+212,1941,Switzerland,Egypt,0.059999999,0.0
+213,1941,Switzerland,Japan,2.4100001,2.28
+214,1941,Spain,Germany,4.6799998,0.0
+215,1941,Spain,Yugoslavia,0.006391,0.0
+216,1941,Spain,Greece,0.0,0.0
+217,1941,Spain,Ethiopia,0.0,0.0
+218,1941,Spain,Egypt,0.61000001,0.0
+219,1941,Spain,Japan,0.0027389999,0.0
+220,1941,Portugal,Germany,7.98,0.0
+221,1941,Portugal,Yugoslavia,0.02,0.0
+222,1941,Portugal,Greece,0.0099999998,0.0
+223,1941,Portugal,Ethiopia,0.0,0.0
+224,1941,Portugal,Egypt,0.36000001,0.0
+225,1941,Portugal,Japan,0.25999999,0.0
+226,1941,Germany,Hungary,0.0,0.0
+227,1941,Germany,Italy,0.0,359.59
+228,1941,Germany,Yugoslavia,0.0,0.0
+229,1941,Germany,Sweden,0.0,207.35001
+230,1941,Germany,South Africa,0.0,0.079999998
+231,1941,Germany,China,0.0,0.0
+232,1941,Germany,Japan,0.0,16.4
+233,1941,Germany,Australia,0.0,0.58999997
+234,1941,Germany,New Zealand,0.0,0.02
+235,1941,Hungary,Yugoslavia,0.0,0.0
+236,1941,Hungary,Russia,2.4000001,0.30000001
+237,1941,Italy,Yugoslavia,9.6300001,0.0
+238,1941,Italy,Greece,0.92000002,0.0
+239,1941,Italy,Ethiopia,0.0,0.0
+240,1941,Italy,Egypt,0.0,0.0
+241,1941,Italy,Japan,0.090000004,0.38
+242,1941,Yugoslavia,Sweden,0.0,1.33
+243,1941,Yugoslavia,South Africa,0.0,0.001871
+244,1941,Yugoslavia,China,0.0,0.0
+245,1941,Yugoslavia,Australia,0.0,0.0080380002
+246,1941,Yugoslavia,New Zealand,0.0,0.000103
+247,1941,Greece,Sweden,0.0,0.55000001
+248,1941,Greece,South Africa,0.0,0.02
+249,1941,Greece,Australia,0.0,0.02
+250,1941,Greece,New Zealand,0.0,0.0099999998
+251,1941,Bulgaria,Romania,3.3,1.3
+252,1941,Russia,Japan,0.0,0.0
+253,1941,Finland,Japan,0.0,0.0
+254,1941,Sweden,Ethiopia,0.0,0.0
+255,1941,Sweden,Egypt,0.090000004,0.0
+256,1941,Sweden,Japan,3.26,2.3499999
+257,1941,Liberia,Japan,0.0,0.0
+258,1941,Ethiopia,South Africa,0.0,0.001186
+259,1941,Ethiopia,Japan,0.0,0.0
+260,1941,Ethiopia,Australia,0.0,0.001227
+261,1941,Ethiopia,New Zealand,0.0,0.0
+262,1941,South Africa,Egypt,0.23,0.0
+263,1941,South Africa,Japan,9.04,3.26
+264,1941,Iran,Japan,0.0,0.14
+265,1941,Turkey,Japan,0.0,0.0
+266,1941,Iraq,Japan,0.0,1.4299999
+267,1941,Egypt,Japan,0.0,4.21
+268,1941,Egypt,Australia,0.0,0.38
+269,1941,Egypt,New Zealand,0.0,0.17
+270,1941,Saudi Arabia,Japan,0.0,0.0
+271,1941,China,Japan,392.87,201.34
+272,1941,Japan,Thailand,42.860001,0.0
+273,1941,Japan,Australia,18.299999,13.18
+274,1941,Japan,New Zealand,0.2,0.69
