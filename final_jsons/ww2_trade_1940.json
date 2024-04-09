@@ -1,31 +1,7 @@
 {
     "nodes": [
         {
-            "id": "Mexico",
-            "group": 1
-        },
-        {
-            "id": "Brazil",
-            "group": 1
-        },
-        {
-            "id": "Japan",
-            "group": 2
-        },
-        {
-            "id": "United Kingdom",
-            "group": 1
-        },
-        {
-            "id": "France",
-            "group": 1
-        },
-        {
-            "id": "Hungary",
-            "group": 2
-        },
-        {
-            "id": "United States of America",
+            "id": "Yugoslavia",
             "group": 1
         },
         {
@@ -33,39 +9,11 @@
             "group": 2
         },
         {
-            "id": "Yugoslavia",
-            "group": 1
-        },
-        {
-            "id": "Italy",
-            "group": 2
-        },
-        {
-            "id": "Norway",
-            "group": 1
-        },
-        {
-            "id": "Greece",
-            "group": 1
-        },
-        {
-            "id": "Russia",
-            "group": 1
-        },
-        {
-            "id": "Australia",
-            "group": 1
-        },
-        {
-            "id": "Romania",
-            "group": 2
-        },
-        {
             "id": "Thailand",
             "group": 2
         },
         {
-            "id": "South Africa",
+            "id": "Australia",
             "group": 1
         },
         {
@@ -73,11 +21,35 @@
             "group": 2
         },
         {
-            "id": "Canada",
+            "id": "Brazil",
             "group": 1
         },
         {
+            "id": "France",
+            "group": 1
+        },
+        {
+            "id": "Romania",
+            "group": 2
+        },
+        {
+            "id": "Germany",
+            "group": 2
+        },
+        {
+            "id": "South Africa",
+            "group": 1
+        },
+        {
+            "id": "Italy",
+            "group": 2
+        },
+        {
             "id": "China",
+            "group": 1
+        },
+        {
+            "id": "Norway",
             "group": 1
         },
         {
@@ -85,82 +57,110 @@
             "group": 1
         },
         {
+            "id": "United Kingdom",
+            "group": 1
+        },
+        {
+            "id": "Greece",
+            "group": 1
+        },
+        {
+            "id": "Mexico",
+            "group": 1
+        },
+        {
+            "id": "United States",
+            "group": 1
+        },
+        {
             "id": "New Zealand",
             "group": 1
         },
         {
-            "id": "Germany",
+            "id": "Hungary",
+            "group": 2
+        },
+        {
+            "id": "Russia",
+            "group": 1
+        },
+        {
+            "id": "Canada",
+            "group": 1
+        },
+        {
+            "id": "Japan",
             "group": 2
         }
     ],
     "links": [
         {
             "source": "Netherlands",
-            "target": "United States of America",
+            "target": "United States",
             "value": 8.54
         },
         {
-            "source": "United States of America",
+            "source": "United States",
             "target": "Netherlands",
             "value": 34.02
         },
         {
             "source": "France",
-            "target": "United States of America",
+            "target": "United States",
             "value": 36.560001
         },
         {
-            "source": "United States of America",
+            "source": "United States",
             "target": "France",
             "value": 176.72
         },
         {
             "source": "Germany",
-            "target": "United States of America",
+            "target": "United States",
             "value": 5.4099998
         },
         {
-            "source": "United States of America",
+            "source": "United States",
             "target": "Germany",
             "value": 6.3299999
         },
         {
             "source": "Yugoslavia",
-            "target": "United States of America",
+            "target": "United States",
             "value": 1.05
         },
         {
-            "source": "United States of America",
+            "source": "United States",
             "target": "Yugoslavia",
             "value": 2.98
         },
         {
             "source": "Greece",
-            "target": "United States of America",
+            "target": "United States",
             "value": 12.93
         },
         {
-            "source": "United States of America",
+            "source": "United States",
             "target": "Greece",
             "value": 9.7600002
         },
         {
             "source": "Norway",
-            "target": "United States of America",
+            "target": "United States",
             "value": 7.9299998
         },
         {
-            "source": "United States of America",
+            "source": "United States",
             "target": "Norway",
             "value": 24.549999
         },
         {
             "source": "Japan",
-            "target": "United States of America",
+            "target": "United States",
             "value": 158.37
         },
         {
-            "source": "United States of America",
+            "source": "United States",
             "target": "Japan",
             "value": 290.73999
         },

@@ -1,7 +1,15 @@
 {
     "nodes": [
         {
-            "id": "Mexico",
+            "id": "Japan",
+            "group": 2
+        },
+        {
+            "id": "Bulgaria",
+            "group": 2
+        },
+        {
+            "id": "Australia",
             "group": 1
         },
         {
@@ -9,11 +17,39 @@
             "group": 1
         },
         {
-            "id": "Japan",
+            "id": "Romania",
             "group": 2
         },
         {
+            "id": "Germany",
+            "group": 2
+        },
+        {
+            "id": "South Africa",
+            "group": 1
+        },
+        {
+            "id": "Italy",
+            "group": 2
+        },
+        {
+            "id": "China",
+            "group": 1
+        },
+        {
             "id": "United Kingdom",
+            "group": 1
+        },
+        {
+            "id": "Mexico",
+            "group": 1
+        },
+        {
+            "id": "United States",
+            "group": 1
+        },
+        {
+            "id": "New Zealand",
             "group": 1
         },
         {
@@ -25,78 +61,42 @@
             "group": 1
         },
         {
-            "id": "United States of America",
-            "group": 1
-        },
-        {
-            "id": "Bulgaria",
-            "group": 2
-        },
-        {
-            "id": "Italy",
-            "group": 2
-        },
-        {
             "id": "Russia",
-            "group": 1
-        },
-        {
-            "id": "Australia",
-            "group": 1
-        },
-        {
-            "id": "Romania",
-            "group": 2
-        },
-        {
-            "id": "South Africa",
             "group": 1
         },
         {
             "id": "Canada",
             "group": 1
-        },
-        {
-            "id": "China",
-            "group": 1
-        },
-        {
-            "id": "New Zealand",
-            "group": 1
-        },
-        {
-            "id": "Germany",
-            "group": 2
         }
     ],
     "links": [
         {
             "source": "Germany",
-            "target": "United States of America",
+            "target": "United States",
             "value": 0.23999999
         },
         {
-            "source": "United States of America",
+            "source": "United States",
             "target": "Germany",
             "value": 0.0099999998
         },
         {
             "source": "Ethiopia",
-            "target": "United States of America",
+            "target": "United States",
             "value": 0.5
         },
         {
-            "source": "United States of America",
+            "source": "United States",
             "target": "Ethiopia",
             "value": 0.0099999998
         },
         {
             "source": "Japan",
-            "target": "United States of America",
+            "target": "United States",
             "value": 0.059999999
         },
         {
-            "source": "United States of America",
+            "source": "United States",
             "target": "Japan",
             "value": 2.2
         },

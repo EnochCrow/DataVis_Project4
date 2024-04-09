@@ -57,6 +57,8 @@ def filter_data(in_filepath, chosen_year):
         new_df = pd.concat([new_df, row1_df], ignore_index=True)
         new_df = pd.concat([new_df, row2_df], ignore_index=True)
 
+    new_df['source'] = new_df['source'].replace('United States of America', 'United States')
+    new_df['target'] = new_df['target'].replace('United States of America', 'United States')
     # source_nations = ['United States of America']
     # dest_nations = ['Germany', 'Japan']
     new_df = new_df.drop_duplicates()
@@ -85,7 +87,7 @@ def filter_data(in_filepath, chosen_year):
         node_ids.add(link["target"])
 
     axis = ['Germany','Italy','Japan','Hungary','Romania','Bulgaria','Finland','Croatia','Thailand']
-    allies = ['United Kingdom','United States of America','Russia','France','Poland','Belgium','Luxembourg','Netherlands','Norway','Greece','Yugoslavia','Ethiopia','Phillipines','China','Canada','Australia','New Zealand','South Africa','Brazil','Mexico','Mongolia']
+    allies = ['United Kingdom','United States','Russia','France','Poland','Belgium','Luxembourg','Netherlands','Norway','Greece','Yugoslavia','Ethiopia','Phillipines','China','Canada','Australia','New Zealand','South Africa','Brazil','Mexico','Mongolia']
 
     # Create nodes list
 
