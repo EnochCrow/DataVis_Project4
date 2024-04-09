@@ -116,7 +116,7 @@ def filter_data(in_filepath, chosen_year):
 
     # Remove nodes and links of the specified group value
     filtered_nodes, filtered_links = remove_group(nodes, links, group_to_remove)
-    if (chosen_year == 1939):
+    if (chosen_year == 1938):
         nodes_json = {"nodes": filtered_nodes}
         starting_nodes_json = nodes_json
     else:
@@ -141,7 +141,7 @@ def filter_data(in_filepath, chosen_year):
     print("Final JSON exported to",out_json)
 
 us_export_data = pd.DataFrame()
-for i in range(1939, 1946):
+for i in range(1938, 1947):
     filter_data(temp_file_path, i)
 
 #us_export_data.to_csv('us_export_data_ww2.csv')
