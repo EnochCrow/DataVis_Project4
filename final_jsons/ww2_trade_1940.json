@@ -1,111 +1,27 @@
 {
     "nodes": [
         {
-            "id": "Australia",
-            "group": 1
-        },
-        {
-            "id": "Romania",
-            "group": 1
-        },
-        {
-            "id": "Hungary",
-            "group": 1
-        },
-        {
-            "id": "Haiti",
-            "group": 1
-        },
-        {
-            "id": "Ireland",
-            "group": 1
-        },
-        {
-            "id": "Germany",
-            "group": 1
+            "id": "Italy",
+            "group": 2
         },
         {
             "id": "Russia",
             "group": 1
         },
         {
-            "id": "Panama",
-            "group": 1
-        },
-        {
-            "id": "Bulgaria",
-            "group": 1
-        },
-        {
-            "id": "Cuba",
-            "group": 1
-        },
-        {
-            "id": "Spain",
-            "group": 1
+            "id": "Finland",
+            "group": 2
         },
         {
             "id": "New Zealand",
             "group": 1
         },
         {
-            "id": "Colombia",
-            "group": 1
+            "id": "Thailand",
+            "group": 2
         },
         {
-            "id": "Uruguay",
-            "group": 1
-        },
-        {
-            "id": "Afghanistan",
-            "group": 1
-        },
-        {
-            "id": "Bolivia",
-            "group": 1
-        },
-        {
-            "id": "Peru",
-            "group": 1
-        },
-        {
-            "id": "Chile",
-            "group": 1
-        },
-        {
-            "id": "Switzerland",
-            "group": 1
-        },
-        {
-            "id": "Guatemala",
-            "group": 1
-        },
-        {
-            "id": "Norway",
-            "group": 1
-        },
-        {
-            "id": "Netherlands",
-            "group": 1
-        },
-        {
-            "id": "Dominican Republic",
-            "group": 1
-        },
-        {
-            "id": "Portugal",
-            "group": 1
-        },
-        {
-            "id": "Ecuador",
-            "group": 1
-        },
-        {
-            "id": "Liberia",
-            "group": 1
-        },
-        {
-            "id": "Argentina",
+            "id": "China",
             "group": 1
         },
         {
@@ -113,47 +29,11 @@
             "group": 1
         },
         {
-            "id": "Italy",
-            "group": 1
-        },
-        {
-            "id": "France",
-            "group": 1
-        },
-        {
-            "id": "Costa Rica",
-            "group": 1
-        },
-        {
-            "id": "Iran",
-            "group": 1
-        },
-        {
-            "id": "Saudi Arabia",
-            "group": 1
+            "id": "Romania",
+            "group": 2
         },
         {
             "id": "Canada",
-            "group": 1
-        },
-        {
-            "id": "Greece",
-            "group": 1
-        },
-        {
-            "id": "Egypt",
-            "group": 1
-        },
-        {
-            "id": "Iraq",
-            "group": 1
-        },
-        {
-            "id": "Honduras",
-            "group": 1
-        },
-        {
-            "id": "South Africa",
             "group": 1
         },
         {
@@ -161,23 +41,47 @@
             "group": 1
         },
         {
-            "id": "Sweden",
-            "group": 1
-        },
-        {
-            "id": "Paraguay",
-            "group": 1
-        },
-        {
-            "id": "Denmark",
+            "id": "United Kingdom",
             "group": 1
         },
         {
             "id": "Japan",
+            "group": 2
+        },
+        {
+            "id": "South Africa",
             "group": 1
         },
         {
-            "id": "Mexico",
+            "id": "Germany",
+            "group": 2
+        },
+        {
+            "id": "Netherlands",
+            "group": 1
+        },
+        {
+            "id": "France",
+            "group": 1
+        },
+        {
+            "id": "Greece",
+            "group": 1
+        },
+        {
+            "id": "Australia",
+            "group": 1
+        },
+        {
+            "id": "Hungary",
+            "group": 2
+        },
+        {
+            "id": "Bulgaria",
+            "group": 2
+        },
+        {
+            "id": "Norway",
             "group": 1
         },
         {
@@ -185,35 +89,7 @@
             "group": 1
         },
         {
-            "id": "Finland",
-            "group": 1
-        },
-        {
-            "id": "Turkey",
-            "group": 1
-        },
-        {
-            "id": "Nicaragua",
-            "group": 1
-        },
-        {
-            "id": "United Kingdom",
-            "group": 1
-        },
-        {
-            "id": "Thailand",
-            "group": 1
-        },
-        {
-            "id": "China",
-            "group": 1
-        },
-        {
-            "id": "El Salvador",
-            "group": 1
-        },
-        {
-            "id": "Venezuela",
+            "id": "Mexico",
             "group": 1
         }
     ],
@@ -259,26 +135,6 @@
             "value": 1.23
         },
         {
-            "source": "Netherlands",
-            "target": "United States of America",
-            "value": 8.54
-        },
-        {
-            "source": "United States of America",
-            "target": "Netherlands",
-            "value": 34.02
-        },
-        {
-            "source": "France",
-            "target": "United States of America",
-            "value": 36.560001
-        },
-        {
-            "source": "United States of America",
-            "target": "France",
-            "value": 176.72
-        },
-        {
             "source": "Spain",
             "target": "United States of America",
             "value": 4.02
@@ -287,46 +143,6 @@
             "source": "United States of America",
             "target": "Spain",
             "value": 7.4400001
-        },
-        {
-            "source": "Germany",
-            "target": "United States of America",
-            "value": 5.4099998
-        },
-        {
-            "source": "United States of America",
-            "target": "Germany",
-            "value": 6.3299999
-        },
-        {
-            "source": "Yugoslavia",
-            "target": "United States of America",
-            "value": 1.05
-        },
-        {
-            "source": "United States of America",
-            "target": "Yugoslavia",
-            "value": 2.98
-        },
-        {
-            "source": "Greece",
-            "target": "United States of America",
-            "value": 12.93
-        },
-        {
-            "source": "United States of America",
-            "target": "Greece",
-            "value": 9.7600002
-        },
-        {
-            "source": "Norway",
-            "target": "United States of America",
-            "value": 7.9299998
-        },
-        {
-            "source": "United States of America",
-            "target": "Norway",
-            "value": 24.549999
         },
         {
             "source": "Denmark",
@@ -347,16 +163,6 @@
             "source": "United States of America",
             "target": "Egypt",
             "value": 20.559999
-        },
-        {
-            "source": "Japan",
-            "target": "United States of America",
-            "value": 158.37
-        },
-        {
-            "source": "United States of America",
-            "target": "Japan",
-            "value": 290.73999
         },
         {
             "source": "Cuba",
@@ -399,66 +205,6 @@
             "value": 0.0
         },
         {
-            "source": "Netherlands",
-            "target": "Canada",
-            "value": 0.99000001
-        },
-        {
-            "source": "Canada",
-            "target": "Netherlands",
-            "value": 0.0
-        },
-        {
-            "source": "France",
-            "target": "Canada",
-            "value": 4.0
-        },
-        {
-            "source": "Canada",
-            "target": "France",
-            "value": 11.96
-        },
-        {
-            "source": "Germany",
-            "target": "Canada",
-            "value": 0.28999999
-        },
-        {
-            "source": "Canada",
-            "target": "Germany",
-            "value": 0.0
-        },
-        {
-            "source": "Yugoslavia",
-            "target": "Canada",
-            "value": 0.050000001
-        },
-        {
-            "source": "Canada",
-            "target": "Yugoslavia",
-            "value": 0.0
-        },
-        {
-            "source": "Greece",
-            "target": "Canada",
-            "value": 0.1
-        },
-        {
-            "source": "Canada",
-            "target": "Greece",
-            "value": 0.0
-        },
-        {
-            "source": "Norway",
-            "target": "Canada",
-            "value": 0.22
-        },
-        {
-            "source": "Canada",
-            "target": "Norway",
-            "value": 4.8400002
-        },
-        {
             "source": "Denmark",
             "target": "Canada",
             "value": 0.050000001
@@ -477,16 +223,6 @@
             "source": "Canada",
             "target": "Egypt",
             "value": 0.0
-        },
-        {
-            "source": "Japan",
-            "target": "Canada",
-            "value": 5.0100002
-        },
-        {
-            "source": "Canada",
-            "target": "Japan",
-            "value": 17.309999
         },
         {
             "source": "Mexico",
@@ -1159,66 +895,6 @@
             "value": 0.0
         },
         {
-            "source": "Netherlands",
-            "target": "Mexico",
-            "value": 0.54000002
-        },
-        {
-            "source": "Mexico",
-            "target": "Netherlands",
-            "value": 0.0
-        },
-        {
-            "source": "France",
-            "target": "Mexico",
-            "value": 2.46
-        },
-        {
-            "source": "Mexico",
-            "target": "France",
-            "value": 0.81999999
-        },
-        {
-            "source": "Germany",
-            "target": "Mexico",
-            "value": 1.5599999
-        },
-        {
-            "source": "Mexico",
-            "target": "Germany",
-            "value": 1.62
-        },
-        {
-            "source": "Yugoslavia",
-            "target": "Mexico",
-            "value": 1.4e-05
-        },
-        {
-            "source": "Mexico",
-            "target": "Yugoslavia",
-            "value": 0.0
-        },
-        {
-            "source": "Greece",
-            "target": "Mexico",
-            "value": 0.0099809999
-        },
-        {
-            "source": "Mexico",
-            "target": "Greece",
-            "value": 0.0
-        },
-        {
-            "source": "Norway",
-            "target": "Mexico",
-            "value": 0.19
-        },
-        {
-            "source": "Mexico",
-            "target": "Norway",
-            "value": 0.0
-        },
-        {
             "source": "Denmark",
             "target": "Mexico",
             "value": 0.059999999
@@ -1237,16 +913,6 @@
             "source": "Mexico",
             "target": "Egypt",
             "value": 0.0
-        },
-        {
-            "source": "Japan",
-            "target": "Mexico",
-            "value": 3.24
-        },
-        {
-            "source": "Mexico",
-            "target": "Japan",
-            "value": 3.8299999
         },
         {
             "source": "Paraguay",
@@ -1969,66 +1635,6 @@
             "value": 0.0
         },
         {
-            "source": "Netherlands",
-            "target": "Brazil",
-            "value": 1.29
-        },
-        {
-            "source": "Brazil",
-            "target": "Netherlands",
-            "value": 0.0
-        },
-        {
-            "source": "France",
-            "target": "Brazil",
-            "value": 5.0
-        },
-        {
-            "source": "Brazil",
-            "target": "France",
-            "value": 20.01
-        },
-        {
-            "source": "Germany",
-            "target": "Brazil",
-            "value": 5.5700002
-        },
-        {
-            "source": "Brazil",
-            "target": "Germany",
-            "value": 15.1
-        },
-        {
-            "source": "Yugoslavia",
-            "target": "Brazil",
-            "value": 0.039999999
-        },
-        {
-            "source": "Brazil",
-            "target": "Yugoslavia",
-            "value": 0.0
-        },
-        {
-            "source": "Greece",
-            "target": "Brazil",
-            "value": 0.050000001
-        },
-        {
-            "source": "Brazil",
-            "target": "Greece",
-            "value": 0.0
-        },
-        {
-            "source": "Norway",
-            "target": "Brazil",
-            "value": 0.92000002
-        },
-        {
-            "source": "Brazil",
-            "target": "Norway",
-            "value": 1.05
-        },
-        {
             "source": "Denmark",
             "target": "Brazil",
             "value": 0.23
@@ -2047,16 +1653,6 @@
             "source": "Brazil",
             "target": "Egypt",
             "value": 0.0
-        },
-        {
-            "source": "Japan",
-            "target": "Brazil",
-            "value": 7.3499999
-        },
-        {
-            "source": "Brazil",
-            "target": "Japan",
-            "value": 15.95
         },
         {
             "source": "France",
@@ -2479,66 +2075,6 @@
             "value": 1.9299999
         },
         {
-            "source": "Netherlands",
-            "target": "United Kingdom",
-            "value": 45.32
-        },
-        {
-            "source": "United Kingdom",
-            "target": "Netherlands",
-            "value": 0.0
-        },
-        {
-            "source": "France",
-            "target": "United Kingdom",
-            "value": 56.259998
-        },
-        {
-            "source": "United Kingdom",
-            "target": "France",
-            "value": 76.129997
-        },
-        {
-            "source": "Germany",
-            "target": "United Kingdom",
-            "value": 0.090000004
-        },
-        {
-            "source": "United Kingdom",
-            "target": "Germany",
-            "value": 0.0
-        },
-        {
-            "source": "Yugoslavia",
-            "target": "United Kingdom",
-            "value": 5.4400001
-        },
-        {
-            "source": "United Kingdom",
-            "target": "Yugoslavia",
-            "value": 0.0
-        },
-        {
-            "source": "Greece",
-            "target": "United Kingdom",
-            "value": 5.48
-        },
-        {
-            "source": "United Kingdom",
-            "target": "Greece",
-            "value": 0.0
-        },
-        {
-            "source": "Norway",
-            "target": "United Kingdom",
-            "value": 25.01
-        },
-        {
-            "source": "United Kingdom",
-            "target": "Norway",
-            "value": 22.23
-        },
-        {
             "source": "Denmark",
             "target": "United Kingdom",
             "value": 43.669998
@@ -2557,16 +2093,6 @@
             "source": "United Kingdom",
             "target": "Egypt",
             "value": 0.0
-        },
-        {
-            "source": "Japan",
-            "target": "United Kingdom",
-            "value": 24.459999
-        },
-        {
-            "source": "United Kingdom",
-            "target": "Japan",
-            "value": 2.5899999
         },
         {
             "source": "Netherlands",
@@ -2659,16 +2185,6 @@
             "value": 0.0
         },
         {
-            "source": "France",
-            "target": "Netherlands",
-            "value": 0.0
-        },
-        {
-            "source": "Netherlands",
-            "target": "France",
-            "value": 8.4799995
-        },
-        {
             "source": "Switzerland",
             "target": "Netherlands",
             "value": 0.0
@@ -2699,66 +2215,6 @@
             "value": 0.95999998
         },
         {
-            "source": "Germany",
-            "target": "Netherlands",
-            "value": 0.0
-        },
-        {
-            "source": "Netherlands",
-            "target": "Germany",
-            "value": 162.63
-        },
-        {
-            "source": "Hungary",
-            "target": "Netherlands",
-            "value": 0.0
-        },
-        {
-            "source": "Netherlands",
-            "target": "Hungary",
-            "value": 0.0
-        },
-        {
-            "source": "Italy",
-            "target": "Netherlands",
-            "value": 0.0
-        },
-        {
-            "source": "Netherlands",
-            "target": "Italy",
-            "value": 4.6500001
-        },
-        {
-            "source": "Yugoslavia",
-            "target": "Netherlands",
-            "value": 0.0
-        },
-        {
-            "source": "Netherlands",
-            "target": "Yugoslavia",
-            "value": 0.0
-        },
-        {
-            "source": "Greece",
-            "target": "Netherlands",
-            "value": 0.0
-        },
-        {
-            "source": "Netherlands",
-            "target": "Greece",
-            "value": 0.0
-        },
-        {
-            "source": "Romania",
-            "target": "Netherlands",
-            "value": 0.0
-        },
-        {
-            "source": "Netherlands",
-            "target": "Romania",
-            "value": 0.0
-        },
-        {
             "source": "Sweden",
             "target": "Netherlands",
             "value": 0.0
@@ -2769,16 +2225,6 @@
             "value": 9.0200005
         },
         {
-            "source": "Norway",
-            "target": "Netherlands",
-            "value": 0.0
-        },
-        {
-            "source": "Netherlands",
-            "target": "Norway",
-            "value": 2.8599999
-        },
-        {
             "source": "Denmark",
             "target": "Netherlands",
             "value": 0.0
@@ -2787,56 +2233,6 @@
             "source": "Netherlands",
             "target": "Denmark",
             "value": 3.6300001
-        },
-        {
-            "source": "South Africa",
-            "target": "Netherlands",
-            "value": 0.0
-        },
-        {
-            "source": "Netherlands",
-            "target": "South Africa",
-            "value": 2.0799999
-        },
-        {
-            "source": "China",
-            "target": "Netherlands",
-            "value": 0.0
-        },
-        {
-            "source": "Netherlands",
-            "target": "China",
-            "value": 0.20999999
-        },
-        {
-            "source": "Japan",
-            "target": "Netherlands",
-            "value": 0.0
-        },
-        {
-            "source": "Netherlands",
-            "target": "Japan",
-            "value": 0.64999998
-        },
-        {
-            "source": "Australia",
-            "target": "Netherlands",
-            "value": 0.0
-        },
-        {
-            "source": "Netherlands",
-            "target": "Australia",
-            "value": 2.75
-        },
-        {
-            "source": "New Zealand",
-            "target": "Netherlands",
-            "value": 0.0
-        },
-        {
-            "source": "Netherlands",
-            "target": "New Zealand",
-            "value": 0.31999999
         },
         {
             "source": "Switzerland",
@@ -2869,96 +2265,6 @@
             "value": 3.72
         },
         {
-            "source": "Germany",
-            "target": "France",
-            "value": 2.0599999
-        },
-        {
-            "source": "France",
-            "target": "Germany",
-            "value": 0.0
-        },
-        {
-            "source": "Hungary",
-            "target": "France",
-            "value": 3.6099999
-        },
-        {
-            "source": "France",
-            "target": "Hungary",
-            "value": 0.0
-        },
-        {
-            "source": "Italy",
-            "target": "France",
-            "value": 17.08
-        },
-        {
-            "source": "France",
-            "target": "Italy",
-            "value": 6.29
-        },
-        {
-            "source": "Yugoslavia",
-            "target": "France",
-            "value": 6.73
-        },
-        {
-            "source": "France",
-            "target": "Yugoslavia",
-            "value": 0.0
-        },
-        {
-            "source": "Greece",
-            "target": "France",
-            "value": 2.1500001
-        },
-        {
-            "source": "France",
-            "target": "Greece",
-            "value": 0.0
-        },
-        {
-            "source": "Bulgaria",
-            "target": "France",
-            "value": 0.5
-        },
-        {
-            "source": "France",
-            "target": "Bulgaria",
-            "value": 0.0
-        },
-        {
-            "source": "Romania",
-            "target": "France",
-            "value": 5.6399999
-        },
-        {
-            "source": "France",
-            "target": "Romania",
-            "value": 0.0
-        },
-        {
-            "source": "Russia",
-            "target": "France",
-            "value": 1.5599999
-        },
-        {
-            "source": "France",
-            "target": "Russia",
-            "value": 0.0
-        },
-        {
-            "source": "Finland",
-            "target": "France",
-            "value": 0.40000001
-        },
-        {
-            "source": "France",
-            "target": "Finland",
-            "value": 0.0
-        },
-        {
             "source": "Sweden",
             "target": "France",
             "value": 7.2399998
@@ -2969,16 +2275,6 @@
             "value": 5.8400002
         },
         {
-            "source": "Norway",
-            "target": "France",
-            "value": 3.8399999
-        },
-        {
-            "source": "France",
-            "target": "Norway",
-            "value": 3.24
-        },
-        {
             "source": "Denmark",
             "target": "France",
             "value": 0.68000001
@@ -2987,16 +2283,6 @@
             "source": "France",
             "target": "Denmark",
             "value": 1.03
-        },
-        {
-            "source": "South Africa",
-            "target": "France",
-            "value": 5.5300002
-        },
-        {
-            "source": "France",
-            "target": "South Africa",
-            "value": 3.4400001
         },
         {
             "source": "Iran",
@@ -3047,56 +2333,6 @@
             "source": "France",
             "target": "Afghanistan",
             "value": 0.0
-        },
-        {
-            "source": "China",
-            "target": "France",
-            "value": 4.0599999
-        },
-        {
-            "source": "France",
-            "target": "China",
-            "value": 0.46000001
-        },
-        {
-            "source": "Japan",
-            "target": "France",
-            "value": 6.7399998
-        },
-        {
-            "source": "France",
-            "target": "Japan",
-            "value": 2.8900001
-        },
-        {
-            "source": "Thailand",
-            "target": "France",
-            "value": 0.059999999
-        },
-        {
-            "source": "France",
-            "target": "Thailand",
-            "value": 0.0
-        },
-        {
-            "source": "Australia",
-            "target": "France",
-            "value": 27.16
-        },
-        {
-            "source": "France",
-            "target": "Australia",
-            "value": 3.3599999
-        },
-        {
-            "source": "New Zealand",
-            "target": "France",
-            "value": 6.1399999
-        },
-        {
-            "source": "France",
-            "target": "New Zealand",
-            "value": 0.49000001
         },
         {
             "source": "Germany",
@@ -3309,86 +2545,6 @@
             "value": 0.0
         },
         {
-            "source": "Hungary",
-            "target": "Germany",
-            "value": 82.940002
-        },
-        {
-            "source": "Germany",
-            "target": "Hungary",
-            "value": 0.0
-        },
-        {
-            "source": "Italy",
-            "target": "Germany",
-            "value": 203.27
-        },
-        {
-            "source": "Germany",
-            "target": "Italy",
-            "value": 258.78
-        },
-        {
-            "source": "Yugoslavia",
-            "target": "Germany",
-            "value": 95.93
-        },
-        {
-            "source": "Germany",
-            "target": "Yugoslavia",
-            "value": 0.0
-        },
-        {
-            "source": "Greece",
-            "target": "Germany",
-            "value": 37.220001
-        },
-        {
-            "source": "Germany",
-            "target": "Greece",
-            "value": 0.0
-        },
-        {
-            "source": "Bulgaria",
-            "target": "Germany",
-            "value": 70.769997
-        },
-        {
-            "source": "Germany",
-            "target": "Bulgaria",
-            "value": 0.0
-        },
-        {
-            "source": "Romania",
-            "target": "Germany",
-            "value": 170.91
-        },
-        {
-            "source": "Germany",
-            "target": "Romania",
-            "value": 0.0
-        },
-        {
-            "source": "Russia",
-            "target": "Germany",
-            "value": 156.34
-        },
-        {
-            "source": "Germany",
-            "target": "Russia",
-            "value": 0.0
-        },
-        {
-            "source": "Finland",
-            "target": "Germany",
-            "value": 31.68
-        },
-        {
-            "source": "Germany",
-            "target": "Finland",
-            "value": 0.0
-        },
-        {
             "source": "Sweden",
             "target": "Germany",
             "value": 138.46001
@@ -3397,16 +2553,6 @@
             "source": "Germany",
             "target": "Sweden",
             "value": 183.05
-        },
-        {
-            "source": "Norway",
-            "target": "Germany",
-            "value": 56.759998
-        },
-        {
-            "source": "Germany",
-            "target": "Norway",
-            "value": 77.139999
         },
         {
             "source": "Denmark",
@@ -3427,16 +2573,6 @@
             "source": "Germany",
             "target": "Liberia",
             "value": 0.0
-        },
-        {
-            "source": "South Africa",
-            "target": "Germany",
-            "value": 0.0
-        },
-        {
-            "source": "Germany",
-            "target": "South Africa",
-            "value": 0.37
         },
         {
             "source": "Iran",
@@ -3489,96 +2625,6 @@
             "value": 0.0
         },
         {
-            "source": "China",
-            "target": "Germany",
-            "value": 6.6700001
-        },
-        {
-            "source": "Germany",
-            "target": "China",
-            "value": 3.3
-        },
-        {
-            "source": "Japan",
-            "target": "Germany",
-            "value": 10.68
-        },
-        {
-            "source": "Germany",
-            "target": "Japan",
-            "value": 19.440001
-        },
-        {
-            "source": "Thailand",
-            "target": "Germany",
-            "value": 1.23
-        },
-        {
-            "source": "Germany",
-            "target": "Thailand",
-            "value": 0.0
-        },
-        {
-            "source": "Australia",
-            "target": "Germany",
-            "value": 0.0
-        },
-        {
-            "source": "Germany",
-            "target": "Australia",
-            "value": 3.96
-        },
-        {
-            "source": "New Zealand",
-            "target": "Germany",
-            "value": 0.0
-        },
-        {
-            "source": "Germany",
-            "target": "New Zealand",
-            "value": 0.15000001
-        },
-        {
-            "source": "Yugoslavia",
-            "target": "Hungary",
-            "value": 0.0
-        },
-        {
-            "source": "Hungary",
-            "target": "Yugoslavia",
-            "value": 0.0
-        },
-        {
-            "source": "Greece",
-            "target": "Hungary",
-            "value": 0.0
-        },
-        {
-            "source": "Hungary",
-            "target": "Greece",
-            "value": 0.0
-        },
-        {
-            "source": "Russia",
-            "target": "Hungary",
-            "value": 0.30000001
-        },
-        {
-            "source": "Hungary",
-            "target": "Russia",
-            "value": 0.1
-        },
-        {
-            "source": "Norway",
-            "target": "Hungary",
-            "value": 0.0
-        },
-        {
-            "source": "Hungary",
-            "target": "Norway",
-            "value": 0.37
-        },
-        {
             "source": "Denmark",
             "target": "Hungary",
             "value": 0.0
@@ -3587,36 +2633,6 @@
             "source": "Hungary",
             "target": "Denmark",
             "value": 0.58999997
-        },
-        {
-            "source": "Yugoslavia",
-            "target": "Italy",
-            "value": 22.620001
-        },
-        {
-            "source": "Italy",
-            "target": "Yugoslavia",
-            "value": 0.0
-        },
-        {
-            "source": "Greece",
-            "target": "Italy",
-            "value": 5.8800001
-        },
-        {
-            "source": "Italy",
-            "target": "Greece",
-            "value": 0.0
-        },
-        {
-            "source": "Norway",
-            "target": "Italy",
-            "value": 3.8599999
-        },
-        {
-            "source": "Italy",
-            "target": "Norway",
-            "value": 3.97
         },
         {
             "source": "Denmark",
@@ -3639,36 +2655,6 @@
             "value": 0.0
         },
         {
-            "source": "Japan",
-            "target": "Italy",
-            "value": 1.04
-        },
-        {
-            "source": "Italy",
-            "target": "Japan",
-            "value": 4.4899998
-        },
-        {
-            "source": "Greece",
-            "target": "Yugoslavia",
-            "value": 0.0
-        },
-        {
-            "source": "Yugoslavia",
-            "target": "Greece",
-            "value": 0.0
-        },
-        {
-            "source": "Romania",
-            "target": "Yugoslavia",
-            "value": 0.0
-        },
-        {
-            "source": "Yugoslavia",
-            "target": "Romania",
-            "value": 0.0
-        },
-        {
             "source": "Sweden",
             "target": "Yugoslavia",
             "value": 0.0
@@ -3679,16 +2665,6 @@
             "value": 1.9
         },
         {
-            "source": "Norway",
-            "target": "Yugoslavia",
-            "value": 0.0
-        },
-        {
-            "source": "Yugoslavia",
-            "target": "Norway",
-            "value": 0.22
-        },
-        {
             "source": "Denmark",
             "target": "Yugoslavia",
             "value": 0.0
@@ -3696,56 +2672,6 @@
         {
             "source": "Yugoslavia",
             "target": "Denmark",
-            "value": 0.0
-        },
-        {
-            "source": "South Africa",
-            "target": "Yugoslavia",
-            "value": 0.0
-        },
-        {
-            "source": "Yugoslavia",
-            "target": "South Africa",
-            "value": 0.11
-        },
-        {
-            "source": "China",
-            "target": "Yugoslavia",
-            "value": 0.0
-        },
-        {
-            "source": "Yugoslavia",
-            "target": "China",
-            "value": 0.0099999998
-        },
-        {
-            "source": "Australia",
-            "target": "Yugoslavia",
-            "value": 0.0
-        },
-        {
-            "source": "Yugoslavia",
-            "target": "Australia",
-            "value": 0.12
-        },
-        {
-            "source": "New Zealand",
-            "target": "Yugoslavia",
-            "value": 0.0
-        },
-        {
-            "source": "Yugoslavia",
-            "target": "New Zealand",
-            "value": 0.0097000003
-        },
-        {
-            "source": "Romania",
-            "target": "Greece",
-            "value": 0.0
-        },
-        {
-            "source": "Greece",
-            "target": "Romania",
             "value": 0.0
         },
         {
@@ -3759,16 +2685,6 @@
             "value": 1.41
         },
         {
-            "source": "Norway",
-            "target": "Greece",
-            "value": 0.0
-        },
-        {
-            "source": "Greece",
-            "target": "Norway",
-            "value": 0.25
-        },
-        {
             "source": "Denmark",
             "target": "Greece",
             "value": 0.0
@@ -3779,66 +2695,6 @@
             "value": 0.0
         },
         {
-            "source": "South Africa",
-            "target": "Greece",
-            "value": 0.0
-        },
-        {
-            "source": "Greece",
-            "target": "South Africa",
-            "value": 0.050000001
-        },
-        {
-            "source": "China",
-            "target": "Greece",
-            "value": 0.0
-        },
-        {
-            "source": "Greece",
-            "target": "China",
-            "value": 0.0070119998
-        },
-        {
-            "source": "Australia",
-            "target": "Greece",
-            "value": 0.0
-        },
-        {
-            "source": "Greece",
-            "target": "Australia",
-            "value": 0.039999999
-        },
-        {
-            "source": "New Zealand",
-            "target": "Greece",
-            "value": 0.0
-        },
-        {
-            "source": "Greece",
-            "target": "New Zealand",
-            "value": 0.029999999
-        },
-        {
-            "source": "Romania",
-            "target": "Bulgaria",
-            "value": 1.5
-        },
-        {
-            "source": "Bulgaria",
-            "target": "Romania",
-            "value": 0.5
-        },
-        {
-            "source": "Norway",
-            "target": "Bulgaria",
-            "value": 0.0
-        },
-        {
-            "source": "Bulgaria",
-            "target": "Norway",
-            "value": 0.029999999
-        },
-        {
             "source": "Denmark",
             "target": "Bulgaria",
             "value": 0.0
@@ -3847,16 +2703,6 @@
             "source": "Bulgaria",
             "target": "Denmark",
             "value": 0.0
-        },
-        {
-            "source": "Norway",
-            "target": "Romania",
-            "value": 0.0
-        },
-        {
-            "source": "Romania",
-            "target": "Norway",
-            "value": 0.15000001
         },
         {
             "source": "Denmark",
@@ -3869,16 +2715,6 @@
             "value": 0.69999999
         },
         {
-            "source": "Norway",
-            "target": "Russia",
-            "value": 0.0
-        },
-        {
-            "source": "Russia",
-            "target": "Norway",
-            "value": 0.12
-        },
-        {
             "source": "Denmark",
             "target": "Russia",
             "value": 0.0
@@ -3889,26 +2725,6 @@
             "value": 0.22
         },
         {
-            "source": "Japan",
-            "target": "Russia",
-            "value": 0.0
-        },
-        {
-            "source": "Russia",
-            "target": "Japan",
-            "value": 0.0
-        },
-        {
-            "source": "Norway",
-            "target": "Finland",
-            "value": 0.0
-        },
-        {
-            "source": "Finland",
-            "target": "Norway",
-            "value": 0.62
-        },
-        {
             "source": "Denmark",
             "target": "Finland",
             "value": 0.0
@@ -3917,16 +2733,6 @@
             "source": "Finland",
             "target": "Denmark",
             "value": 7.8600001
-        },
-        {
-            "source": "Japan",
-            "target": "Finland",
-            "value": 0.0
-        },
-        {
-            "source": "Finland",
-            "target": "Japan",
-            "value": 0.0
         },
         {
             "source": "Norway",
@@ -3989,16 +2795,6 @@
             "value": 0.0
         },
         {
-            "source": "South Africa",
-            "target": "Norway",
-            "value": 0.79000002
-        },
-        {
-            "source": "Norway",
-            "target": "South Africa",
-            "value": 1.1900001
-        },
-        {
             "source": "Iran",
             "target": "Norway",
             "value": 1.41
@@ -4047,56 +2843,6 @@
             "source": "Norway",
             "target": "Afghanistan",
             "value": 0.0
-        },
-        {
-            "source": "China",
-            "target": "Norway",
-            "value": 0.38999999
-        },
-        {
-            "source": "Norway",
-            "target": "China",
-            "value": 0.14
-        },
-        {
-            "source": "Japan",
-            "target": "Norway",
-            "value": 0.97000003
-        },
-        {
-            "source": "Norway",
-            "target": "Japan",
-            "value": 1.75
-        },
-        {
-            "source": "Thailand",
-            "target": "Norway",
-            "value": 0.07
-        },
-        {
-            "source": "Norway",
-            "target": "Thailand",
-            "value": 0.0
-        },
-        {
-            "source": "Australia",
-            "target": "Norway",
-            "value": 0.1
-        },
-        {
-            "source": "Norway",
-            "target": "Australia",
-            "value": 1.73
-        },
-        {
-            "source": "New Zealand",
-            "target": "Norway",
-            "value": 0.001363
-        },
-        {
-            "source": "Norway",
-            "target": "New Zealand",
-            "value": 0.11
         },
         {
             "source": "South Africa",
@@ -4190,16 +2936,6 @@
         },
         {
             "source": "Japan",
-            "target": "South Africa",
-            "value": 18.969999
-        },
-        {
-            "source": "South Africa",
-            "target": "Japan",
-            "value": 5.9000001
-        },
-        {
-            "source": "Japan",
             "target": "Iran",
             "value": 0.0
         },
@@ -4277,46 +3013,6 @@
             "source": "Saudi Arabia",
             "target": "Japan",
             "value": 0.0
-        },
-        {
-            "source": "Japan",
-            "target": "China",
-            "value": 27.969999
-        },
-        {
-            "source": "China",
-            "target": "Japan",
-            "value": 79.419998
-        },
-        {
-            "source": "Thailand",
-            "target": "Japan",
-            "value": 12.41
-        },
-        {
-            "source": "Japan",
-            "target": "Thailand",
-            "value": 0.0
-        },
-        {
-            "source": "Australia",
-            "target": "Japan",
-            "value": 22.059999
-        },
-        {
-            "source": "Japan",
-            "target": "Australia",
-            "value": 20.15
-        },
-        {
-            "source": "New Zealand",
-            "target": "Japan",
-            "value": 0.27000001
-        },
-        {
-            "source": "Japan",
-            "target": "New Zealand",
-            "value": 2.47
         }
     ]
 }

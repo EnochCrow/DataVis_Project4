@@ -57,15 +57,22 @@ def filter_data(in_filepath, chosen_year):
         new_df = pd.concat([new_df, row1_df], ignore_index=True)
         new_df = pd.concat([new_df, row2_df], ignore_index=True)
 
-    #source_nations = ['United States of America', 'United Kingdom', 'France', 'Russia', 'Germany', 'Italy', 'Japan']
+    source_nations = ['United States of America']
+    dest_nations = ['Germany', 'Japan']
     new_df = new_df.drop_duplicates()
-    #new_df = new_df[new_df['source'].isin(source_nations)]
     new_df.to_csv(final_out)
+
+    # new_df_test = new_df[new_df['source'].isin(source_nations)]
+    # new_df_test = new_df_test[new_df_test['target'].isin(dest_nations)]
+    # new_df_test['year'] = chosen_year
+    #print(new_df_test.head())
+
 
     links_json = {"links": new_df.to_dict(orient="records")}
     # print(type(links_json))
     #print(links)
     links = links_json["links"]
+    #print(links)
 
     # Convert JSON data to a string
     json_str = json.dumps(links, indent=4)
@@ -77,11 +84,34 @@ def filter_data(in_filepath, chosen_year):
         node_ids.add(link["source"])
         node_ids.add(link["target"])
 
+    axis = ['Germany','Italy','Japan','Hungary','Romania','Bulgaria','Finland','Croatia','Thailand']
+    allies = ['United Kingdom','United States of America','Russia','France','Poland','Belgium','Luxembourg','Netherlands','Norway','Greece','Yugoslavia','Ethiopia','Phillipines','China','Canada','Australia','New Zealand','South Africa','Brazil','Mexico','Mongolia']
+
     # Create nodes list
-    nodes = [{"id": node_id, "group": 1} for node_id in node_ids]
+
+    nodes = [{"id": node_id, "group": 1 if node_id in allies else (2 if node_id in axis else 3)} for node_id in node_ids]
 
     # Create JSON object
     nodes_json = {"nodes": nodes}
+
+    def remove_group(nodes, links, group_to_remove):
+        # Filter out nodes with the specified group value
+        filtered_nodes = [node for node in nodes if node["group"] != group_to_remove]
+        
+        # Filter out links where both source and target nodes belong to the specified group value
+        filtered_links = [link for link in links 
+                        if link["source"] not in [node["id"] for node in filtered_nodes] 
+                        or link["target"] not in [node["id"] for node in filtered_nodes]]
+        
+        return filtered_nodes, filtered_links
+
+    # Specify the group value to remove
+    group_to_remove = 3
+
+    # Remove nodes and links of the specified group value
+    filtered_nodes, filtered_links = remove_group(nodes, links, group_to_remove)
+    nodes_json = {"nodes": filtered_nodes}
+    links_json = {"links": filtered_links}
 
     # Convert to JSON string
     json_str = json.dumps(nodes_json, indent=4)
@@ -100,5 +130,8 @@ def filter_data(in_filepath, chosen_year):
 
     print("Final JSON exported to",out_json)
 
+us_export_data = pd.DataFrame()
 for i in range(1939, 1945):
     filter_data(temp_file_path, i)
+
+#us_export_data.to_csv('us_export_data_ww2.csv')
