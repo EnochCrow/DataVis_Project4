@@ -51,14 +51,11 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-import define from "https://api.observablehq.com/d/fdbcde3e5d72cb80@1106.js?v=4";
+import define from "https://api.observablehq.com/d/616461f95ef91404.js?v=4";
 new Runtime().module(define, name => {
-  if (name === "viewof Year2") return new Inspector(document.querySelector("#observablehq-viewof-Year2-6c46a573"));
-  if (name === "working_test_map_2") return new Inspector(document.querySelector("#observablehq-working_test_map_2-6c46a573"));
-  if (name === "viewof selectedState") return new Inspector(document.querySelector("#observablehq-viewof-selectedState-6c46a573"));
-  if (name === "state_plot") return new Inspector(document.querySelector("#observablehq-state_plot-6c46a573"));
-  if (name === "Box_Office_Plot") return new Inspector(document.querySelector("#observablehq-Box_Office_Plot-6c46a573"));
-  return ["year_data","working_test_map","test_map","working_test_map_3","total_num_theaters","total_theaters_curr_state","test_map_2","curr_state","curr_projection"].includes(name);
+  if (name === "viewof Year") return new Inspector(document.querySelector("#observablehq-viewof-Year-16c951b9"));
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-16c951b9"));
+  return ["selected_Year","data","data_index"].includes(name);
 });
 </script>
 
