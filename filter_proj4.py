@@ -18,6 +18,7 @@ ww2_trade_df = ww2_trade_df.reset_index(drop=True)
 ww2_trade_df.to_csv(temp_file_path)
 
 starting_nodes_json = {"nodes": {"id": "N/A", "group": 3}}
+orig_filtered_nodes = []
 
 def filter_data(in_filepath, chosen_year):
     
@@ -100,8 +101,14 @@ def filter_data(in_filepath, chosen_year):
     nodes_json = {"nodes": nodes}
 
     def remove_group(nodes, links, group_to_remove):
+        global orig_filtered_nodes
+
         # Filter out nodes with the specified group value
-        filtered_nodes = [node for node in nodes if node["group"] != group_to_remove]
+        if (chosen_year == 1938):
+            filtered_nodes = [node for node in nodes if node["group"] != group_to_remove]
+            orig_filtered_nodes = filtered_nodes
+        else:
+            filtered_nodes = orig_filtered_nodes
         
         # Filter out links where both source and target nodes belong to the specified group value
         filtered_links = [link for link in links 
