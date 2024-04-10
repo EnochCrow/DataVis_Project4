@@ -1,0 +1,435 @@
+,year,importer1,importer2,flow1,flow2
+0,1947,United States of America,Cuba,509.62,491.84
+1,1947,United States of America,Haiti,20.139999,25.209999
+2,1947,United States of America,Dominican Republic,30.219999,49.32
+3,1947,United States of America,Paraguay,2.26,7.7399998
+4,1947,United States of America,Netherlands,26.469999,451.10999
+5,1947,United States of America,France,47.009998,2678.011
+6,1947,United States of America,Spain,76.0,9.5400001e-06
+7,1947,United States of America,Poland,1.33,107.7
+8,1947,United States of America,Czechoslovakia,23.200001,60.31245
+9,1947,United States of America,Albania,0.0080000004,4.5500002
+10,1947,United States of America,Yugoslavia,5.7600002,31.49
+11,1947,United States of America,Greece,16.629999,166.50999
+12,1947,United States of America,Norway,22.1,191.5
+13,1947,United States of America,Denmark,5.1300001,126.23
+14,1947,United States of America,Ethiopia,5.5799999,8.0799999
+15,1947,United States of America,Egypt,28.08,60.110001
+16,1947,United States of America,Syria,7.77,43.150002
+17,1947,Canada,Cuba,21.85,6.8600001
+18,1947,Canada,Haiti,0.2,1.25
+19,1947,Canada,Dominican Republic,7.5300002,1.75
+20,1947,Canada,Paraguay,0.20999999,0.14
+21,1947,Canada,Netherlands,3.24,0.0
+22,1947,Canada,France,8.0500002,224.47986
+23,1947,Canada,Poland,0.002513,14.07
+24,1947,Canada,Czechoslovakia,3.3499999,7.3200002
+25,1947,Canada,Albania,0.0,0.46000001
+26,1947,Canada,Yugoslavia,0.02,6.1500001
+27,1947,Canada,Greece,0.079999998,4.98
+28,1947,Canada,Norway,4.5900002,20.290001
+29,1947,Canada,Denmark,1.33,4.23
+30,1947,Canada,Ethiopia,0.0082780002,0.079999998
+31,1947,Canada,Egypt,0.18000001,9.9899998
+32,1947,Canada,Syria,0.02,2.3299999
+33,1947,Cuba,Nicaragua,0.1,0.0099999998
+34,1947,Cuba,Costa Rica,0.18000001,0.14
+35,1947,Cuba,Colombia,0.0,1.87
+36,1947,Cuba,Peru,0.0049109999,0.31999999
+37,1947,Cuba,Brazil,0.0,0.07
+38,1947,Cuba,Argentina,0.0,0.25
+39,1947,Cuba,United Kingdom,27.969999,162.11
+40,1947,Cuba,Ireland,0.0,0.79000002
+41,1947,Cuba,Netherlands,0.0,10.31
+42,1947,Cuba,France,0.02,15.248394
+43,1947,Cuba,Switzerland,1.0700001,7.25
+44,1947,Cuba,Spain,0.18000001,2.6500001
+45,1947,Cuba,Portugal,0.0099999998,3.02
+46,1947,Cuba,Czechoslovakia,0.02,0.22
+47,1947,Cuba,Italy,0.0,0.0
+48,1947,Cuba,Sweden,1.21,1.09
+49,1947,Cuba,Norway,0.75,0.11
+50,1947,Cuba,Denmark,0.0,0.00020900001
+51,1947,Cuba,South Africa,0.0,0.55000001
+52,1947,Cuba,India,0.0,0.0061750002
+53,1947,Cuba,Australia,0.0,0.07
+54,1947,Cuba,New Zealand,0.0,0.02
+55,1947,Haiti,Costa Rica,0.0,0.0
+56,1947,Haiti,Colombia,0.0,0.079999998
+57,1947,Haiti,Peru,0.000231,0.00121
+58,1947,Haiti,Brazil,0.0,0.0
+59,1947,Haiti,Argentina,0.0,0.005806
+60,1947,Haiti,United Kingdom,1.83,4.1799998
+61,1947,Haiti,Netherlands,0.0,0.0
+62,1947,Haiti,France,0.0022549999,2.523751
+63,1947,Haiti,Switzerland,0.02,0.74000001
+64,1947,Haiti,Spain,8e-06,0.0
+65,1947,Haiti,Portugal,7.5999997e-05,0.00036199999
+66,1947,Haiti,Italy,0.0,0.0
+67,1947,Haiti,Norway,0.0048679998,3.24
+68,1947,Haiti,South Africa,0.0,0.0055300002
+69,1947,Haiti,Australia,0.0,0.00054899999
+70,1947,Haiti,New Zealand,0.0,0.0
+71,1947,Dominican Republic,Nicaragua,0.0,0.0
+72,1947,Dominican Republic,Costa Rica,0.029999999,1.8000001e-05
+73,1947,Dominican Republic,Colombia,0.0,0.000124
+74,1947,Dominican Republic,Peru,0.001874,0.00048399999
+75,1947,Dominican Republic,Argentina,0.0,0.029999999
+76,1947,Dominican Republic,United Kingdom,3.9300001,40.419998
+77,1947,Dominican Republic,Netherlands,0.0,0.0
+78,1947,Dominican Republic,France,0.0020059999,7.7534347
+79,1947,Dominican Republic,Spain,0.0052820002,0.67000002
+80,1947,Dominican Republic,Portugal,0.00059700001,0.0099999998
+81,1947,Dominican Republic,Italy,0.0,0.0
+82,1947,Dominican Republic,Norway,0.0059219999,0.18000001
+83,1947,Dominican Republic,South Africa,0.0,0.003943
+84,1947,Dominican Republic,New Zealand,0.0,0.0053079999
+85,1947,Mexico,Netherlands,2.02,0.0
+86,1947,Mexico,France,5.27,68.972366
+87,1947,Mexico,Czechoslovakia,1.23,0.36000001
+88,1947,Mexico,Norway,0.50999999,0.67000002
+89,1947,Mexico,Denmark,0.12,1.39
+90,1947,Guatemala,Netherlands,0.0,0.0
+91,1947,Guatemala,France,0.0024359999,0.14
+92,1947,Guatemala,Czechoslovakia,0.0099999998,0.0
+93,1947,Guatemala,Norway,0.0064900001,0.00121
+94,1947,Honduras,Netherlands,0.0,0.0
+95,1947,Honduras,France,0.001089,0.19
+96,1947,Honduras,Norway,0.004989,0.25999999
+97,1947,El Salvador,Netherlands,0.0,0.0
+98,1947,El Salvador,France,0.002625,0.029999999
+99,1947,El Salvador,Norway,0.0043810001,0.81999999
+100,1947,Nicaragua,Netherlands,0.029999999,0.0
+101,1947,Nicaragua,France,0.050000001,0.16
+102,1947,Nicaragua,Czechoslovakia,0.0061189998,2.6e-05
+103,1947,Nicaragua,Yugoslavia,0.0,0.0
+104,1947,Nicaragua,Norway,0.0024629999,0.0
+105,1947,Nicaragua,Denmark,0.0099999998,0.000193
+106,1947,Costa Rica,Paraguay,3.1e-05,0.0
+107,1947,Costa Rica,Netherlands,0.16,0.0
+108,1947,Costa Rica,France,0.15000001,0.07
+109,1947,Costa Rica,Poland,0.0,0.0
+110,1947,Costa Rica,Czechoslovakia,0.059999999,0.059999999
+111,1947,Costa Rica,Yugoslavia,0.0,0.0
+112,1947,Costa Rica,Greece,0.0,0.0
+113,1947,Costa Rica,Norway,0.039999999,0.059999999
+114,1947,Costa Rica,Denmark,0.0099999998,0.0023099999
+115,1947,Costa Rica,Egypt,0.000114,0.0
+116,1947,Costa Rica,Syria,0.0051040002,0.0099999998
+117,1947,Panama,France,0.0,0.0
+118,1947,Panama,Norway,0.19,1.9
+119,1947,Colombia,Paraguay,0.0099999998,0.0
+120,1947,Colombia,Netherlands,2.4200001,0.0
+121,1947,Colombia,France,5.6399999,5.1572704
+122,1947,Colombia,Poland,0.00034699999,0.0
+123,1947,Colombia,Czechoslovakia,0.34999999,0.0
+124,1947,Colombia,Albania,0.0,0.0
+125,1947,Colombia,Yugoslavia,0.0,0.0
+126,1947,Colombia,Greece,0.0,0.0
+127,1947,Colombia,Norway,0.60000002,0.00121
+128,1947,Colombia,Denmark,1.16,0.0
+129,1947,Colombia,Egypt,9.9999997e-06,0.0
+130,1947,Colombia,Syria,0.0,0.0
+131,1947,Venezuela,Netherlands,0.0,0.0
+132,1947,Venezuela,France,0.059999999,134.88432
+133,1947,Venezuela,Czechoslovakia,0.15000001,0.77999997
+134,1947,Venezuela,Norway,0.050000001,0.70999998
+135,1947,Venezuela,Denmark,0.0,0.001043
+136,1947,Ecuador,Netherlands,0.0,0.0
+137,1947,Ecuador,France,0.0054839998,1.7831624
+138,1947,Ecuador,Czechoslovakia,0.0099999998,0.039999999
+139,1947,Ecuador,Norway,0.02,0.02
+140,1947,Peru,Paraguay,0.090000004,0.00034100001
+141,1947,Peru,Netherlands,0.52999997,0.0
+142,1947,Peru,France,0.94,16.621944
+143,1947,Peru,Poland,0.0099999998,0.029999999
+144,1947,Peru,Czechoslovakia,0.34999999,0.34
+145,1947,Peru,Yugoslavia,0.00036100001,0.0
+146,1947,Peru,Greece,0.0,7.0000001e-06
+147,1947,Peru,Norway,0.91000003,0.31999999
+148,1947,Peru,Denmark,0.11,0.0
+149,1947,Peru,Egypt,0.0013079999,0.0
+150,1947,Peru,Syria,7.7999997e-05,0.0
+151,1947,Brazil,Paraguay,0.029999999,0.0
+152,1947,Brazil,Netherlands,6.1300001,32.799999
+153,1947,Brazil,France,25.460911,157.21559
+154,1947,Brazil,Poland,1.99,0.0
+155,1947,Brazil,Czechoslovakia,4.4099998,16.33
+156,1947,Brazil,Yugoslavia,0.0,0.0
+157,1947,Brazil,Greece,0.50999999,0.0
+158,1947,Brazil,Norway,8.6899996,7.96
+159,1947,Brazil,Denmark,1.54,13.05
+160,1947,Brazil,Egypt,0.5,0.0
+161,1947,Brazil,Syria,0.00086999999,0.0
+162,1947,Bolivia,Netherlands,0.0,0.0
+163,1947,Bolivia,France,0.00087599998,2.3043041
+164,1947,Bolivia,Czechoslovakia,0.001676,0.0
+165,1947,Bolivia,Norway,0.02,0.0
+166,1947,Paraguay,Argentina,0.0,2.52
+167,1947,Paraguay,United Kingdom,5.0,7.1799998
+168,1947,Paraguay,Netherlands,0.0,0.0
+169,1947,Paraguay,France,0.00068200001,4.9643846
+170,1947,Paraguay,Switzerland,0.11,1.14
+171,1947,Paraguay,Spain,0.002776,0.2
+172,1947,Paraguay,Portugal,0.00040399999,0.079999998
+173,1947,Paraguay,Czechoslovakia,0.0049549998,0.12
+174,1947,Paraguay,Italy,0.0,0.0
+175,1947,Paraguay,Norway,0.0099999998,0.14
+176,1947,Paraguay,South Africa,0.039999999,0.0077579999
+177,1947,Paraguay,India,0.0,0.0
+178,1947,Paraguay,Australia,0.0,0.0099999998
+179,1947,Paraguay,New Zealand,0.0,0.001073
+180,1947,Chile,Netherlands,0.0,0.0
+181,1947,Chile,France,0.02,96.197037
+182,1947,Chile,Czechoslovakia,0.02,3.9999999e-05
+183,1947,Chile,Norway,0.23,0.79000002
+184,1947,Chile,Denmark,0.0,0.002504
+185,1947,Argentina,United Kingdom,105.43,390.29999
+186,1947,Argentina,Netherlands,4.5,65.480003
+187,1947,Argentina,France,9.6607571,318.51166
+188,1947,Argentina,Poland,0.28999999,0.0
+189,1947,Argentina,Czechoslovakia,2.5799999,5.54
+190,1947,Argentina,Albania,0.0,0.0
+191,1947,Argentina,Yugoslavia,0.16,0.0
+192,1947,Argentina,Greece,0.059999999,0.0
+193,1947,Argentina,Norway,4.2279196,32.209999
+194,1947,Argentina,Denmark,0.50999999,18.309999
+195,1947,Argentina,Ethiopia,0.0065199998,0.0
+196,1947,Argentina,Egypt,0.02,0.0
+197,1947,Argentina,Syria,0.090000004,0.0
+198,1947,Uruguay,Netherlands,1.16,0.0
+199,1947,Uruguay,France,2.5599999,23.934523
+200,1947,Uruguay,Czechoslovakia,0.76999998,0.38999999
+201,1947,Uruguay,Norway,0.41999999,0.40000001
+202,1947,Uruguay,Denmark,0.62,0.0
+203,1947,United Kingdom,Netherlands,105.4,154.17
+204,1947,United Kingdom,France,126.42,278.00497
+205,1947,United Kingdom,Poland,5.8699999,163.78999
+206,1947,United Kingdom,Czechoslovakia,25.0,68.903267
+207,1947,United Kingdom,Albania,5.9999998e-05,7.98
+208,1947,United Kingdom,Yugoslavia,4.3000002,93.5
+209,1947,United Kingdom,Greece,27.98,133.69
+210,1947,United Kingdom,Norway,58.16,148.63
+211,1947,United Kingdom,Denmark,108.59,139.89
+212,1947,United Kingdom,Ethiopia,0.30000001,16.379999
+213,1947,United Kingdom,Egypt,59.830002,361.01001
+214,1947,United Kingdom,Syria,0.0,0.0
+215,1947,Ireland,Netherlands,11.59,0.0
+216,1947,Ireland,France,8.3100004,2.8077164
+217,1947,Ireland,Poland,0.0,0.0
+218,1947,Ireland,Czechoslovakia,5.7399998,0.050000001
+219,1947,Ireland,Yugoslavia,0.0,0.0
+220,1947,Ireland,Greece,1.1900001,0.0
+221,1947,Ireland,Norway,1.86,0.039999999
+222,1947,Ireland,Denmark,1.8099999,0.02
+223,1947,Ireland,Egypt,0.41,0.0
+224,1947,Netherlands,France,73.830002,129.78783
+225,1947,Netherlands,Switzerland,38.720001,38.290001
+226,1947,Netherlands,Spain,0.0,2.55
+227,1947,Netherlands,Portugal,0.0,6.29
+228,1947,Netherlands,Poland,0.0,0.0
+229,1947,Netherlands,Hungary,0.0,0.0
+230,1947,Netherlands,Czechoslovakia,46.290001,33.43
+231,1947,Netherlands,Italy,27.889999,21.219999
+232,1947,Netherlands,Albania,0.0,0.0
+233,1947,Netherlands,Yugoslavia,0.0,0.0
+234,1947,Netherlands,Greece,0.0,0.0
+235,1947,Netherlands,Bulgaria,0.0,0.0
+236,1947,Netherlands,Romania,0.0,0.0
+237,1947,Netherlands,Russia,0.0,0.0
+238,1947,Netherlands,Finland,18.51,0.0
+239,1947,Netherlands,Sweden,60.330002,48.130001
+240,1947,Netherlands,Norway,0.0,23.639999
+241,1947,Netherlands,Denmark,0.0,11.35
+242,1947,Netherlands,Iceland,0.0,0.0
+243,1947,Netherlands,Liberia,0.0,0.0
+244,1947,Netherlands,Ethiopia,0.0,0.0
+245,1947,Netherlands,South Africa,0.0,9.46
+246,1947,Netherlands,Iran,0.0,0.0
+247,1947,Netherlands,Turkey,0.0,0.0
+248,1947,Netherlands,Iraq,0.0,0.0
+249,1947,Netherlands,Egypt,0.0,0.0
+250,1947,Netherlands,Syria,0.0,0.0
+251,1947,Netherlands,Afghanistan,0.0,0.0
+252,1947,Netherlands,China,0.0,0.0
+253,1947,Netherlands,India,0.0,5.3456464
+254,1947,Netherlands,Thailand,0.0,0.0
+255,1947,Netherlands,Philippines,0.0,0.0
+256,1947,Netherlands,Australia,5.8400002,1.52
+257,1947,Netherlands,New Zealand,0.0,1.95
+258,1947,France,Switzerland,202.51659,107.19
+259,1947,France,Spain,0.16,0.090000004
+260,1947,France,Portugal,22.801605,15.76
+261,1947,France,Poland,30.03113,0.090000004
+262,1947,France,Hungary,3.7318244,0.0099999998
+263,1947,France,Czechoslovakia,46.692642,20.08
+264,1947,France,Italy,61.027409,16.690001
+265,1947,France,Albania,0.000101,2.8e-05
+266,1947,France,Yugoslavia,6.631021,0.029999999
+267,1947,France,Greece,3.3317797,0.02
+268,1947,France,Bulgaria,5.4452047,0.0036190001
+269,1947,France,Romania,0.2,0.0077200001
+270,1947,France,Russia,27.098351,0.00088200002
+271,1947,France,Finland,45.135815,0.090000004
+272,1947,France,Sweden,163.82191,52.619999
+273,1947,France,Norway,76.455421,30.57
+274,1947,France,Denmark,40.030354,21.040001
+275,1947,France,Iceland,7.2631578,0.0097190002
+276,1947,France,South Africa,68.864609,13.73
+277,1947,France,Iran,47.740543,0.059999999
+278,1947,France,Turkey,27.769068,0.059999999
+279,1947,France,Iraq,62.571342,0.029999999
+280,1947,France,Egypt,106.00209,0.23
+281,1947,France,Syria,0.0,0.0
+282,1947,France,Afghanistan,0.07,0.000181
+283,1947,France,China,38.264694,0.059999999
+284,1947,France,India,125.04697,5.7011704
+285,1947,France,Thailand,0.07,0.0045619998
+286,1947,France,Philippines,62.801517,0.0099999998
+287,1947,France,Australia,221.7511,5.3699999
+288,1947,France,New Zealand,45.95636,2.8299999
+289,1947,Switzerland,Poland,18.459999,1.5700001
+290,1947,Switzerland,Czechoslovakia,61.07,44.450001
+291,1947,Switzerland,Albania,0.0,0.000117
+292,1947,Switzerland,Yugoslavia,5.3899999,0.79000002
+293,1947,Switzerland,Greece,2.1900001,0.58999997
+294,1947,Switzerland,Norway,3.6900001,5.04
+295,1947,Switzerland,Denmark,35.0,17.360001
+296,1947,Switzerland,Ethiopia,1.36,0.02
+297,1947,Switzerland,Egypt,8.5699997,1.23
+298,1947,Switzerland,Syria,0.0,0.0
+299,1947,Spain,Poland,0.0,3.3e-05
+300,1947,Spain,Czechoslovakia,0.16,0.0
+301,1947,Spain,Yugoslavia,0.0,0.0
+302,1947,Spain,Greece,0.0028309999,0.0092630005
+303,1947,Spain,Norway,0.63999999,4.3899999
+304,1947,Spain,Denmark,0.58999997,4.4699998
+305,1947,Spain,Ethiopia,0.0036530001,0.003215
+306,1947,Spain,Egypt,2.9400001,0.19
+307,1947,Portugal,Poland,0.13,0.001712
+308,1947,Portugal,Czechoslovakia,0.94999999,3.55
+309,1947,Portugal,Albania,0.0,2.1e-05
+310,1947,Portugal,Yugoslavia,0.0099999998,0.0065959999
+311,1947,Portugal,Greece,0.0099999998,0.0089069996
+312,1947,Portugal,Norway,10.2,3.53
+313,1947,Portugal,Denmark,3.98,2.8699999
+314,1947,Portugal,Ethiopia,0.002134,0.000803
+315,1947,Portugal,Egypt,1.25,0.003761
+316,1947,Portugal,Syria,0.050000001,0.0064369999
+317,1947,Poland,Czechoslovakia,0.63999999,13.83
+318,1947,Poland,Italy,0.0,7.0
+319,1947,Poland,Sweden,7.6399999,48.25
+320,1947,Poland,Norway,1.77,11.92
+321,1947,Poland,Denmark,0.0,19.08
+322,1947,Poland,South Africa,3.05,0.059999999
+323,1947,Poland,India,0.0,0.56999999
+324,1947,Poland,Australia,0.0,0.0085899998
+325,1947,Poland,New Zealand,0.85000002,0.00034500001
+326,1947,Hungary,Czechoslovakia,1.0700001,11.41
+327,1947,Hungary,Russia,16.200001,13.5
+328,1947,Hungary,Norway,0.16,0.82999998
+329,1947,Hungary,Denmark,0.0,1.05
+330,1947,Czechoslovakia,Italy,23.120001,34.310001
+331,1947,Czechoslovakia,Albania,0.0,0.0050320001
+332,1947,Czechoslovakia,Yugoslavia,27.57,2.3800001
+333,1947,Czechoslovakia,Greece,5.3699999,0.31
+334,1947,Czechoslovakia,Bulgaria,17.9,0.83999997
+335,1947,Czechoslovakia,Romania,4.9200001,0.51999998
+336,1947,Czechoslovakia,Russia,39.040001,1.87
+337,1947,Czechoslovakia,Finland,1.16,0.16
+338,1947,Czechoslovakia,Sweden,40.080002,43.73
+339,1947,Czechoslovakia,Norway,13.32,13.98
+340,1947,Czechoslovakia,Denmark,16.059999,13.33
+341,1947,Czechoslovakia,Iceland,2.0899999,0.13
+342,1947,Czechoslovakia,Ethiopia,0.0,0.02
+343,1947,Czechoslovakia,South Africa,0.80000001,6.27
+344,1947,Czechoslovakia,Iran,0.87,0.25
+345,1947,Czechoslovakia,Turkey,15.99,0.87
+346,1947,Czechoslovakia,Egypt,16.85,0.47999999
+347,1947,Czechoslovakia,Syria,0.61000001,0.050000001
+348,1947,Czechoslovakia,China,0.07,0.11
+349,1947,Czechoslovakia,India,0.0,1.2397509
+350,1947,Czechoslovakia,Thailand,0.00062200002,0.0
+351,1947,Czechoslovakia,Philippines,1.4,0.0099999998
+352,1947,Czechoslovakia,Australia,3.3499999,0.43000001
+353,1947,Czechoslovakia,New Zealand,0.20999999,0.58999997
+354,1947,Italy,Albania,0.0,0.0
+355,1947,Italy,Yugoslavia,22.049999,0.0
+356,1947,Italy,Greece,10.55,0.0
+357,1947,Italy,Norway,13.4,22.690001
+358,1947,Italy,Denmark,23.23,20.790001
+359,1947,Italy,Ethiopia,0.0,0.0
+360,1947,Italy,Egypt,42.639999,0.0
+361,1947,Italy,Syria,5.02,0.0
+362,1947,Albania,Sweden,0.0,0.0
+363,1947,Albania,India,0.0,0.0
+364,1947,Albania,Australia,0.0,0.0
+365,1947,Albania,New Zealand,0.12,0.0
+366,1947,Yugoslavia,Sweden,0.44999999,1.87
+367,1947,Yugoslavia,Norway,0.23999999,0.36000001
+368,1947,Yugoslavia,Denmark,0.0,0.0
+369,1947,Yugoslavia,South Africa,0.22,0.63
+370,1947,Yugoslavia,India,0.0,0.0
+371,1947,Yugoslavia,Australia,0.0,0.0095950002
+372,1947,Yugoslavia,New Zealand,0.17,0.00096999999
+373,1947,Greece,Sweden,1.49,1.03
+374,1947,Greece,Norway,0.47999999,1.21
+375,1947,Greece,Denmark,0.0,0.001252
+376,1947,Greece,South Africa,1.7,0.07
+377,1947,Greece,India,0.0,0.28
+378,1947,Greece,Australia,0.0,0.029999999
+379,1947,Greece,New Zealand,1.09,0.0076029999
+380,1947,Bulgaria,Romania,1.3,0.69999999
+381,1947,Bulgaria,Norway,0.25999999,0.25999999
+382,1947,Bulgaria,Denmark,0.0,0.18000001
+383,1947,Romania,Norway,0.0045429999,0.006048
+384,1947,Romania,Denmark,0.0,0.13
+385,1947,Russia,Norway,2.47,10.57
+386,1947,Russia,Denmark,0.0,19.620001
+387,1947,Finland,Norway,2.3199999,5.9400001
+388,1947,Finland,Denmark,0.0,28.209999
+389,1947,Sweden,Norway,44.009998,65.0
+390,1947,Sweden,Denmark,42.970001,44.48
+391,1947,Sweden,Ethiopia,0.090000004,0.2
+392,1947,Sweden,Egypt,1.46,0.79000002
+393,1947,Sweden,Syria,0.079999998,0.28999999
+394,1947,Norway,Denmark,36.880001,32.869999
+395,1947,Norway,Iceland,0.77999997,0.19
+396,1947,Norway,Liberia,0.008467,0.0045429999
+397,1947,Norway,Ethiopia,0.0054429998,0.002109
+398,1947,Norway,South Africa,1.8,6.1900001
+399,1947,Norway,Iran,8.9399996,0.12
+400,1947,Norway,Turkey,2.02,0.07
+401,1947,Norway,Iraq,0.029999999,0.050000001
+402,1947,Norway,Egypt,0.54000002,0.58999997
+403,1947,Norway,Syria,0.039999999,0.0099999998
+404,1947,Norway,Lebanon,0.0,0.0
+405,1947,Norway,Jordan,0.0,0.0
+406,1947,Norway,Afghanistan,0.0086690001,0.0037720001
+407,1947,Norway,China,1.8,0.75
+408,1947,Norway,India,0.38,2.3599582
+409,1947,Norway,Pakistan,0.18000001,0.02
+410,1947,Norway,Thailand,0.38999999,0.050000001
+411,1947,Norway,Philippines,5.3000002,0.079999998
+412,1947,Norway,Australia,3.0899999,2.28
+413,1947,Norway,New Zealand,0.98000002,1.0
+414,1947,Denmark,Iceland,0.64999998,0.0
+415,1947,Denmark,South Africa,0.56,1.36
+416,1947,Denmark,Egypt,1.45,0.0
+417,1947,Denmark,China,0.37,0.0
+418,1947,Denmark,India,1.66,0.66000003
+419,1947,Denmark,Thailand,0.47,0.0
+420,1947,Denmark,Philippines,0.0,0.0
+421,1947,Denmark,Australia,2.4200001,0.11
+422,1947,Denmark,New Zealand,1.3200001,0.090000004
+423,1947,Ethiopia,South Africa,0.73000002,0.0020600001
+424,1947,Ethiopia,India,0.0,0.0
+425,1947,Ethiopia,Australia,0.0,0.001252
+426,1947,Ethiopia,New Zealand,0.0,3.2e-05
+427,1947,South Africa,Egypt,2.1300001,24.379999
+428,1947,Egypt,India,0.0,42.588959
+429,1947,Egypt,Australia,0.0,3.0899999
+430,1947,Egypt,New Zealand,2.0699999,0.31
+431,1947,Syria,India,0.0,0.02
+432,1947,Syria,Australia,0.0,0.0
+433,1947,Syria,New Zealand,0.000124,0.02

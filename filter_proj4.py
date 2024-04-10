@@ -73,7 +73,6 @@ def filter_data(in_filepath, chosen_year):
     # new_df_test['year'] = chosen_year
     #print(new_df_test.head())
 
-
     links_json = {"links": new_df.to_dict(orient="records")}
     # print(type(links_json))
     #print(links)
@@ -141,7 +140,7 @@ def filter_data(in_filepath, chosen_year):
     print("Final JSON exported to",out_json)
 
 us_export_data = pd.DataFrame()
-for i in range(1938, 1947):
+for i in range(1938, 1951):
     filter_data(temp_file_path, i)
 
 #us_export_data.to_csv('us_export_data_ww2.csv')

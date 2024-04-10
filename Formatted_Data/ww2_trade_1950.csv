@@ -1,0 +1,2221 @@
+,year,importer1,importer2,flow1,flow2
+0,1950,United States of America,Canada,2101.0,2162.1001
+1,1950,United States of America,Cuba,436.0,448.25
+2,1950,United States of America,Haiti,24.0,28.4
+3,1950,United States of America,Dominican Republic,41.0,35.310001
+4,1950,United States of America,Mexico,338.0,429.60001
+5,1950,United States of America,Guatemala,57.0,48.700001
+6,1950,United States of America,Honduras,21.0,28.16
+7,1950,United States of America,El Salvador,55.0,31.700001
+8,1950,United States of America,Nicaragua,20.0,22.0
+9,1950,United States of America,Costa Rica,26.0,30.9
+10,1950,United States of America,Panama,11.0,48.400002
+11,1950,United States of America,Colombia,335.0,255.39999
+12,1950,United States of America,Venezuela,347.0,404.79999
+13,1950,United States of America,Ecuador,37.0,30.25
+14,1950,United States of America,Peru,53.0,98.599998
+15,1950,United States of America,Brazil,767.0,416.45999
+16,1950,United States of America,Bolivia,38.0,25.85
+17,1950,United States of America,Paraguay,7.0,3.0
+18,1950,United States of America,Chile,172.0,118.5
+19,1950,United States of America,Argentina,221.0,146.0
+20,1950,United States of America,Uruguay,114.0,39.200001
+21,1950,United States of America,United Kingdom,359.0,592.29999
+22,1950,United States of America,Ireland,3.0,61.799999
+23,1950,United States of America,Netherlands,91.0,237.0
+24,1950,United States of America,Belgium,144.38741,293.68399
+25,1950,United States of America,Luxembourg,5.612576,11.41598
+26,1950,United States of America,France,141.0,376.10001
+27,1950,United States of America,Switzerland,118.0,145.5
+28,1950,United States of America,Spain,54.0,51.400002
+29,1950,United States of America,Portugal,26.0,42.900002
+30,1950,United States of America,Poland,12.0,9.0
+31,1950,United States of America,Hungary,2.0,3.0
+32,1950,United States of America,Czechoslovakia,28.0,11.0
+33,1950,United States of America,Italy,116.0,348.0
+34,1950,United States of America,Yugoslavia,20.0,48.599998
+35,1950,United States of America,Greece,19.0,138.89999
+36,1950,United States of America,Bulgaria,3.0,1.0
+37,1950,United States of America,Romania,0.0,2.0
+38,1950,United States of America,Russia,41.0,1.0
+39,1950,United States of America,Finland,37.0,22.700001
+40,1950,United States of America,Sweden,76.0,101.2
+41,1950,United States of America,Norway,44.0,82.5
+42,1950,United States of America,Denmark,13.0,78.800003
+43,1950,United States of America,Iceland,5.0,7.4000001
+44,1950,United States of America,Liberia,0.0,0.0
+45,1950,United States of America,Ethiopia,13.0,2.4000001
+46,1950,United States of America,South Africa,152.0,120.0
+47,1950,United States of America,Iran,25.0,67.800003
+48,1950,United States of America,Turkey,66.0,70.0
+49,1950,United States of America,Iraq,14.0,8.6000004
+50,1950,United States of America,Egypt,58.0,36.200001
+51,1950,United States of America,Syria,13.0,26.200001
+52,1950,United States of America,Lebanon,5.0,21.0
+53,1950,United States of America,Jordan,0.0,0.0
+54,1950,United States of America,Israel,9.0,105.5
+55,1950,United States of America,Saudi Arabia,26.0,32.0
+56,1950,United States of America,Yemen Arab Republic,0.0,0.0
+57,1950,United States of America,Afghanistan,0.0,0.0
+58,1950,United States of America,China,161.0,68.0
+59,1950,United States of America,Mongolia,0.0,0.0
+60,1950,United States of America,South Korea,3.0,23.0
+61,1950,United States of America,India,278.0,211.60001
+62,1950,United States of America,Pakistan,34.0,32.900002
+63,1950,United States of America,Myanmar,1.0,3.0999999
+64,1950,United States of America,Sri Lanka,71.0,7.3000002
+65,1950,United States of America,Nepal,0.0,0.0
+66,1950,United States of America,Thailand,81.0,28.0
+67,1950,United States of America,Philippines,253.0,281.16
+68,1950,United States of America,Indonesia,167.0,85.900002
+69,1950,United States of America,Australia,151.0,129.03
+70,1950,United States of America,New Zealand,69.0,35.310001
+71,1950,Canada,Cuba,4.1999998,17.27
+72,1950,Canada,Haiti,1.8,1.9
+73,1950,Canada,Dominican Republic,1.1,2.2
+74,1950,Canada,Mexico,33.200001,11.4
+75,1950,Canada,Guatemala,5.8000002,2.2
+76,1950,Canada,Honduras,5.5999999,0.33000001
+77,1950,Canada,El Salvador,0.80000001,1.3
+78,1950,Canada,Nicaragua,0.30000001,0.33000001
+79,1950,Canada,Costa Rica,3.4000001,2.2
+80,1950,Canada,Panama,5.4000001,2.0899999
+81,1950,Canada,Colombia,13.4,10.1
+82,1950,Canada,Venezuela,88.400002,22.700001
+83,1950,Canada,Ecuador,1.4,1.3200001
+84,1950,Canada,Peru,4.0,3.8
+85,1950,Canada,Brazil,28.6,13.97
+86,1950,Canada,Bolivia,2.4000001,2.0999999
+87,1950,Canada,Paraguay,0.30000001,0.1
+88,1950,Canada,Chile,1.3,2.2
+89,1950,Canada,Argentina,11.0,12.2
+90,1950,Canada,Uruguay,2.8,1.8
+91,1950,Canada,United Kingdom,409.60001,504.60001
+92,1950,Canada,Ireland,0.1,17.0
+93,1950,Canada,Netherlands,9.0,8.6999998
+94,1950,Canada,Belgium,22.331921,56.599869
+95,1950,Canada,Luxembourg,0.86807841,2.20013
+96,1950,Canada,France,14.9,22.6
+97,1950,Canada,Switzerland,14.6,30.799999
+98,1950,Canada,Spain,3.5,3.5999999
+99,1950,Canada,Portugal,2.0999999,6.0999999
+100,1950,Canada,Hungary,0.0,0.0
+101,1950,Canada,Czechoslovakia,6.0999999,2.0
+102,1950,Canada,Italy,9.5,6.8000002
+103,1950,Canada,Greece,0.1,1.2
+104,1950,Canada,Bulgaria,0.0,0.1
+105,1950,Canada,Romania,0.0,0.1
+106,1950,Canada,Russia,0.1,0.1
+107,1950,Canada,Finland,0.1,0.5
+108,1950,Canada,Sweden,5.1999998,3.9000001
+109,1950,Canada,Norway,1.4,12.3
+110,1950,Canada,Denmark,1.4,0.5
+111,1950,Canada,Iceland,0.2,0.69999999
+112,1950,Canada,Liberia,0.0,0.0
+113,1950,Canada,South Africa,5.0,39.099998
+114,1950,Canada,Iran,0.1,0.60000002
+115,1950,Canada,Turkey,1.2,3.5
+116,1950,Canada,Iraq,1.2,0.1
+117,1950,Canada,Egypt,0.69999999,5.0999999
+118,1950,Canada,Syria,0.0,0.40000001
+119,1950,Canada,Lebanon,0.0,0.40000001
+120,1950,Canada,Jordan,0.0,0.0
+121,1950,Canada,Israel,0.40000001,12.1
+122,1950,Canada,Saudi Arabia,28.4,0.80000001
+123,1950,Canada,Yemen Arab Republic,0.0,0.0
+124,1950,Canada,Afghanistan,0.0,0.0
+125,1950,Canada,China,5.3000002,1.8
+126,1950,Canada,North Korea,0.0,0.0
+127,1950,Canada,South Korea,0.0,1.0
+128,1950,Canada,India,37.599998,22.1
+129,1950,Canada,Pakistan,1.7,2.3
+130,1950,Canada,Myanmar,0.0,0.0
+131,1950,Canada,Sri Lanka,17.799999,4.3000002
+132,1950,Canada,Nepal,0.0,0.0
+133,1950,Canada,Thailand,1.1,1.1
+134,1950,Canada,Philippines,6.5,9.6800003
+135,1950,Canada,Indonesia,0.69999999,3.0
+136,1950,Canada,Australia,33.599998,34.869999
+137,1950,Canada,New Zealand,12.0,10.89
+138,1950,Cuba,Haiti,1.1,0.2
+139,1950,Cuba,Dominican Republic,0.11,0.11
+140,1950,Cuba,Guatemala,0.0,0.0
+141,1950,Cuba,Honduras,1.98,0.55000001
+142,1950,Cuba,El Salvador,1.3200001,0.2
+143,1950,Cuba,Costa Rica,0.0,0.0
+144,1950,Cuba,Panama,0.0,0.33000001
+145,1950,Cuba,Colombia,0.33000001,0.30000001
+146,1950,Cuba,Venezuela,0.44,3.3
+147,1950,Cuba,Ecuador,0.22,0.0
+148,1950,Cuba,Bolivia,0.0,0.0
+149,1950,Cuba,Chile,3.3,9.1999998
+150,1950,Cuba,Argentina,0.55000001,0.0
+151,1950,Cuba,Uruguay,0.0,1.2
+152,1950,Cuba,United Kingdom,9.3500004,105.5
+153,1950,Cuba,Ireland,0.11,5.3000002
+154,1950,Cuba,Netherlands,2.2,26.5
+155,1950,Cuba,Belgium,6.0353942,3.5615571
+156,1950,Cuba,Luxembourg,0.2346057,0.1384435
+157,1950,Cuba,France,2.97,21.4
+158,1950,Cuba,Switzerland,2.0899999,13.4
+159,1950,Cuba,Spain,7.1500001,3.3
+160,1950,Cuba,Portugal,0.66000003,2.5
+161,1950,Cuba,Poland,0.11,0.0
+162,1950,Cuba,Hungary,0.0,0.0
+163,1950,Cuba,Czechoslovakia,0.66000003,0.0
+164,1950,Cuba,Italy,2.8599999,0.69999999
+165,1950,Cuba,Albania,0.0,0.0
+166,1950,Cuba,Yugoslavia,0.0,1.3
+167,1950,Cuba,Greece,0.0,4.8000002
+168,1950,Cuba,Bulgaria,0.0,0.0
+169,1950,Cuba,Romania,0.0,0.0
+170,1950,Cuba,Russia,0.0,0.1
+171,1950,Cuba,Finland,0.33000001,0.89999998
+172,1950,Cuba,Sweden,1.87,1.2
+173,1950,Cuba,Norway,1.98,3.8
+174,1950,Cuba,Iceland,0.0,0.30000001
+175,1950,Cuba,Liberia,0.0,0.0
+176,1950,Cuba,Ethiopia,0.0,0.0
+177,1950,Cuba,South Africa,0.0,0.0
+178,1950,Cuba,Iran,0.0,0.0
+179,1950,Cuba,Turkey,0.0,0.0
+180,1950,Cuba,Iraq,0.0,0.0
+181,1950,Cuba,Egypt,0.0,1.8
+182,1950,Cuba,Syria,0.0,1.1
+183,1950,Cuba,Lebanon,0.0,0.80000001
+184,1950,Cuba,Jordan,0.0,0.0
+185,1950,Cuba,Israel,0.0,0.0
+186,1950,Cuba,Saudi Arabia,0.0,0.0
+187,1950,Cuba,China,0.11,5.5
+188,1950,Cuba,North Korea,0.0,0.0
+189,1950,Cuba,South Korea,0.0,0.0
+190,1950,Cuba,India,21.120001,3.2
+191,1950,Cuba,Pakistan,0.0,2.2
+192,1950,Cuba,Sri Lanka,0.0,0.40000001
+193,1950,Cuba,Thailand,0.0,0.30000001
+194,1950,Cuba,Philippines,0.0,0.0
+195,1950,Cuba,Indonesia,0.0,0.0
+196,1950,Cuba,Australia,0.0,0.11
+197,1950,Cuba,New Zealand,0.0,0.0
+198,1950,Haiti,Dominican Republic,0.0,0.1
+199,1950,Haiti,Guatemala,0.0,0.0
+200,1950,Haiti,Honduras,0.0,0.0
+201,1950,Haiti,El Salvador,0.0,0.0
+202,1950,Haiti,Nicaragua,0.0,0.0
+203,1950,Haiti,Panama,0.0,0.0
+204,1950,Haiti,Colombia,0.0,0.2
+205,1950,Haiti,Ecuador,0.0,0.0
+206,1950,Haiti,Brazil,0.0,0.0
+207,1950,Haiti,Bolivia,0.0,0.0
+208,1950,Haiti,Paraguay,0.0,0.0
+209,1950,Haiti,Uruguay,0.0,0.0
+210,1950,Haiti,United Kingdom,1.7,1.4
+211,1950,Haiti,Ireland,0.0,0.0
+212,1950,Haiti,Netherlands,0.2,2.2
+213,1950,Haiti,Belgium,0.77006632,5.2942061
+214,1950,Haiti,Luxembourg,0.0299337,0.20579439
+215,1950,Haiti,France,0.60000002,0.30000001
+216,1950,Haiti,Switzerland,0.2,2.5999999
+217,1950,Haiti,Spain,0.0,0.0
+218,1950,Haiti,Poland,0.0,0.0
+219,1950,Haiti,Hungary,0.0,0.0
+220,1950,Haiti,Czechoslovakia,0.1,0.0
+221,1950,Haiti,Italy,0.5,4.9000001
+222,1950,Haiti,Yugoslavia,0.0,0.0
+223,1950,Haiti,Greece,0.0,0.0
+224,1950,Haiti,Finland,0.0,0.0
+225,1950,Haiti,Sweden,0.0,0.0
+226,1950,Haiti,Denmark,0.0,0.0
+227,1950,Haiti,Iceland,0.0,0.0
+228,1950,Haiti,Liberia,0.0,0.0
+229,1950,Haiti,Turkey,0.0,0.0
+230,1950,Haiti,Iraq,0.0,0.0
+231,1950,Haiti,Egypt,0.0,0.0
+232,1950,Haiti,Syria,0.0,0.1
+233,1950,Haiti,Lebanon,0.0,0.0
+234,1950,Haiti,Jordan,0.0,0.0
+235,1950,Haiti,Israel,0.0,0.0
+236,1950,Haiti,China,0.1,0.0
+237,1950,Haiti,South Korea,0.0,0.0
+238,1950,Haiti,India,0.30000001,0.0
+239,1950,Haiti,Pakistan,0.0,0.0
+240,1950,Haiti,Sri Lanka,0.0,1.0
+241,1950,Haiti,Thailand,0.0,0.0
+242,1950,Haiti,Philippines,0.0,0.0
+243,1950,Haiti,Indonesia,0.0,0.0
+244,1950,Haiti,Australia,0.0,0.0
+245,1950,Haiti,New Zealand,0.0,0.0
+246,1950,Dominican Republic,Mexico,0.55000001,0.0
+247,1950,Dominican Republic,Guatemala,0.0,0.0
+248,1950,Dominican Republic,Honduras,0.0,0.11
+249,1950,Dominican Republic,El Salvador,0.0,0.0
+250,1950,Dominican Republic,Panama,0.0,0.0
+251,1950,Dominican Republic,Colombia,0.0,0.0
+252,1950,Dominican Republic,Venezuela,0.0,0.2
+253,1950,Dominican Republic,Ecuador,0.0,0.0
+254,1950,Dominican Republic,Brazil,0.0,0.0
+255,1950,Dominican Republic,Bolivia,0.0,0.0
+256,1950,Dominican Republic,Paraguay,0.0,0.0
+257,1950,Dominican Republic,Uruguay,0.0,0.1
+258,1950,Dominican Republic,United Kingdom,1.1,40.700001
+259,1950,Dominican Republic,Ireland,0.0,0.40000001
+260,1950,Dominican Republic,Netherlands,0.11,0.89999998
+261,1950,Dominican Republic,Belgium,0.52942061,0.86632448
+262,1950,Dominican Republic,Luxembourg,0.0205794,0.033675499
+263,1950,Dominican Republic,France,0.22,0.0
+264,1950,Dominican Republic,Switzerland,0.22,0.60000002
+265,1950,Dominican Republic,Spain,0.33000001,3.9000001
+266,1950,Dominican Republic,Poland,0.0,0.0
+267,1950,Dominican Republic,Hungary,0.0,0.0
+268,1950,Dominican Republic,Czechoslovakia,0.11,0.0
+269,1950,Dominican Republic,Italy,0.33000001,0.30000001
+270,1950,Dominican Republic,Yugoslavia,0.0,0.0
+271,1950,Dominican Republic,Greece,0.0,0.0
+272,1950,Dominican Republic,Bulgaria,0.0,0.0
+273,1950,Dominican Republic,Romania,0.0,0.0
+274,1950,Dominican Republic,Russia,0.0,0.0
+275,1950,Dominican Republic,Finland,0.0,0.0
+276,1950,Dominican Republic,Sweden,0.11,0.0
+277,1950,Dominican Republic,Denmark,0.0,0.0
+278,1950,Dominican Republic,Iceland,0.0,0.0
+279,1950,Dominican Republic,Liberia,0.0,0.0
+280,1950,Dominican Republic,Iran,0.0,0.0
+281,1950,Dominican Republic,Turkey,0.0,0.0
+282,1950,Dominican Republic,Iraq,0.0,0.0
+283,1950,Dominican Republic,Egypt,0.0,0.0
+284,1950,Dominican Republic,Lebanon,0.0,0.0
+285,1950,Dominican Republic,Jordan,0.0,0.0
+286,1950,Dominican Republic,Israel,0.0,0.0
+287,1950,Dominican Republic,Saudi Arabia,0.0,0.0
+288,1950,Dominican Republic,Afghanistan,0.0,0.0
+289,1950,Dominican Republic,China,0.0,0.0
+290,1950,Dominican Republic,North Korea,0.0,0.0
+291,1950,Dominican Republic,South Korea,0.0,0.0
+292,1950,Dominican Republic,India,1.65,0.0
+293,1950,Dominican Republic,Pakistan,0.0,0.0
+294,1950,Dominican Republic,Myanmar,0.0,0.0
+295,1950,Dominican Republic,Sri Lanka,0.0,0.69999999
+296,1950,Dominican Republic,Thailand,0.0,0.0
+297,1950,Dominican Republic,Philippines,0.0,0.0
+298,1950,Dominican Republic,Indonesia,0.0,0.0
+299,1950,Mexico,Guatemala,0.30000001,4.5
+300,1950,Mexico,Honduras,0.0,1.1
+301,1950,Mexico,El Salvador,0.0,1.0
+302,1950,Mexico,Nicaragua,0.0,0.55000001
+303,1950,Mexico,Costa Rica,0.0,0.60000002
+304,1950,Mexico,Panama,0.0,1.1
+305,1950,Mexico,Colombia,0.0,0.80000001
+306,1950,Mexico,Venezuela,0.0,1.8
+307,1950,Mexico,Ecuador,0.0,0.2
+308,1950,Mexico,Peru,0.1,0.40000001
+309,1950,Mexico,Brazil,0.1,1.1
+310,1950,Mexico,Bolivia,0.0,0.0
+311,1950,Mexico,Paraguay,0.0,0.0
+312,1950,Mexico,Chile,0.2,0.30000001
+313,1950,Mexico,Argentina,0.80000001,0.0
+314,1950,Mexico,Uruguay,0.40000001,0.5
+315,1950,Mexico,United Kingdom,11.6,15.8
+316,1950,Mexico,Ireland,0.0,0.2
+317,1950,Mexico,Netherlands,1.7,4.5
+318,1950,Mexico,Belgium,3.946589,18.38533
+319,1950,Mexico,Luxembourg,0.1534104,0.71466798
+320,1950,Mexico,France,6.0,6.4000001
+321,1950,Mexico,Switzerland,5.3000002,10.5
+322,1950,Mexico,Spain,2.8,0.30000001
+323,1950,Mexico,Portugal,0.69999999,0.5
+324,1950,Mexico,Hungary,0.0,0.0
+325,1950,Mexico,Czechoslovakia,0.60000002,0.0
+326,1950,Mexico,Italy,3.9000001,12.3
+327,1950,Mexico,Romania,0.0,0.0
+328,1950,Mexico,Russia,0.0,0.89999998
+329,1950,Mexico,Finland,0.2,0.40000001
+330,1950,Mexico,Sweden,7.0999999,7.1999998
+331,1950,Mexico,Norway,0.60000002,0.40000001
+332,1950,Mexico,Denmark,0.1,0.2
+333,1950,Mexico,Iceland,0.0,0.0
+334,1950,Mexico,Liberia,0.0,0.0
+335,1950,Mexico,Ethiopia,0.0,0.0
+336,1950,Mexico,South Africa,0.1,0.1
+337,1950,Mexico,Iran,0.0,0.5
+338,1950,Mexico,Turkey,0.0,0.0
+339,1950,Mexico,Iraq,0.0,0.2
+340,1950,Mexico,Egypt,0.0,0.0
+341,1950,Mexico,Lebanon,0.0,0.40000001
+342,1950,Mexico,Jordan,0.0,0.0
+343,1950,Mexico,Israel,0.0,0.2
+344,1950,Mexico,Saudi Arabia,0.0,0.0
+345,1950,Mexico,China,0.2,0.2
+346,1950,Mexico,South Korea,0.0,0.0
+347,1950,Mexico,India,0.30000001,0.80000001
+348,1950,Mexico,Pakistan,0.0,0.0
+349,1950,Mexico,Myanmar,0.0,0.0
+350,1950,Mexico,Sri Lanka,0.5,0.0
+351,1950,Mexico,Thailand,0.0,0.0
+352,1950,Mexico,Philippines,0.0,0.0
+353,1950,Mexico,Indonesia,0.2,0.1
+354,1950,Mexico,Australia,4.0999999,0.0
+355,1950,Mexico,New Zealand,0.60000002,0.0
+356,1950,Guatemala,Honduras,0.1,0.11
+357,1950,Guatemala,El Salvador,1.5,0.2
+358,1950,Guatemala,Nicaragua,0.0,0.0
+359,1950,Guatemala,Costa Rica,0.0,0.0
+360,1950,Guatemala,Panama,0.0,0.22
+361,1950,Guatemala,Colombia,0.0,0.0
+362,1950,Guatemala,Venezuela,0.30000001,0.0
+363,1950,Guatemala,Ecuador,0.0,0.0
+364,1950,Guatemala,Peru,0.30000001,0.0
+365,1950,Guatemala,Brazil,0.0,0.0
+366,1950,Guatemala,Bolivia,0.0,0.0
+367,1950,Guatemala,Paraguay,0.0,0.0
+368,1950,Guatemala,Chile,0.0,0.0
+369,1950,Guatemala,Argentina,0.0,0.0
+370,1950,Guatemala,Uruguay,0.0,0.0
+371,1950,Guatemala,United Kingdom,2.2,0.0
+372,1950,Guatemala,Ireland,0.0,0.0
+373,1950,Guatemala,Netherlands,0.30000001,1.7
+374,1950,Guatemala,Belgium,1.251358,2.310199
+375,1950,Guatemala,Luxembourg,0.0486423,0.0898012
+376,1950,Guatemala,France,0.5,0.30000001
+377,1950,Guatemala,Switzerland,0.60000002,2.4000001
+378,1950,Guatemala,Spain,0.2,0.0
+379,1950,Guatemala,Portugal,0.0,0.0
+380,1950,Guatemala,Poland,0.0,0.0
+381,1950,Guatemala,Hungary,0.0,0.0
+382,1950,Guatemala,Czechoslovakia,0.5,0.0
+383,1950,Guatemala,Italy,0.5,0.40000001
+384,1950,Guatemala,Yugoslavia,0.0,0.0
+385,1950,Guatemala,Greece,0.0,0.0
+386,1950,Guatemala,Bulgaria,0.0,0.0
+387,1950,Guatemala,Romania,0.0,0.0
+388,1950,Guatemala,Russia,0.0,0.0
+389,1950,Guatemala,Finland,0.0,0.0
+390,1950,Guatemala,Sweden,0.30000001,0.0
+391,1950,Guatemala,Denmark,0.0,0.0
+392,1950,Guatemala,Iceland,0.0,0.0
+393,1950,Guatemala,Ethiopia,0.0,0.0
+394,1950,Guatemala,South Africa,0.0,0.0
+395,1950,Guatemala,Iran,0.0,0.0
+396,1950,Guatemala,Turkey,0.0,0.0
+397,1950,Guatemala,Egypt,0.0,0.0
+398,1950,Guatemala,Syria,0.0,0.0
+399,1950,Guatemala,Lebanon,0.0,0.0
+400,1950,Guatemala,Jordan,0.0,0.0
+401,1950,Guatemala,Israel,0.0,0.0
+402,1950,Guatemala,Saudi Arabia,0.0,0.0
+403,1950,Guatemala,Yemen Arab Republic,0.0,0.0
+404,1950,Guatemala,China,0.0,0.0
+405,1950,Guatemala,North Korea,0.0,0.0
+406,1950,Guatemala,South Korea,0.0,0.0
+407,1950,Guatemala,India,0.60000002,0.0
+408,1950,Guatemala,Pakistan,0.0,0.0
+409,1950,Guatemala,Sri Lanka,0.0,0.0
+410,1950,Guatemala,Thailand,0.0,0.0
+411,1950,Guatemala,Philippines,0.0,0.0
+412,1950,Guatemala,Indonesia,0.0,0.0
+413,1950,Guatemala,Australia,0.0,0.0
+414,1950,Guatemala,New Zealand,0.0,0.0
+415,1950,Honduras,El Salvador,1.76,2.0999999
+416,1950,Honduras,Nicaragua,0.11,0.0
+417,1950,Honduras,Costa Rica,0.0,0.40000001
+418,1950,Honduras,Panama,0.0,0.22
+419,1950,Honduras,Colombia,0.0,0.0
+420,1950,Honduras,Venezuela,0.11,0.2
+421,1950,Honduras,Ecuador,0.0,0.0
+422,1950,Honduras,Peru,0.33000001,0.0
+423,1950,Honduras,Brazil,0.0,0.0
+424,1950,Honduras,Bolivia,0.0,0.0
+425,1950,Honduras,Chile,0.0,0.0
+426,1950,Honduras,Argentina,0.0,0.0
+427,1950,Honduras,Uruguay,0.0,0.0
+428,1950,Honduras,United Kingdom,0.88,0.60000002
+429,1950,Honduras,Ireland,0.0,0.0
+430,1950,Honduras,Netherlands,0.0,0.2
+431,1950,Honduras,Belgium,0.0,0.096258298
+432,1950,Honduras,Luxembourg,0.0,0.0037417
+433,1950,Honduras,Switzerland,0.11,0.2
+434,1950,Honduras,Spain,0.0,0.0
+435,1950,Honduras,Portugal,0.0,0.0
+436,1950,Honduras,Poland,0.0,0.0
+437,1950,Honduras,Hungary,0.0,0.0
+438,1950,Honduras,Czechoslovakia,0.0,0.0
+439,1950,Honduras,Italy,0.11,0.60000002
+440,1950,Honduras,Albania,0.0,0.0
+441,1950,Honduras,Yugoslavia,0.0,0.0
+442,1950,Honduras,Greece,0.0,0.0
+443,1950,Honduras,Bulgaria,0.0,0.0
+444,1950,Honduras,Romania,0.0,0.0
+445,1950,Honduras,Russia,0.0,0.0
+446,1950,Honduras,Finland,0.0,0.0
+447,1950,Honduras,Sweden,0.0,0.0
+448,1950,Honduras,Denmark,0.0,0.0
+449,1950,Honduras,Iceland,0.0,0.0
+450,1950,Honduras,Liberia,0.0,0.0
+451,1950,Honduras,South Africa,0.0,0.0
+452,1950,Honduras,Iran,0.0,0.0
+453,1950,Honduras,Turkey,0.0,0.0
+454,1950,Honduras,Iraq,0.0,0.0
+455,1950,Honduras,Egypt,0.0,0.0
+456,1950,Honduras,Syria,0.0,0.0
+457,1950,Honduras,Lebanon,0.0,0.0
+458,1950,Honduras,Jordan,0.0,0.0
+459,1950,Honduras,Israel,0.0,0.0
+460,1950,Honduras,Saudi Arabia,0.0,0.0
+461,1950,Honduras,Afghanistan,0.0,0.0
+462,1950,Honduras,China,0.0,0.0
+463,1950,Honduras,North Korea,0.0,0.0
+464,1950,Honduras,South Korea,0.0,0.0
+465,1950,Honduras,India,0.0,0.0
+466,1950,Honduras,Pakistan,0.0,0.0
+467,1950,Honduras,Myanmar,0.0,0.0
+468,1950,Honduras,Sri Lanka,0.0,0.0
+469,1950,Honduras,Thailand,0.0,0.0
+470,1950,Honduras,Philippines,0.0,0.0
+471,1950,Honduras,Indonesia,0.0,0.0
+472,1950,Honduras,Australia,0.0,0.0
+473,1950,Honduras,New Zealand,0.0,0.0
+474,1950,El Salvador,Nicaragua,0.40000001,0.22
+475,1950,El Salvador,Costa Rica,0.0,0.1
+476,1950,El Salvador,Panama,0.0,0.11
+477,1950,El Salvador,Colombia,0.0,0.0
+478,1950,El Salvador,Venezuela,0.0,0.1
+479,1950,El Salvador,Ecuador,0.0,0.0
+480,1950,El Salvador,Peru,0.80000001,0.0
+481,1950,El Salvador,Brazil,0.0,0.0
+482,1950,El Salvador,Bolivia,0.0,0.0
+483,1950,El Salvador,Paraguay,0.0,0.0
+484,1950,El Salvador,Chile,0.2,0.0
+485,1950,El Salvador,Argentina,0.0,0.0
+486,1950,El Salvador,Uruguay,0.0,0.0
+487,1950,El Salvador,United Kingdom,1.6,1.0
+488,1950,El Salvador,Ireland,0.0,0.0
+489,1950,El Salvador,Netherlands,1.2,0.1
+490,1950,El Salvador,Belgium,0.5775497,0.48129141
+491,1950,El Salvador,Luxembourg,0.0224503,0.0187086
+492,1950,El Salvador,France,0.40000001,0.0
+493,1950,El Salvador,Switzerland,0.5,1.2
+494,1950,El Salvador,Spain,0.1,0.0
+495,1950,El Salvador,Portugal,0.0,0.0
+496,1950,El Salvador,Poland,0.0,0.0
+497,1950,El Salvador,Hungary,0.0,0.0
+498,1950,El Salvador,Czechoslovakia,0.1,0.0
+499,1950,El Salvador,Italy,1.1,1.9
+500,1950,El Salvador,Yugoslavia,0.0,0.0
+501,1950,El Salvador,Greece,0.0,0.0
+502,1950,El Salvador,Bulgaria,0.0,0.0
+503,1950,El Salvador,Romania,0.0,0.0
+504,1950,El Salvador,Russia,0.0,0.0
+505,1950,El Salvador,Finland,0.0,0.0
+506,1950,El Salvador,Sweden,0.60000002,0.2
+507,1950,El Salvador,Denmark,0.2,0.0
+508,1950,El Salvador,Iceland,0.0,0.0
+509,1950,El Salvador,South Africa,0.0,0.0
+510,1950,El Salvador,Iran,0.0,0.0
+511,1950,El Salvador,Turkey,0.0,0.0
+512,1950,El Salvador,Iraq,0.0,0.0
+513,1950,El Salvador,Egypt,0.0,0.0
+514,1950,El Salvador,Lebanon,0.0,0.0
+515,1950,El Salvador,Jordan,0.0,0.0
+516,1950,El Salvador,Israel,0.0,0.0
+517,1950,El Salvador,Saudi Arabia,0.0,0.0
+518,1950,El Salvador,Afghanistan,0.0,0.0
+519,1950,El Salvador,China,0.0,0.0
+520,1950,El Salvador,South Korea,0.0,0.0
+521,1950,El Salvador,India,0.0,0.0
+522,1950,El Salvador,Pakistan,0.0,0.0
+523,1950,El Salvador,Sri Lanka,0.0,0.0
+524,1950,El Salvador,Thailand,0.0,0.0
+525,1950,El Salvador,Philippines,0.0,0.0
+526,1950,El Salvador,Indonesia,0.0,0.0
+527,1950,El Salvador,Australia,0.0,0.0
+528,1950,El Salvador,New Zealand,0.0,0.0
+529,1950,Nicaragua,Costa Rica,0.11,0.2
+530,1950,Nicaragua,Panama,0.11,0.1
+531,1950,Nicaragua,Colombia,0.0,0.1
+532,1950,Nicaragua,Venezuela,0.0,0.2
+533,1950,Nicaragua,Ecuador,0.0,0.0
+534,1950,Nicaragua,Peru,0.11,0.2
+535,1950,Nicaragua,Brazil,0.0,0.0
+536,1950,Nicaragua,Bolivia,0.0,0.0
+537,1950,Nicaragua,Paraguay,0.0,0.0
+538,1950,Nicaragua,Chile,0.0,0.0
+539,1950,Nicaragua,Argentina,0.0,0.0
+540,1950,Nicaragua,Uruguay,0.0,0.0
+541,1950,Nicaragua,United Kingdom,0.76999998,0.60000002
+542,1950,Nicaragua,Ireland,0.0,0.0
+543,1950,Nicaragua,Netherlands,0.0,0.40000001
+544,1950,Nicaragua,Belgium,0.1058841,1.636391
+545,1950,Nicaragua,Luxembourg,0.0041159,0.063609198
+546,1950,Nicaragua,France,0.11,0.2
+547,1950,Nicaragua,Switzerland,0.11,0.30000001
+548,1950,Nicaragua,Spain,0.0,0.0
+549,1950,Nicaragua,Portugal,0.0,0.0
+550,1950,Nicaragua,Poland,0.0,0.0
+551,1950,Nicaragua,Hungary,0.0,0.0
+552,1950,Nicaragua,Italy,0.0,0.1
+553,1950,Nicaragua,Greece,0.0,0.0
+554,1950,Nicaragua,Bulgaria,0.0,0.0
+555,1950,Nicaragua,Romania,0.0,0.0
+556,1950,Nicaragua,Russia,0.0,0.0
+557,1950,Nicaragua,Finland,0.0,0.0
+558,1950,Nicaragua,Sweden,0.0,0.1
+559,1950,Nicaragua,Iceland,0.0,0.0
+560,1950,Nicaragua,Ethiopia,0.0,0.0
+561,1950,Nicaragua,South Africa,0.0,0.2
+562,1950,Nicaragua,Iran,0.0,0.0
+563,1950,Nicaragua,Turkey,0.0,0.0
+564,1950,Nicaragua,Egypt,0.0,0.0
+565,1950,Nicaragua,Syria,0.0,0.0
+566,1950,Nicaragua,Lebanon,0.0,0.0
+567,1950,Nicaragua,Jordan,0.0,0.0
+568,1950,Nicaragua,Israel,0.0,0.0
+569,1950,Nicaragua,Saudi Arabia,0.0,0.0
+570,1950,Nicaragua,China,0.0,0.2
+571,1950,Nicaragua,North Korea,0.0,0.0
+572,1950,Nicaragua,South Korea,0.0,0.0
+573,1950,Nicaragua,India,0.0,0.0
+574,1950,Nicaragua,Pakistan,0.0,0.0
+575,1950,Nicaragua,Sri Lanka,0.0,0.0
+576,1950,Nicaragua,Thailand,0.0,0.0
+577,1950,Nicaragua,Philippines,0.0,0.0
+578,1950,Nicaragua,Indonesia,0.0,0.0
+579,1950,Nicaragua,Australia,0.0,0.0
+580,1950,Nicaragua,New Zealand,0.0,0.0
+581,1950,Costa Rica,Panama,0.1,0.22
+582,1950,Costa Rica,Colombia,0.0,0.5
+583,1950,Costa Rica,Venezuela,0.0,0.2
+584,1950,Costa Rica,Ecuador,0.1,0.0
+585,1950,Costa Rica,Peru,0.1,0.1
+586,1950,Costa Rica,Brazil,0.0,0.0
+587,1950,Costa Rica,Bolivia,0.0,0.0
+588,1950,Costa Rica,Chile,0.0,0.0
+589,1950,Costa Rica,Argentina,0.0,0.0
+590,1950,Costa Rica,Uruguay,0.0,0.0
+591,1950,Costa Rica,United Kingdom,2.5,0.0
+592,1950,Costa Rica,Ireland,0.0,0.0
+593,1950,Costa Rica,Netherlands,0.2,2.0999999
+594,1950,Costa Rica,Belgium,0.67380798,0.3850331
+595,1950,Costa Rica,Luxembourg,0.026192,0.0149669
+596,1950,Costa Rica,Switzerland,0.40000001,2.0
+597,1950,Costa Rica,Spain,0.0,0.0
+598,1950,Costa Rica,Portugal,0.0,0.0
+599,1950,Costa Rica,Poland,0.0,0.0
+600,1950,Costa Rica,Hungary,0.0,0.0
+601,1950,Costa Rica,Czechoslovakia,0.1,0.0
+602,1950,Costa Rica,Italy,0.60000002,1.0
+603,1950,Costa Rica,Albania,0.0,0.0
+604,1950,Costa Rica,Greece,0.0,0.0
+605,1950,Costa Rica,Bulgaria,0.0,0.0
+606,1950,Costa Rica,Romania,0.0,0.0
+607,1950,Costa Rica,Russia,0.0,0.0
+608,1950,Costa Rica,Finland,0.0,0.0
+609,1950,Costa Rica,Sweden,0.2,0.0
+610,1950,Costa Rica,Iceland,0.0,0.0
+611,1950,Costa Rica,Liberia,0.0,0.0
+612,1950,Costa Rica,Ethiopia,0.0,0.0
+613,1950,Costa Rica,South Africa,0.0,0.1
+614,1950,Costa Rica,Iran,0.0,0.0
+615,1950,Costa Rica,Turkey,0.0,0.0
+616,1950,Costa Rica,Iraq,0.0,0.0
+617,1950,Costa Rica,Egypt,0.0,0.0
+618,1950,Costa Rica,Lebanon,0.0,0.0
+619,1950,Costa Rica,Jordan,0.0,0.0
+620,1950,Costa Rica,Israel,0.0,0.0
+621,1950,Costa Rica,Saudi Arabia,0.0,0.0
+622,1950,Costa Rica,China,0.0,0.0
+623,1950,Costa Rica,North Korea,0.0,0.0
+624,1950,Costa Rica,South Korea,0.0,0.0
+625,1950,Costa Rica,India,0.30000001,0.0
+626,1950,Costa Rica,Pakistan,0.0,0.0
+627,1950,Costa Rica,Myanmar,0.0,0.0
+628,1950,Costa Rica,Sri Lanka,0.0,0.0
+629,1950,Costa Rica,Nepal,0.0,0.0
+630,1950,Costa Rica,Thailand,0.0,0.0
+631,1950,Costa Rica,Philippines,0.0,0.0
+632,1950,Costa Rica,Indonesia,0.0,0.0
+633,1950,Costa Rica,Australia,0.0,0.0
+634,1950,Costa Rica,New Zealand,0.0,0.0
+635,1950,Panama,Colombia,0.66000003,0.5
+636,1950,Panama,Venezuela,0.0,0.30000001
+637,1950,Panama,Ecuador,0.55000001,0.0
+638,1950,Panama,Peru,0.0,0.0
+639,1950,Panama,Brazil,0.0,0.0
+640,1950,Panama,Bolivia,0.0,0.0
+641,1950,Panama,Paraguay,0.0,0.0
+642,1950,Panama,Chile,5.2800002,0.0
+643,1950,Panama,Argentina,0.33000001,0.0
+644,1950,Panama,Uruguay,0.0,0.0
+645,1950,Panama,United Kingdom,2.4200001,0.0
+646,1950,Panama,Ireland,0.0,0.0
+647,1950,Panama,Netherlands,0.33000001,0.1
+648,1950,Panama,Belgium,0.63530469,0.0
+649,1950,Panama,Luxembourg,0.0246953,0.0
+650,1950,Panama,France,0.66000003,2.0
+651,1950,Panama,Switzerland,0.44,0.0
+652,1950,Panama,Spain,0.0,0.0
+653,1950,Panama,Portugal,0.0,0.0
+654,1950,Panama,Poland,0.0,0.0
+655,1950,Panama,Hungary,0.0,0.0
+656,1950,Panama,Czechoslovakia,0.0,0.0
+657,1950,Panama,Italy,0.33000001,0.2
+658,1950,Panama,Yugoslavia,0.0,0.0
+659,1950,Panama,Greece,0.0,0.0
+660,1950,Panama,Bulgaria,0.0,0.0
+661,1950,Panama,Romania,0.0,0.0
+662,1950,Panama,Russia,0.0,0.0
+663,1950,Panama,Finland,0.0,0.0
+664,1950,Panama,Sweden,0.44,0.0
+665,1950,Panama,Denmark,0.11,0.0
+666,1950,Panama,Iceland,0.0,0.0
+667,1950,Panama,Ethiopia,0.0,0.0
+668,1950,Panama,South Africa,0.0,0.0
+669,1950,Panama,Iran,0.0,0.0
+670,1950,Panama,Turkey,0.0,0.0
+671,1950,Panama,Iraq,0.0,0.0
+672,1950,Panama,Egypt,0.0,0.0
+673,1950,Panama,Syria,0.0,0.0
+674,1950,Panama,Lebanon,0.0,0.0
+675,1950,Panama,Jordan,0.0,0.0
+676,1950,Panama,Israel,0.0,0.0
+677,1950,Panama,Saudi Arabia,0.0,0.0
+678,1950,Panama,Yemen Arab Republic,0.0,0.0
+679,1950,Panama,China,0.0,0.0
+680,1950,Panama,South Korea,0.0,0.0
+681,1950,Panama,India,0.0,0.0
+682,1950,Panama,Pakistan,0.0,0.0
+683,1950,Panama,Sri Lanka,0.0,0.0
+684,1950,Panama,Thailand,0.0,0.0
+685,1950,Panama,Philippines,0.11,0.0
+686,1950,Panama,Indonesia,0.0,0.0
+687,1950,Panama,Australia,0.0,0.0
+688,1950,Panama,New Zealand,0.44,0.0
+689,1950,Colombia,Venezuela,0.80000001,1.7
+690,1950,Colombia,Ecuador,3.3,0.11
+691,1950,Colombia,Peru,7.5,0.30000001
+692,1950,Colombia,Brazil,1.1,0.0
+693,1950,Colombia,Bolivia,0.0,0.0
+694,1950,Colombia,Paraguay,0.0,0.0
+695,1950,Colombia,Chile,1.1,0.0
+696,1950,Colombia,Argentina,2.3,0.0
+697,1950,Colombia,Uruguay,0.69999999,0.60000002
+698,1950,Colombia,United Kingdom,16.9,0.5
+699,1950,Colombia,Ireland,0.0,0.0
+700,1950,Colombia,Netherlands,2.5,0.69999999
+701,1950,Colombia,Belgium,7.1231132,2.0214241
+702,1950,Colombia,Luxembourg,0.27688709,0.078576103
+703,1950,Colombia,France,5.8000002,5.4000001
+704,1950,Colombia,Switzerland,6.9000001,2.2
+705,1950,Colombia,Spain,0.30000001,0.0
+706,1950,Colombia,Portugal,0.5,0.0
+707,1950,Colombia,Poland,0.0,0.0
+708,1950,Colombia,Hungary,0.0,0.0
+709,1950,Colombia,Czechoslovakia,0.60000002,0.0
+710,1950,Colombia,Italy,3.4000001,0.89999998
+711,1950,Colombia,Albania,0.0,0.0
+712,1950,Colombia,Yugoslavia,0.0,0.0
+713,1950,Colombia,Greece,0.0,0.5
+714,1950,Colombia,Bulgaria,0.0,0.0
+715,1950,Colombia,Romania,0.0,0.0
+716,1950,Colombia,Russia,0.0,0.0
+717,1950,Colombia,Finland,1.4,2.4000001
+718,1950,Colombia,Sweden,7.9000001,4.6999998
+719,1950,Colombia,Denmark,0.60000002,0.0
+720,1950,Colombia,Iceland,0.0,0.0
+721,1950,Colombia,Liberia,0.0,0.0
+722,1950,Colombia,Ethiopia,0.0,0.0
+723,1950,Colombia,South Africa,0.30000001,0.0
+724,1950,Colombia,Iran,0.0,0.0
+725,1950,Colombia,Turkey,0.0,0.0
+726,1950,Colombia,Iraq,0.0,0.0
+727,1950,Colombia,Egypt,0.0,0.0
+728,1950,Colombia,Syria,0.0,0.0
+729,1950,Colombia,Lebanon,0.0,0.1
+730,1950,Colombia,Jordan,0.0,0.0
+731,1950,Colombia,Israel,0.0,0.0
+732,1950,Colombia,Saudi Arabia,0.0,0.0
+733,1950,Colombia,China,0.0,0.0
+734,1950,Colombia,North Korea,0.0,0.0
+735,1950,Colombia,South Korea,0.0,0.0
+736,1950,Colombia,India,0.0,0.0
+737,1950,Colombia,Pakistan,0.0,0.0
+738,1950,Colombia,Myanmar,0.0,0.0
+739,1950,Colombia,Sri Lanka,0.0,0.0
+740,1950,Colombia,Nepal,0.0,0.0
+741,1950,Colombia,Thailand,0.0,0.0
+742,1950,Colombia,Philippines,1.0,0.0
+743,1950,Colombia,Indonesia,0.0,0.0
+744,1950,Colombia,Australia,0.1,0.0
+745,1950,Colombia,New Zealand,0.0,0.0
+746,1950,Venezuela,Ecuador,2.0999999,0.0
+747,1950,Venezuela,Peru,3.2,0.0
+748,1950,Venezuela,Brazil,1.4,18.92
+749,1950,Venezuela,Bolivia,0.0,0.0
+750,1950,Venezuela,Chile,0.40000001,0.0
+751,1950,Venezuela,Uruguay,0.30000001,5.3000002
+752,1950,Venezuela,United Kingdom,43.5,45.099998
+753,1950,Venezuela,Ireland,0.1,0.2
+754,1950,Venezuela,Netherlands,7.6999998,15.2
+755,1950,Venezuela,Belgium,9.3370533,4.1391058
+756,1950,Venezuela,Luxembourg,0.36294651,0.1608938
+757,1950,Venezuela,France,11.3,34.599998
+758,1950,Venezuela,Switzerland,6.0999999,1.7
+759,1950,Venezuela,Spain,3.2,2.9000001
+760,1950,Venezuela,Portugal,1.3,0.30000001
+761,1950,Venezuela,Czechoslovakia,1.9,0.0
+762,1950,Venezuela,Italy,14.4,6.5999999
+763,1950,Venezuela,Yugoslavia,0.30000001,0.0
+764,1950,Venezuela,Greece,0.0,0.0
+765,1950,Venezuela,Finland,0.30000001,1.0
+766,1950,Venezuela,Sweden,4.3000002,6.9000001
+767,1950,Venezuela,Norway,0.60000002,2.2
+768,1950,Venezuela,Denmark,4.5,0.0
+769,1950,Venezuela,Iceland,0.0,0.0
+770,1950,Venezuela,Ethiopia,0.0,0.0
+771,1950,Venezuela,South Africa,2.0,0.0
+772,1950,Venezuela,Iran,0.0,0.0
+773,1950,Venezuela,Turkey,0.1,0.0
+774,1950,Venezuela,Iraq,0.0,0.0
+775,1950,Venezuela,Lebanon,0.0,0.0
+776,1950,Venezuela,Jordan,0.0,0.0
+777,1950,Venezuela,Israel,0.0,0.0
+778,1950,Venezuela,India,0.69999999,0.0
+779,1950,Venezuela,Pakistan,0.0,0.0
+780,1950,Venezuela,Myanmar,0.0,0.0
+781,1950,Venezuela,Sri Lanka,0.1,0.0
+782,1950,Venezuela,Philippines,4.0999999,0.0
+783,1950,Venezuela,Indonesia,0.40000001,0.0
+784,1950,Venezuela,Australia,0.1,0.0
+785,1950,Venezuela,New Zealand,0.0,0.0
+786,1950,Ecuador,Peru,0.55000001,4.5999999
+787,1950,Ecuador,Brazil,0.0,0.0
+788,1950,Ecuador,Bolivia,0.0,0.0
+789,1950,Ecuador,Paraguay,0.0,0.0
+790,1950,Ecuador,Chile,0.55000001,1.7
+791,1950,Ecuador,Argentina,0.0,0.5
+792,1950,Ecuador,Uruguay,0.0,0.60000002
+793,1950,Ecuador,United Kingdom,3.6300001,0.60000002
+794,1950,Ecuador,Ireland,0.0,0.0
+795,1950,Ecuador,Netherlands,0.11,0.30000001
+796,1950,Ecuador,Belgium,1.1647249,2.0214241
+797,1950,Ecuador,Luxembourg,0.045274802,0.078576103
+798,1950,Ecuador,Switzerland,1.1,0.69999999
+799,1950,Ecuador,Spain,0.0,0.1
+800,1950,Ecuador,Portugal,0.0,0.0
+801,1950,Ecuador,Poland,0.0,0.0
+802,1950,Ecuador,Hungary,0.0,0.0
+803,1950,Ecuador,Czechoslovakia,0.22,0.0
+804,1950,Ecuador,Italy,0.88,3.9000001
+805,1950,Ecuador,Yugoslavia,0.0,0.0
+806,1950,Ecuador,Greece,0.0,0.0
+807,1950,Ecuador,Bulgaria,0.0,0.0
+808,1950,Ecuador,Romania,0.0,0.0
+809,1950,Ecuador,Russia,0.0,0.0
+810,1950,Ecuador,Finland,0.11,0.0
+811,1950,Ecuador,Sweden,0.99000001,0.0
+812,1950,Ecuador,Denmark,0.0,0.0
+813,1950,Ecuador,Iceland,0.0,0.0
+814,1950,Ecuador,Liberia,0.0,0.0
+815,1950,Ecuador,Ethiopia,0.0,0.0
+816,1950,Ecuador,South Africa,0.0,0.0
+817,1950,Ecuador,Iran,0.0,0.0
+818,1950,Ecuador,Turkey,0.0,0.0
+819,1950,Ecuador,Iraq,0.0,0.0
+820,1950,Ecuador,Egypt,0.0,0.0
+821,1950,Ecuador,Syria,0.0,0.0
+822,1950,Ecuador,Lebanon,0.0,0.0
+823,1950,Ecuador,Jordan,0.0,0.0
+824,1950,Ecuador,Israel,0.0,0.0
+825,1950,Ecuador,Yemen Arab Republic,0.0,0.0
+826,1950,Ecuador,China,0.0,0.0
+827,1950,Ecuador,South Korea,0.0,0.0
+828,1950,Ecuador,India,0.11,0.0
+829,1950,Ecuador,Pakistan,0.0,0.0
+830,1950,Ecuador,Sri Lanka,0.0,0.0
+831,1950,Ecuador,Thailand,0.0,0.0
+832,1950,Ecuador,Philippines,0.0,0.0
+833,1950,Ecuador,Indonesia,0.0,0.0
+834,1950,Ecuador,Australia,0.0,0.0
+835,1950,Ecuador,New Zealand,0.0,0.0
+836,1950,Peru,Brazil,0.0,0.55000001
+837,1950,Peru,Bolivia,0.0,6.0
+838,1950,Peru,Paraguay,0.0,0.0
+839,1950,Peru,Chile,2.2,17.9
+840,1950,Peru,Argentina,6.8000002,9.3999996
+841,1950,Peru,Uruguay,0.30000001,5.6999998
+842,1950,Peru,United Kingdom,30.9,37.900002
+843,1950,Peru,Ireland,0.0,0.2
+844,1950,Peru,Netherlands,3.3,1.9
+845,1950,Peru,Belgium,2.310199,10.29964
+846,1950,Peru,Luxembourg,0.0898012,0.40036371
+847,1950,Peru,France,3.4000001,2.0999999
+848,1950,Peru,Switzerland,4.5999999,6.4000001
+849,1950,Peru,Spain,0.30000001,0.40000001
+850,1950,Peru,Portugal,0.1,0.5
+851,1950,Peru,Poland,0.0,0.0
+852,1950,Peru,Hungary,0.0,0.0
+853,1950,Peru,Czechoslovakia,1.0,0.0
+854,1950,Peru,Italy,2.9000001,0.89999998
+855,1950,Peru,Albania,0.0,0.0
+856,1950,Peru,Bulgaria,0.0,0.0
+857,1950,Peru,Romania,0.0,0.0
+858,1950,Peru,Russia,0.0,0.0
+859,1950,Peru,Finland,0.2,0.0
+860,1950,Peru,Sweden,3.0999999,0.30000001
+861,1950,Peru,Norway,0.40000001,0.0
+862,1950,Peru,Denmark,0.40000001,0.60000002
+863,1950,Peru,Iceland,0.0,0.0
+864,1950,Peru,Liberia,0.0,0.0
+865,1950,Peru,Ethiopia,0.0,0.0
+866,1950,Peru,South Africa,0.0,0.2
+867,1950,Peru,Iran,0.0,0.0
+868,1950,Peru,Turkey,0.0,0.0
+869,1950,Peru,Iraq,0.0,0.0
+870,1950,Peru,Lebanon,0.0,0.80000001
+871,1950,Peru,Jordan,0.0,0.0
+872,1950,Peru,Israel,0.0,0.0
+873,1950,Peru,Saudi Arabia,0.0,0.0
+874,1950,Peru,Yemen Arab Republic,0.0,0.0
+875,1950,Peru,Afghanistan,0.0,0.0
+876,1950,Peru,China,0.0,0.0
+877,1950,Peru,Mongolia,0.0,0.0
+878,1950,Peru,North Korea,0.0,0.0
+879,1950,Peru,South Korea,0.0,0.0
+880,1950,Peru,India,2.0,5.8000002
+881,1950,Peru,Pakistan,0.0,0.0
+882,1950,Peru,Myanmar,0.0,0.0
+883,1950,Peru,Sri Lanka,0.1,0.80000001
+884,1950,Peru,Thailand,0.0,0.2
+885,1950,Peru,Philippines,0.0,0.0
+886,1950,Peru,Indonesia,0.0,0.0
+887,1950,Peru,Australia,5.1999998,0.11
+888,1950,Peru,New Zealand,0.0,0.0
+889,1950,Brazil,Bolivia,0.11,1.21
+890,1950,Brazil,Paraguay,0.0,0.5
+891,1950,Brazil,Chile,16.719999,11.2
+892,1950,Brazil,Argentina,120.67,75.699997
+893,1950,Brazil,Uruguay,8.9099998,17.200001
+894,1950,Brazil,United Kingdom,148.94,113.7
+895,1950,Brazil,Ireland,0.0,1.4
+896,1950,Brazil,Netherlands,27.610001,18.799999
+897,1950,Brazil,Belgium,67.130524,39.17712
+898,1950,Brazil,Luxembourg,2.609473,1.522879
+899,1950,Brazil,France,56.209999,53.299999
+900,1950,Brazil,Switzerland,18.370001,18.1
+901,1950,Brazil,Spain,8.25,12.7
+902,1950,Brazil,Portugal,7.6999998,4.9000001
+903,1950,Brazil,Poland,0.66000003,1.6
+904,1950,Brazil,Hungary,0.0,0.0
+905,1950,Brazil,Czechoslovakia,9.1300001,8.0
+906,1950,Brazil,Italy,15.62,30.700001
+907,1950,Brazil,Yugoslavia,1.54,2.5999999
+908,1950,Brazil,Greece,0.55000001,2.2
+909,1950,Brazil,Bulgaria,0.0,0.0
+910,1950,Brazil,Romania,0.0,0.0
+911,1950,Brazil,Russia,0.0,0.0
+912,1950,Brazil,Finland,6.5999999,13.7
+913,1950,Brazil,Sweden,52.470001,38.700001
+914,1950,Brazil,Norway,15.62,16.1
+915,1950,Brazil,Denmark,9.0200005,16.200001
+916,1950,Brazil,Iceland,0.22,0.69999999
+917,1950,Brazil,Liberia,0.0,0.0
+918,1950,Brazil,Ethiopia,0.0,0.0
+919,1950,Brazil,South Africa,3.4100001,8.1999998
+920,1950,Brazil,Iran,0.0,0.0
+921,1950,Brazil,Turkey,0.33000001,5.5
+922,1950,Brazil,Iraq,0.0,1.1
+923,1950,Brazil,Egypt,0.0,3.3
+924,1950,Brazil,Lebanon,0.0,0.80000001
+925,1950,Brazil,Jordan,0.0,0.0
+926,1950,Brazil,Israel,0.0,3.0
+927,1950,Brazil,Saudi Arabia,0.0,0.1
+928,1950,Brazil,Yemen Arab Republic,0.0,0.0
+929,1950,Brazil,China,0.0,2.5
+930,1950,Brazil,North Korea,0.0,0.0
+931,1950,Brazil,South Korea,0.0,0.0
+932,1950,Brazil,India,1.54,0.0
+933,1950,Brazil,Pakistan,1.98,0.0
+934,1950,Brazil,Myanmar,0.0,0.0
+935,1950,Brazil,Sri Lanka,0.0,0.2
+936,1950,Brazil,Thailand,0.0,0.69999999
+937,1950,Brazil,Philippines,0.0,0.69999999
+938,1950,Brazil,Indonesia,0.0,0.0
+939,1950,Brazil,Australia,0.99000001,11.22
+940,1950,Brazil,New Zealand,0.0,0.22
+941,1950,Bolivia,Paraguay,0.0,0.0
+942,1950,Bolivia,Chile,3.1900001,0.1
+943,1950,Bolivia,Argentina,10.78,2.0999999
+944,1950,Bolivia,Uruguay,0.0,0.0
+945,1950,Bolivia,United Kingdom,4.29,31.6
+946,1950,Bolivia,Ireland,0.0,0.0
+947,1950,Bolivia,Netherlands,0.22,0.40000001
+948,1950,Bolivia,Belgium,1.482378,1.058841
+949,1950,Bolivia,Luxembourg,0.057622399,0.0411589
+950,1950,Bolivia,France,0.22,0.1
+951,1950,Bolivia,Switzerland,1.21,0.0
+952,1950,Bolivia,Spain,1.1,1.6
+953,1950,Bolivia,Portugal,0.0,0.0
+954,1950,Bolivia,Poland,0.0,0.0
+955,1950,Bolivia,Czechoslovakia,0.0,0.0
+956,1950,Bolivia,Italy,0.22,0.0
+957,1950,Bolivia,Yugoslavia,0.0,0.0
+958,1950,Bolivia,Greece,0.0,0.0
+959,1950,Bolivia,Romania,0.0,0.0
+960,1950,Bolivia,Russia,0.0,0.0
+961,1950,Bolivia,Finland,0.0,0.0
+962,1950,Bolivia,Sweden,0.76999998,0.0
+963,1950,Bolivia,Denmark,0.0,0.0
+964,1950,Bolivia,Iceland,0.0,0.0
+965,1950,Bolivia,Liberia,0.0,0.0
+966,1950,Bolivia,South Africa,0.0,0.0
+967,1950,Bolivia,Iran,0.0,0.0
+968,1950,Bolivia,Turkey,0.0,0.0
+969,1950,Bolivia,Iraq,0.0,0.0
+970,1950,Bolivia,Egypt,0.0,0.0
+971,1950,Bolivia,Syria,0.0,0.0
+972,1950,Bolivia,Lebanon,0.0,0.0
+973,1950,Bolivia,Jordan,0.0,0.0
+974,1950,Bolivia,Israel,0.0,0.0
+975,1950,Bolivia,Saudi Arabia,0.0,0.0
+976,1950,Bolivia,China,0.0,0.0
+977,1950,Bolivia,South Korea,0.0,0.0
+978,1950,Bolivia,India,0.0,0.0
+979,1950,Bolivia,Pakistan,0.0,0.0
+980,1950,Bolivia,Myanmar,0.0,0.0
+981,1950,Bolivia,Sri Lanka,0.0,0.0
+982,1950,Bolivia,Thailand,0.0,0.0
+983,1950,Bolivia,Philippines,0.0,0.0
+984,1950,Bolivia,Indonesia,0.0,0.0
+985,1950,Bolivia,Australia,0.0,0.0
+986,1950,Bolivia,New Zealand,0.0,0.0
+987,1950,Paraguay,Uruguay,0.60000002,5.0
+988,1950,Paraguay,United Kingdom,1.5,3.8
+989,1950,Paraguay,Ireland,0.0,0.1
+990,1950,Paraguay,Netherlands,0.40000001,1.5
+991,1950,Paraguay,Belgium,1.347616,1.732649
+992,1950,Paraguay,Luxembourg,0.052384,0.067350902
+993,1950,Paraguay,France,0.30000001,0.40000001
+994,1950,Paraguay,Switzerland,0.69999999,1.7
+995,1950,Paraguay,Spain,0.0,1.5
+996,1950,Paraguay,Czechoslovakia,0.0,0.0
+997,1950,Paraguay,Italy,0.60000002,0.5
+998,1950,Paraguay,Yugoslavia,0.1,0.2
+999,1950,Paraguay,Greece,0.0,0.0
+1000,1950,Paraguay,Finland,0.0,0.0
+1001,1950,Paraguay,Sweden,0.60000002,1.3
+1002,1950,Paraguay,Denmark,0.0,0.0
+1003,1950,Paraguay,South Africa,0.0,0.0
+1004,1950,Paraguay,Turkey,0.0,0.0
+1005,1950,Paraguay,Egypt,0.0,0.0
+1006,1950,Paraguay,Jordan,0.0,0.0
+1007,1950,Paraguay,Israel,0.0,0.0
+1008,1950,Paraguay,India,0.1,0.0
+1009,1950,Paraguay,Sri Lanka,0.0,0.0
+1010,1950,Paraguay,Philippines,0.0,0.0
+1011,1950,Paraguay,Indonesia,0.0,0.0
+1012,1950,Chile,Argentina,13.4,17.6
+1013,1950,Chile,Uruguay,0.1,0.40000001
+1014,1950,Chile,United Kingdom,28.6,16.1
+1015,1950,Chile,Ireland,0.0,0.1
+1016,1950,Chile,Netherlands,1.7,1.7
+1017,1950,Chile,Belgium,3.7540729,2.117682
+1018,1950,Chile,Luxembourg,0.145927,0.082317799
+1019,1950,Chile,France,5.0999999,21.1
+1020,1950,Chile,Switzerland,3.7,1.7
+1021,1950,Chile,Spain,6.5,12.0
+1022,1950,Chile,Portugal,0.2,1.7
+1023,1950,Chile,Hungary,0.0,0.0
+1024,1950,Chile,Czechoslovakia,0.0,0.2
+1025,1950,Chile,Italy,2.8,11.3
+1026,1950,Chile,Bulgaria,0.0,0.0
+1027,1950,Chile,Romania,0.0,0.0
+1028,1950,Chile,Russia,0.0,0.0
+1029,1950,Chile,Finland,0.30000001,0.0
+1030,1950,Chile,Sweden,4.5999999,3.3
+1031,1950,Chile,Norway,1.0,0.5
+1032,1950,Chile,Denmark,1.2,0.2
+1033,1950,Chile,Iceland,0.0,0.0
+1034,1950,Chile,Liberia,0.0,0.0
+1035,1950,Chile,South Africa,0.40000001,0.0
+1036,1950,Chile,Iran,0.0,0.0
+1037,1950,Chile,Turkey,0.0,0.0
+1038,1950,Chile,Iraq,0.0,0.0
+1039,1950,Chile,Lebanon,0.0,0.2
+1040,1950,Chile,Jordan,0.0,0.0
+1041,1950,Chile,Israel,0.0,0.1
+1042,1950,Chile,Saudi Arabia,0.0,0.0
+1043,1950,Chile,China,0.1,0.0
+1044,1950,Chile,North Korea,0.0,0.0
+1045,1950,Chile,South Korea,0.0,0.0
+1046,1950,Chile,India,1.7,0.0
+1047,1950,Chile,Pakistan,0.0,0.0
+1048,1950,Chile,Myanmar,0.0,0.0
+1049,1950,Chile,Sri Lanka,0.0,0.0
+1050,1950,Chile,Thailand,0.0,0.0
+1051,1950,Chile,Philippines,0.0,0.0
+1052,1950,Chile,Indonesia,0.0,0.0
+1053,1950,Chile,Australia,0.69999999,0.99000001
+1054,1950,Chile,New Zealand,0.0,0.22
+1055,1950,Argentina,Uruguay,1.3,3.0999999
+1056,1950,Argentina,United Kingdom,108.9,267.60001
+1057,1950,Argentina,Ireland,0.0,3.2
+1058,1950,Argentina,Netherlands,16.0,44.900002
+1059,1950,Argentina,Belgium,9.6258287,28.20368
+1060,1950,Argentina,Luxembourg,0.3741717,1.096323
+1061,1950,Argentina,Switzerland,14.9,28.799999
+1062,1950,Argentina,Spain,12.0,10.4
+1063,1950,Argentina,Portugal,0.60000002,5.6999998
+1064,1950,Argentina,Italy,64.5,77.300003
+1065,1950,Argentina,Yugoslavia,8.1000004,13.5
+1066,1950,Argentina,Greece,0.0,1.2
+1067,1950,Argentina,Finland,10.5,15.9
+1068,1950,Argentina,Sweden,21.0,29.1
+1069,1950,Argentina,Norway,4.4000001,6.9000001
+1070,1950,Argentina,Denmark,2.8,6.5999999
+1071,1950,Argentina,Iceland,0.0,0.0
+1072,1950,Argentina,South Africa,2.0,3.0
+1073,1950,Argentina,Turkey,0.0,0.0
+1074,1950,Argentina,Iraq,0.0,0.0
+1075,1950,Argentina,Lebanon,0.0,0.2
+1076,1950,Argentina,Jordan,0.0,0.0
+1077,1950,Argentina,Israel,0.0,3.0
+1078,1950,Argentina,Yemen Arab Republic,0.0,0.0
+1079,1950,Argentina,India,23.1,0.2
+1080,1950,Argentina,Pakistan,3.4000001,0.0
+1081,1950,Argentina,Myanmar,0.0,0.0
+1082,1950,Argentina,Sri Lanka,0.40000001,0.0
+1083,1950,Argentina,Philippines,0.0,0.22
+1084,1950,Argentina,Indonesia,1.6,0.0
+1085,1950,Argentina,Australia,0.1,0.33000001
+1086,1950,Argentina,New Zealand,0.0,0.0
+1087,1950,Uruguay,United Kingdom,45.700001,38.0
+1088,1950,Uruguay,Ireland,0.0,0.5
+1089,1950,Uruguay,Belgium,8.566987,13.76493
+1090,1950,Uruguay,Luxembourg,0.33301279,0.53506547
+1091,1950,Uruguay,France,14.5,10.2
+1092,1950,Uruguay,Switzerland,3.2,6.1999998
+1093,1950,Uruguay,Spain,1.7,0.0
+1094,1950,Uruguay,Portugal,0.30000001,0.0
+1095,1950,Uruguay,Poland,0.40000001,0.5
+1096,1950,Uruguay,Hungary,0.0,0.2
+1097,1950,Uruguay,Czechoslovakia,1.3,1.0
+1098,1950,Uruguay,Italy,7.3000002,7.0
+1099,1950,Uruguay,Yugoslavia,1.1,0.0
+1100,1950,Uruguay,Greece,0.0,0.69999999
+1101,1950,Uruguay,Bulgaria,0.0,0.0
+1102,1950,Uruguay,Romania,0.2,0.0
+1103,1950,Uruguay,Russia,0.0,0.0
+1104,1950,Uruguay,Finland,1.3,0.60000002
+1105,1950,Uruguay,Sweden,6.6999998,7.0
+1106,1950,Uruguay,Norway,0.30000001,0.1
+1107,1950,Uruguay,Iceland,0.0,0.0
+1108,1950,Uruguay,Liberia,0.0,0.0
+1109,1950,Uruguay,South Africa,1.4,1.0
+1110,1950,Uruguay,Iran,0.30000001,0.0
+1111,1950,Uruguay,Turkey,0.2,0.1
+1112,1950,Uruguay,Iraq,0.0,0.0
+1113,1950,Uruguay,Egypt,0.0,0.0
+1114,1950,Uruguay,Lebanon,0.0,0.0
+1115,1950,Uruguay,Jordan,0.0,0.0
+1116,1950,Uruguay,Israel,0.0,1.5
+1117,1950,Uruguay,Saudi Arabia,1.4,0.0
+1118,1950,Uruguay,China,1.9,0.0
+1119,1950,Uruguay,North Korea,0.0,0.0
+1120,1950,Uruguay,South Korea,0.0,0.0
+1121,1950,Uruguay,India,1.7,0.0
+1122,1950,Uruguay,Pakistan,0.0,0.0
+1123,1950,Uruguay,Sri Lanka,0.5,0.0
+1124,1950,Uruguay,Thailand,0.0,0.0
+1125,1950,Uruguay,Philippines,0.0,0.11
+1126,1950,Uruguay,Indonesia,0.0,0.0
+1127,1950,Uruguay,Australia,0.0,1.1
+1128,1950,Uruguay,New Zealand,0.0,0.0
+1129,1950,United Kingdom,Ireland,175.0,236.2
+1130,1950,United Kingdom,Netherlands,240.10001,203.2
+1131,1950,United Kingdom,Belgium,117.2426,181.4469
+1132,1950,United Kingdom,Luxembourg,4.5574112,7.0531359
+1133,1950,United Kingdom,France,307.29999,114.1
+1134,1950,United Kingdom,Switzerland,35.5,85.400002
+1135,1950,United Kingdom,Spain,69.699997,27.700001
+1136,1950,United Kingdom,Portugal,33.400002,47.0
+1137,1950,United Kingdom,Poland,53.400002,22.299999
+1138,1950,United Kingdom,Hungary,1.0,5.4000001
+1139,1950,United Kingdom,Czechoslovakia,24.5,14.1
+1140,1950,United Kingdom,Italy,143.0,81.800003
+1141,1950,United Kingdom,Albania,0.0,0.0
+1142,1950,United Kingdom,Greece,9.8000002,53.0
+1143,1950,United Kingdom,Bulgaria,0.1,1.3
+1144,1950,United Kingdom,Romania,1.5,3.8
+1145,1950,United Kingdom,Russia,95.800003,39.700001
+1146,1950,United Kingdom,Finland,94.5,63.5
+1147,1950,United Kingdom,Sweden,184.5,234.60001
+1148,1950,United Kingdom,Norway,78.0,150.2
+1149,1950,United Kingdom,Denmark,282.5,269.0
+1150,1950,United Kingdom,Iceland,2.4000001,8.8000002
+1151,1950,United Kingdom,Liberia,0.0,0.0
+1152,1950,United Kingdom,Ethiopia,2.3,4.0
+1153,1950,United Kingdom,South Africa,144.60001,340.5
+1154,1950,United Kingdom,Iran,133.7,54.400002
+1155,1950,United Kingdom,Turkey,32.599998,29.6
+1156,1950,United Kingdom,Iraq,24.299999,51.400002
+1157,1950,United Kingdom,Egypt,112.2,118.6
+1158,1950,United Kingdom,Syria,5.5999999,24.0
+1159,1950,United Kingdom,Lebanon,0.69999999,21.200001
+1160,1950,United Kingdom,Jordan,0.0,0.0
+1161,1950,United Kingdom,Israel,14.3,25.299999
+1162,1950,United Kingdom,Saudi Arabia,22.9,8.1000004
+1163,1950,United Kingdom,Yemen Arab Republic,0.0,0.0
+1164,1950,United Kingdom,Afghanistan,0.0,0.0
+1165,1950,United Kingdom,China,30.1,10.1
+1166,1950,United Kingdom,Mongolia,0.0,0.0
+1167,1950,United Kingdom,North Korea,0.0,0.0
+1168,1950,United Kingdom,South Korea,0.69999999,0.2
+1169,1950,United Kingdom,India,275.29999,246.8
+1170,1950,United Kingdom,Pakistan,73.0,92.300003
+1171,1950,United Kingdom,Myanmar,7.0999999,26.700001
+1172,1950,United Kingdom,Sri Lanka,77.800003,48.700001
+1173,1950,United Kingdom,Nepal,0.0,0.0
+1174,1950,United Kingdom,Thailand,10.6,19.200001
+1175,1950,United Kingdom,Philippines,4.3000002,5.7199998
+1176,1950,United Kingdom,Indonesia,35.599998,32.799999
+1177,1950,United Kingdom,Australia,615.09998,786.83002
+1178,1950,United Kingdom,New Zealand,374.89999,292.26999
+1179,1950,Ireland,Netherlands,8.1000004,5.9000001
+1180,1950,Ireland,Belgium,6.5455632,1.925166
+1181,1950,Ireland,Luxembourg,0.25443679,0.074834302
+1182,1950,Ireland,France,7.0999999,1.2
+1183,1950,Ireland,Switzerland,1.9,1.3
+1184,1950,Ireland,Spain,2.7,0.69999999
+1185,1950,Ireland,Portugal,1.3,0.2
+1186,1950,Ireland,Poland,2.8,0.0
+1187,1950,Ireland,Hungary,0.0,0.0
+1188,1950,Ireland,Czechoslovakia,1.3,0.1
+1189,1950,Ireland,Italy,2.7,0.2
+1190,1950,Ireland,Albania,0.0,0.0
+1191,1950,Ireland,Yugoslavia,0.2,0.0
+1192,1950,Ireland,Greece,4.5999999,0.1
+1193,1950,Ireland,Bulgaria,0.0,0.0
+1194,1950,Ireland,Romania,0.0,0.0
+1195,1950,Ireland,Russia,0.0,0.0
+1196,1950,Ireland,Finland,7.0999999,0.1
+1197,1950,Ireland,Sweden,10.2,1.5
+1198,1950,Ireland,Norway,0.80000001,0.0
+1199,1950,Ireland,Denmark,1.5,0.2
+1200,1950,Ireland,Iceland,0.1,0.0
+1201,1950,Ireland,Liberia,0.0,0.0
+1202,1950,Ireland,Ethiopia,0.0,0.0
+1203,1950,Ireland,South Africa,2.0,0.1
+1204,1950,Ireland,Iran,1.0,0.0
+1205,1950,Ireland,Turkey,1.5,0.1
+1206,1950,Ireland,Iraq,0.89999998,0.0
+1207,1950,Ireland,Egypt,0.60000002,0.0
+1208,1950,Ireland,Syria,0.1,0.0
+1209,1950,Ireland,Lebanon,0.0,0.0
+1210,1950,Ireland,Jordan,0.0,0.0
+1211,1950,Ireland,Israel,0.60000002,0.5
+1212,1950,Ireland,Saudi Arabia,0.30000001,0.0
+1213,1950,Ireland,Yemen Arab Republic,0.0,0.0
+1214,1950,Ireland,Afghanistan,0.0,0.0
+1215,1950,Ireland,China,1.6,0.0
+1216,1950,Ireland,Mongolia,0.0,0.0
+1217,1950,Ireland,North Korea,0.0,0.0
+1218,1950,Ireland,South Korea,0.0,0.0
+1219,1950,Ireland,India,13.5,0.1
+1220,1950,Ireland,Pakistan,0.60000002,0.0
+1221,1950,Ireland,Myanmar,0.0,0.0
+1222,1950,Ireland,Sri Lanka,1.2,0.2
+1223,1950,Ireland,Thailand,0.30000001,0.0
+1224,1950,Ireland,Philippines,1.2,0.0
+1225,1950,Ireland,Indonesia,0.69999999,0.0
+1226,1950,Ireland,Australia,2.5,0.1
+1227,1950,Ireland,New Zealand,1.9,0.0
+1228,1950,Netherlands,Belgium,363.1825,188.18491
+1229,1950,Netherlands,Luxembourg,14.1175,7.3150568
+1230,1950,Netherlands,France,100.2,68.599998
+1231,1950,Netherlands,Switzerland,28.5,36.700001
+1232,1950,Netherlands,Spain,11.6,9.3000002
+1233,1950,Netherlands,Portugal,5.3000002,8.8000002
+1234,1950,Netherlands,Poland,6.6999998,9.0
+1235,1950,Netherlands,Hungary,6.9000001,3.5999999
+1236,1950,Netherlands,Czechoslovakia,23.0,13.3
+1237,1950,Netherlands,Italy,20.1,15.2
+1238,1950,Netherlands,Albania,0.0,0.0
+1239,1950,Netherlands,Yugoslavia,5.0,8.3999996
+1240,1950,Netherlands,Greece,0.80000001,8.6000004
+1241,1950,Netherlands,Bulgaria,0.1,0.0
+1242,1950,Netherlands,Romania,1.8,0.60000002
+1243,1950,Netherlands,Russia,2.3,0.5
+1244,1950,Netherlands,Finland,31.9,27.4
+1245,1950,Netherlands,Sweden,68.599998,52.799999
+1246,1950,Netherlands,Norway,18.299999,30.6
+1247,1950,Netherlands,Denmark,10.3,28.9
+1248,1950,Netherlands,Iceland,2.5999999,1.0
+1249,1950,Netherlands,Liberia,0.0,0.0
+1250,1950,Netherlands,Ethiopia,0.1,0.30000001
+1251,1950,Netherlands,South Africa,15.7,6.0
+1252,1950,Netherlands,Iran,10.9,1.2
+1253,1950,Netherlands,Turkey,4.6999998,8.1999998
+1254,1950,Netherlands,Iraq,11.1,2.9000001
+1255,1950,Netherlands,Egypt,6.1999998,23.700001
+1256,1950,Netherlands,Syria,1.7,2.0999999
+1257,1950,Netherlands,Lebanon,0.0,4.0
+1258,1950,Netherlands,Jordan,0.0,0.0
+1259,1950,Netherlands,Israel,1.5,5.6999998
+1260,1950,Netherlands,Saudi Arabia,18.0,0.80000001
+1261,1950,Netherlands,Yemen Arab Republic,0.0,0.0
+1262,1950,Netherlands,Afghanistan,0.0,0.0
+1263,1950,Netherlands,China,12.5,0.30000001
+1264,1950,Netherlands,Mongolia,0.0,0.0
+1265,1950,Netherlands,North Korea,0.0,0.0
+1266,1950,Netherlands,South Korea,0.5,0.1
+1267,1950,Netherlands,India,15.2,10.0
+1268,1950,Netherlands,Pakistan,4.0,5.5
+1269,1950,Netherlands,Myanmar,0.69999999,1.9
+1270,1950,Netherlands,Sri Lanka,2.7,2.5
+1271,1950,Netherlands,Nepal,0.0,0.0
+1272,1950,Netherlands,Thailand,11.2,6.3000002
+1273,1950,Netherlands,Philippines,1.9,1.3200001
+1274,1950,Netherlands,Indonesia,134.10001,76.0
+1275,1950,Netherlands,Australia,24.1,13.42
+1276,1950,Netherlands,New Zealand,6.9000001,1.76
+1277,1950,Belgium,France,214.3672,135.0504
+1278,1950,Belgium,Switzerland,64.974342,51.883221
+1279,1950,Belgium,Spain,11.16596,9.7220869
+1280,1950,Belgium,Portugal,10.01086,22.620701
+1281,1950,Belgium,Poland,6.6418209,7.8931789
+1282,1950,Belgium,Hungary,4.235364,8.1819544
+1283,1950,Belgium,Czechoslovakia,11.26222,17.519011
+1284,1950,Belgium,Italy,30.41762,49.573021
+1285,1950,Belgium,Albania,0.0,0.0
+1286,1950,Belgium,Yugoslavia,5.486722,3.657815
+1287,1950,Belgium,Greece,0.67380798,19.54043
+1288,1950,Belgium,Bulgaria,0.096258298,0.3850331
+1289,1950,Belgium,Romania,0.1925166,1.443874
+1290,1950,Belgium,Russia,10.58841,19.73295
+1291,1950,Belgium,Finland,15.78636,15.11255
+1292,1950,Belgium,Sweden,44.471329,44.567581
+1293,1950,Belgium,Norway,9.7220869,13.3799
+1294,1950,Belgium,Denmark,9.144537,14.43874
+1295,1950,Belgium,Iceland,0.0,0.48129141
+1296,1950,Belgium,Liberia,0.0,0.0
+1297,1950,Belgium,Ethiopia,0.096258298,0.86632448
+1298,1950,Belgium,South Africa,18.770361,8.566987
+1299,1950,Belgium,Iran,17.42275,2.887748
+1300,1950,Belgium,Turkey,6.4493051,7.2193708
+1301,1950,Belgium,Iraq,5.0054312,1.155099
+1302,1950,Belgium,Egypt,6.2567878,13.18738
+1303,1950,Belgium,Syria,6.4493051,5.1016889
+1304,1950,Belgium,Lebanon,0.0,5.486722
+1305,1950,Belgium,Jordan,0.0,0.0
+1306,1950,Belgium,Israel,0.96258283,7.026855
+1307,1950,Belgium,Saudi Arabia,2.0214241,2.0214241
+1308,1950,Belgium,Yemen Arab Republic,0.0,0.0
+1309,1950,Belgium,Afghanistan,0.0,0.0
+1310,1950,Belgium,China,7.5081458,12.89861
+1311,1950,Belgium,North Korea,0.0,0.0
+1312,1950,Belgium,South Korea,0.0,0.0
+1313,1950,Belgium,India,17.615259,17.711519
+1314,1950,Belgium,Pakistan,8.0856953,6.6418209
+1315,1950,Belgium,Myanmar,1.347616,0.0
+1316,1950,Belgium,Sri Lanka,2.2139399,1.925166
+1317,1950,Belgium,Nepal,0.0,0.0
+1318,1950,Belgium,Thailand,2.0214241,1.636391
+1319,1950,Belgium,Philippines,5.0054312,3.4941759
+1320,1950,Belgium,Indonesia,6.6418209,14.14997
+1321,1950,Belgium,Australia,80.856956,13.76493
+1322,1950,Belgium,New Zealand,8.0856953,3.3882921
+1323,1950,Luxembourg,France,8.3328037,5.249629
+1324,1950,Luxembourg,Switzerland,2.5256591,2.0167849
+1325,1950,Luxembourg,Spain,0.43403921,0.37791339
+1326,1950,Luxembourg,Portugal,0.38913849,0.87930351
+1327,1950,Luxembourg,Poland,0.2581785,0.30682081
+1328,1950,Luxembourg,Hungary,0.1646356,0.31804591
+1329,1950,Luxembourg,Czechoslovakia,0.43778089,0.68099248
+1330,1950,Luxembourg,Italy,1.1823829,1.926984
+1331,1950,Luxembourg,Albania,0.0,0.0
+1332,1950,Luxembourg,Yugoslavia,0.21327791,0.1421852
+1333,1950,Luxembourg,Greece,0.026192,0.75956851
+1334,1950,Luxembourg,Bulgaria,0.0037417,0.0149669
+1335,1950,Luxembourg,Romania,0.0074833999,0.0561257
+1336,1950,Luxembourg,Russia,0.41158891,0.76705199
+1337,1950,Luxembourg,Finland,0.61364162,0.58744961
+1338,1950,Luxembourg,Sweden,1.728673,1.732415
+1339,1950,Luxembourg,Norway,0.37791339,0.52009863
+1340,1950,Luxembourg,Denmark,0.35546309,0.56125748
+1341,1950,Luxembourg,Iceland,0.0,0.0187086
+1342,1950,Luxembourg,Liberia,0.0,0.0
+1343,1950,Luxembourg,Ethiopia,0.0037417,0.033675499
+1344,1950,Luxembourg,South Africa,0.72963482,0.33301279
+1345,1950,Luxembourg,Iran,0.6772508,0.1122515
+1346,1950,Luxembourg,Turkey,0.25069499,0.2806288
+1347,1950,Luxembourg,Iraq,0.1945693,0.0449006
+1348,1950,Luxembourg,Egypt,0.2432116,0.5126152
+1349,1950,Luxembourg,Syria,0.25069499,0.198311
+1350,1950,Luxembourg,Lebanon,0.0,0.21327791
+1351,1950,Luxembourg,Jordan,0.0,0.0
+1352,1950,Luxembourg,Israel,0.037417199,0.27314529
+1353,1950,Luxembourg,Saudi Arabia,0.078576103,0.078576103
+1354,1950,Luxembourg,Yemen Arab Republic,0.0,0.0
+1355,1950,Luxembourg,Afghanistan,0.0,0.0
+1356,1950,Luxembourg,China,0.2918539,0.50138998
+1357,1950,Luxembourg,North Korea,0.0,0.0
+1358,1950,Luxembourg,South Korea,0.0,0.0
+1359,1950,Luxembourg,India,0.68473423,0.68847591
+1360,1950,Luxembourg,Pakistan,0.3143042,0.2581785
+1361,1950,Luxembourg,Myanmar,0.052384,0.0
+1362,1950,Luxembourg,Sri Lanka,0.086059503,0.074834302
+1363,1950,Luxembourg,Nepal,0.0,0.0
+1364,1950,Luxembourg,Thailand,0.078576103,0.063609198
+1365,1950,Luxembourg,Philippines,0.1945693,0.13582429
+1366,1950,Luxembourg,Indonesia,0.2581785,0.55003238
+1367,1950,Luxembourg,Australia,3.1430421,0.53506547
+1368,1950,Luxembourg,New Zealand,0.3143042,0.1317084
+1369,1950,France,Switzerland,82.0,126.8
+1370,1950,France,Portugal,8.3999996,13.8
+1371,1950,France,Poland,12.5,16.1
+1372,1950,France,Hungary,2.0999999,3.0999999
+1373,1950,France,Czechoslovakia,12.8,12.0
+1374,1950,France,Italy,106.4,66.900002
+1375,1950,France,Albania,0.0,0.0
+1376,1950,France,Yugoslavia,4.5,5.8000002
+1377,1950,France,Greece,5.6999998,15.0
+1378,1950,France,Bulgaria,0.40000001,0.30000001
+1379,1950,France,Romania,0.1,0.40000001
+1380,1950,France,Russia,4.8000002,2.5999999
+1381,1950,France,Finland,20.5,20.700001
+1382,1950,France,Sweden,49.200001,75.0
+1383,1950,France,Norway,15.9,43.900002
+1384,1950,France,Denmark,23.700001,72.900002
+1385,1950,France,Iceland,0.2,0.40000001
+1386,1950,France,Liberia,0.0,0.0
+1387,1950,France,Ethiopia,0.69999999,0.30000001
+1388,1950,France,South Africa,71.599998,14.7
+1389,1950,France,Iran,32.5,2.8
+1390,1950,France,Turkey,10.6,14.2
+1391,1950,France,Iraq,64.900002,1.2
+1392,1950,France,Egypt,47.5,59.799999
+1393,1950,France,Syria,5.4000001,15.2
+1394,1950,France,Lebanon,2.0,32.200001
+1395,1950,France,Jordan,0.0,0.0
+1396,1950,France,Israel,0.1,6.3000002
+1397,1950,France,Saudi Arabia,70.5,1.2
+1398,1950,France,Yemen Arab Republic,0.0,0.0
+1399,1950,France,Afghanistan,0.0,0.0
+1400,1950,France,China,5.5,3.0999999
+1401,1950,France,Mongolia,0.0,0.0
+1402,1950,France,North Korea,0.0,0.0
+1403,1950,France,South Korea,0.0,0.0
+1404,1950,France,India,20.1,15.1
+1405,1950,France,Pakistan,35.799999,2.8
+1406,1950,France,Myanmar,0.2,0.1
+1407,1950,France,Sri Lanka,3.0999999,1.5
+1408,1950,France,Nepal,0.0,0.0
+1409,1950,France,Thailand,0.2,2.3
+1410,1950,France,Philippines,1.5,0.66000003
+1411,1950,France,Indonesia,7.5999999,5.6999998
+1412,1950,France,Australia,118.8,33.0
+1413,1950,France,New Zealand,30.9,3.74
+1414,1950,Switzerland,Spain,9.6000004,6.9000001
+1415,1950,Switzerland,Portugal,4.3000002,10.1
+1416,1950,Switzerland,Poland,6.9000001,11.3
+1417,1950,Switzerland,Hungary,12.0,11.3
+1418,1950,Switzerland,Czechoslovakia,22.0,23.6
+1419,1950,Switzerland,Italy,74.599998,51.5
+1420,1950,Switzerland,Albania,0.0,0.0
+1421,1950,Switzerland,Yugoslavia,3.3,6.0
+1422,1950,Switzerland,Greece,1.8,2.0999999
+1423,1950,Switzerland,Bulgaria,0.69999999,1.6
+1424,1950,Switzerland,Romania,0.40000001,5.0999999
+1425,1950,Switzerland,Russia,2.0999999,3.9000001
+1426,1950,Switzerland,Finland,2.0,3.0
+1427,1950,Switzerland,Sweden,15.7,14.7
+1428,1950,Switzerland,Norway,3.5999999,6.0
+1429,1950,Switzerland,Denmark,13.8,14.3
+1430,1950,Switzerland,Iceland,0.0,0.2
+1431,1950,Switzerland,Liberia,0.0,0.0
+1432,1950,Switzerland,Ethiopia,1.2,0.60000002
+1433,1950,Switzerland,South Africa,32.700001,2.5999999
+1434,1950,Switzerland,Iran,17.299999,2.9000001
+1435,1950,Switzerland,Turkey,3.2,3.9000001
+1436,1950,Switzerland,Iraq,0.60000002,0.1
+1437,1950,Switzerland,Egypt,14.3,9.8000002
+1438,1950,Switzerland,Syria,1.8,2.9000001
+1439,1950,Switzerland,Lebanon,0.1,3.3
+1440,1950,Switzerland,Jordan,0.0,0.0
+1441,1950,Switzerland,Israel,0.80000001,4.5999999
+1442,1950,Switzerland,Saudi Arabia,1.2,0.40000001
+1443,1950,Switzerland,Yemen Arab Republic,0.0,0.0
+1444,1950,Switzerland,Afghanistan,0.0,0.0
+1445,1950,Switzerland,China,12.8,17.799999
+1446,1950,Switzerland,Mongolia,0.0,0.0
+1447,1950,Switzerland,North Korea,0.0,0.0
+1448,1950,Switzerland,South Korea,0.0,0.0
+1449,1950,Switzerland,India,4.5,14.7
+1450,1950,Switzerland,Pakistan,0.30000001,1.6
+1451,1950,Switzerland,Myanmar,0.0,0.1
+1452,1950,Switzerland,Sri Lanka,2.9000001,0.80000001
+1453,1950,Switzerland,Nepal,0.0,0.0
+1454,1950,Switzerland,Thailand,3.0999999,3.7
+1455,1950,Switzerland,Philippines,8.1999998,1.4299999
+1456,1950,Switzerland,Indonesia,4.5999999,2.7
+1457,1950,Switzerland,Australia,7.4000001,7.04
+1458,1950,Switzerland,New Zealand,0.80000001,1.21
+1459,1950,Spain,Portugal,2.2,2.3
+1460,1950,Spain,Poland,0.0,0.0
+1461,1950,Spain,Hungary,0.0,0.0
+1462,1950,Spain,Czechoslovakia,0.40000001,0.1
+1463,1950,Spain,Italy,4.1999998,3.7
+1464,1950,Spain,Albania,0.0,0.0
+1465,1950,Spain,Yugoslavia,0.0,0.0
+1466,1950,Spain,Greece,0.0,0.0
+1467,1950,Spain,Bulgaria,0.0,0.0
+1468,1950,Spain,Romania,0.0,0.0
+1469,1950,Spain,Russia,0.0,0.0
+1470,1950,Spain,Finland,1.2,1.4
+1471,1950,Spain,Sweden,8.6000004,10.4
+1472,1950,Spain,Norway,6.8000002,7.4000001
+1473,1950,Spain,Denmark,5.0,11.7
+1474,1950,Spain,Iceland,0.0,0.69999999
+1475,1950,Spain,Liberia,0.0,0.0
+1476,1950,Spain,Ethiopia,0.0,0.0
+1477,1950,Spain,South Africa,0.60000002,1.3
+1478,1950,Spain,Iran,1.4,0.1
+1479,1950,Spain,Turkey,0.40000001,0.1
+1480,1950,Spain,Iraq,0.0,1.1
+1481,1950,Spain,Egypt,3.0,2.7
+1482,1950,Spain,Syria,0.40000001,0.1
+1483,1950,Spain,Lebanon,0.0,0.0
+1484,1950,Spain,Jordan,0.0,0.0
+1485,1950,Spain,Israel,0.0,0.2
+1486,1950,Spain,Saudi Arabia,11.4,0.0
+1487,1950,Spain,Yemen Arab Republic,0.0,0.0
+1488,1950,Spain,Afghanistan,0.0,0.0
+1489,1950,Spain,China,0.0,0.0
+1490,1950,Spain,Mongolia,0.0,0.0
+1491,1950,Spain,North Korea,0.0,0.0
+1492,1950,Spain,South Korea,0.0,0.0
+1493,1950,Spain,India,6.1999998,0.30000001
+1494,1950,Spain,Pakistan,0.0,0.60000002
+1495,1950,Spain,Myanmar,0.0,0.0
+1496,1950,Spain,Sri Lanka,0.0,0.1
+1497,1950,Spain,Nepal,0.0,0.0
+1498,1950,Spain,Thailand,0.0,0.0
+1499,1950,Spain,Philippines,2.3,0.99000001
+1500,1950,Spain,Indonesia,0.30000001,0.1
+1501,1950,Spain,Australia,6.6999998,1.1
+1502,1950,Spain,New Zealand,0.0,0.11
+1503,1950,Portugal,Poland,0.80000001,0.30000001
+1504,1950,Portugal,Hungary,0.0,0.1
+1505,1950,Portugal,Czechoslovakia,1.2,1.1
+1506,1950,Portugal,Italy,3.3,5.9000001
+1507,1950,Portugal,Yugoslavia,0.0,0.0
+1508,1950,Portugal,Greece,0.2,0.40000001
+1509,1950,Portugal,Bulgaria,0.0,0.0
+1510,1950,Portugal,Romania,0.0,0.0
+1511,1950,Portugal,Russia,0.0,1.1
+1512,1950,Portugal,Finland,0.1,0.1
+1513,1950,Portugal,Sweden,6.0,4.8000002
+1514,1950,Portugal,Norway,2.2,2.2
+1515,1950,Portugal,Denmark,2.4000001,5.4000001
+1516,1950,Portugal,Iceland,0.60000002,0.0
+1517,1950,Portugal,Liberia,0.0,0.0
+1518,1950,Portugal,South Africa,1.1,1.6
+1519,1950,Portugal,Iran,0.40000001,0.0
+1520,1950,Portugal,Turkey,0.0,0.0
+1521,1950,Portugal,Iraq,0.0,0.0
+1522,1950,Portugal,Egypt,1.2,1.0
+1523,1950,Portugal,Syria,0.0,0.1
+1524,1950,Portugal,Lebanon,0.0,0.0
+1525,1950,Portugal,Jordan,0.0,0.0
+1526,1950,Portugal,Israel,0.0,0.0
+1527,1950,Portugal,Saudi Arabia,8.8999996,0.0
+1528,1950,Portugal,Yemen Arab Republic,0.0,0.0
+1529,1950,Portugal,Afghanistan,0.0,0.0
+1530,1950,Portugal,China,0.1,0.0
+1531,1950,Portugal,Mongolia,0.0,0.0
+1532,1950,Portugal,North Korea,0.0,0.0
+1533,1950,Portugal,South Korea,0.0,0.0
+1534,1950,Portugal,India,1.0,0.40000001
+1535,1950,Portugal,Pakistan,2.3,0.0
+1536,1950,Portugal,Myanmar,0.0,0.0
+1537,1950,Portugal,Sri Lanka,0.1,0.0
+1538,1950,Portugal,Thailand,0.0,0.0
+1539,1950,Portugal,Philippines,0.0,0.1
+1540,1950,Portugal,Indonesia,0.30000001,0.30000001
+1541,1950,Portugal,Australia,0.60000002,0.55000001
+1542,1950,Portugal,New Zealand,0.0,0.22
+1543,1950,Poland,Italy,16.5,18.0
+1544,1950,Poland,Yugoslavia,0.0,0.0
+1545,1950,Poland,Greece,0.0,0.0
+1546,1950,Poland,Finland,8.8000002,27.4
+1547,1950,Poland,Sweden,32.299999,39.900002
+1548,1950,Poland,Norway,7.0999999,11.9
+1549,1950,Poland,Denmark,7.8000002,25.799999
+1550,1950,Poland,Iceland,2.0,2.5
+1551,1950,Poland,Ethiopia,0.0,0.0
+1552,1950,Poland,South Africa,2.0,0.0
+1553,1950,Poland,Turkey,2.4000001,2.4000001
+1554,1950,Poland,Iraq,0.0,0.1
+1555,1950,Poland,Egypt,2.7,1.3
+1556,1950,Poland,Syria,0.0,0.60000002
+1557,1950,Poland,Lebanon,0.0,0.30000001
+1558,1950,Poland,Jordan,0.0,0.0
+1559,1950,Poland,Israel,1.3,7.3000002
+1560,1950,Poland,India,0.40000001,0.5
+1561,1950,Poland,Pakistan,6.5999999,1.9
+1562,1950,Poland,Myanmar,0.0,0.0
+1563,1950,Poland,Sri Lanka,0.0,0.0
+1564,1950,Poland,Philippines,0.2,0.0
+1565,1950,Poland,Indonesia,0.30000001,0.0
+1566,1950,Poland,Australia,28.4,0.76999998
+1567,1950,Poland,New Zealand,4.3000002,0.0
+1568,1950,Hungary,Italy,8.3999996,9.8000002
+1569,1950,Hungary,Yugoslavia,0.0,0.0
+1570,1950,Hungary,Greece,0.0,0.0
+1571,1950,Hungary,Finland,1.1,1.8
+1572,1950,Hungary,Sweden,0.60000002,1.1
+1573,1950,Hungary,Norway,0.69999999,1.0
+1574,1950,Hungary,Iceland,0.30000001,0.0
+1575,1950,Hungary,Ethiopia,0.0,0.0
+1576,1950,Hungary,Turkey,3.7,5.6999998
+1577,1950,Hungary,Iraq,0.0,0.60000002
+1578,1950,Hungary,Egypt,3.0999999,3.5
+1579,1950,Hungary,Syria,0.0,0.30000001
+1580,1950,Hungary,Lebanon,0.0,0.30000001
+1581,1950,Hungary,Jordan,0.0,0.0
+1582,1950,Hungary,Israel,0.40000001,2.3
+1583,1950,Hungary,India,0.0,0.1
+1584,1950,Hungary,Pakistan,0.60000002,1.3
+1585,1950,Hungary,Myanmar,0.0,0.0
+1586,1950,Hungary,Sri Lanka,0.0,0.0
+1587,1950,Hungary,Indonesia,0.0,0.2
+1588,1950,Hungary,Australia,0.5,1.21
+1589,1950,Hungary,New Zealand,0.0,0.0
+1590,1950,Czechoslovakia,Italy,11.3,15.8
+1591,1950,Czechoslovakia,Yugoslavia,0.0,0.0
+1592,1950,Czechoslovakia,Greece,0.40000001,0.89999998
+1593,1950,Czechoslovakia,Finland,2.5999999,7.9000001
+1594,1950,Czechoslovakia,Sweden,19.299999,21.1
+1595,1950,Czechoslovakia,Norway,5.5999999,8.6999998
+1596,1950,Czechoslovakia,Denmark,4.3000002,6.4000001
+1597,1950,Czechoslovakia,Iceland,1.0,1.3
+1598,1950,Czechoslovakia,Ethiopia,0.0,0.40000001
+1599,1950,Czechoslovakia,Iran,0.0,6.1999998
+1600,1950,Czechoslovakia,Turkey,10.1,13.3
+1601,1950,Czechoslovakia,Iraq,0.0,1.6
+1602,1950,Czechoslovakia,Egypt,11.4,7.1999998
+1603,1950,Czechoslovakia,Syria,0.30000001,1.7
+1604,1950,Czechoslovakia,Lebanon,0.69999999,1.9
+1605,1950,Czechoslovakia,Jordan,0.0,0.0
+1606,1950,Czechoslovakia,Israel,0.5,2.5
+1607,1950,Czechoslovakia,Yemen Arab Republic,0.0,0.0
+1608,1950,Czechoslovakia,India,1.8,5.0
+1609,1950,Czechoslovakia,Pakistan,5.0999999,2.9000001
+1610,1950,Czechoslovakia,Myanmar,0.0,0.1
+1611,1950,Czechoslovakia,Philippines,0.0,0.0
+1612,1950,Czechoslovakia,Indonesia,0.0,1.8
+1613,1950,Czechoslovakia,Australia,6.5999999,13.53
+1614,1950,Czechoslovakia,New Zealand,2.8,0.33000001
+1615,1950,Italy,Albania,0.0,0.0
+1616,1950,Italy,Yugoslavia,17.0,25.0
+1617,1950,Italy,Greece,4.4000001,26.299999
+1618,1950,Italy,Bulgaria,1.3,1.9
+1619,1950,Italy,Romania,0.2,3.0999999
+1620,1950,Italy,Russia,14.5,20.0
+1621,1950,Italy,Finland,8.1000004,11.8
+1622,1950,Italy,Sweden,23.200001,32.900002
+1623,1950,Italy,Norway,11.8,11.5
+1624,1950,Italy,Denmark,16.6,16.6
+1625,1950,Italy,Iceland,2.0999999,0.69999999
+1626,1950,Italy,Liberia,0.0,0.0
+1627,1950,Italy,Ethiopia,2.0,2.0
+1628,1950,Italy,South Africa,17.299999,23.799999
+1629,1950,Italy,Iran,27.9,2.5999999
+1630,1950,Italy,Turkey,12.4,13.4
+1631,1950,Italy,Iraq,9.0,6.5999999
+1632,1950,Italy,Egypt,32.700001,44.400002
+1633,1950,Italy,Syria,7.0999999,8.6999998
+1634,1950,Italy,Lebanon,4.8000002,5.8000002
+1635,1950,Italy,Jordan,0.0,0.0
+1636,1950,Italy,Israel,0.0,15.7
+1637,1950,Italy,Saudi Arabia,44.5,1.3
+1638,1950,Italy,Yemen Arab Republic,0.0,0.0
+1639,1950,Italy,Afghanistan,0.0,0.0
+1640,1950,Italy,China,1.7,1.3
+1641,1950,Italy,Mongolia,0.0,0.0
+1642,1950,Italy,North Korea,0.0,0.0
+1643,1950,Italy,South Korea,0.0,0.0
+1644,1950,Italy,India,14.1,19.200001
+1645,1950,Italy,Pakistan,16.200001,17.799999
+1646,1950,Italy,Myanmar,0.0,1.7
+1647,1950,Italy,Sri Lanka,4.0999999,2.5999999
+1648,1950,Italy,Thailand,1.2,2.2
+1649,1950,Italy,Philippines,1.8,3.4100001
+1650,1950,Italy,Indonesia,2.5999999,5.9000001
+1651,1950,Italy,Australia,60.700001,33.990002
+1652,1950,Italy,New Zealand,6.1999998,0.76999998
+1653,1950,Albania,Yugoslavia,0.0,0.0
+1654,1950,Albania,Greece,0.0,0.0
+1655,1950,Albania,Finland,0.0,0.0
+1656,1950,Albania,Sweden,0.0,0.0
+1657,1950,Albania,Denmark,0.0,0.0
+1658,1950,Albania,Iceland,0.0,0.0
+1659,1950,Albania,Ethiopia,0.0,0.0
+1660,1950,Albania,Turkey,0.0,0.0
+1661,1950,Albania,Iraq,0.0,0.0
+1662,1950,Albania,Egypt,0.0,0.0
+1663,1950,Albania,Jordan,0.0,0.0
+1664,1950,Albania,Pakistan,0.0,0.0
+1665,1950,Albania,Myanmar,0.0,0.0
+1666,1950,Albania,Sri Lanka,0.0,0.0
+1667,1950,Albania,Philippines,0.0,0.0
+1668,1950,Albania,Indonesia,0.0,0.0
+1669,1950,Yugoslavia,Greece,0.0,0.89999998
+1670,1950,Yugoslavia,Bulgaria,0.0,0.0
+1671,1950,Yugoslavia,Romania,0.0,0.0
+1672,1950,Yugoslavia,Russia,0.0,0.0
+1673,1950,Yugoslavia,Finland,0.80000001,0.69999999
+1674,1950,Yugoslavia,Sweden,3.0999999,4.6999998
+1675,1950,Yugoslavia,Norway,0.1,0.30000001
+1676,1950,Yugoslavia,Denmark,0.80000001,1.1
+1677,1950,Yugoslavia,Iceland,0.0,0.0
+1678,1950,Yugoslavia,Liberia,0.0,0.0
+1679,1950,Yugoslavia,Ethiopia,0.0,0.0
+1680,1950,Yugoslavia,South Africa,1.6,0.0
+1681,1950,Yugoslavia,Iran,4.4000001,0.0
+1682,1950,Yugoslavia,Turkey,0.89999998,0.30000001
+1683,1950,Yugoslavia,Iraq,1.0,0.0
+1684,1950,Yugoslavia,Egypt,10.4,7.1999998
+1685,1950,Yugoslavia,Syria,0.0,0.5
+1686,1950,Yugoslavia,Lebanon,0.0,0.1
+1687,1950,Yugoslavia,Jordan,0.0,0.0
+1688,1950,Yugoslavia,Israel,0.2,2.4000001
+1689,1950,Yugoslavia,Saudi Arabia,0.69999999,0.1
+1690,1950,Yugoslavia,Yemen Arab Republic,0.0,0.0
+1691,1950,Yugoslavia,Afghanistan,0.0,0.0
+1692,1950,Yugoslavia,China,0.0,0.0
+1693,1950,Yugoslavia,Mongolia,0.0,0.0
+1694,1950,Yugoslavia,North Korea,0.0,0.0
+1695,1950,Yugoslavia,South Korea,0.0,0.0
+1696,1950,Yugoslavia,India,0.30000001,0.2
+1697,1950,Yugoslavia,Pakistan,3.9000001,0.0
+1698,1950,Yugoslavia,Myanmar,0.0,0.0
+1699,1950,Yugoslavia,Sri Lanka,0.2,0.0
+1700,1950,Yugoslavia,Nepal,0.0,0.0
+1701,1950,Yugoslavia,Thailand,0.0,0.0
+1702,1950,Yugoslavia,Philippines,0.0,0.0
+1703,1950,Yugoslavia,Indonesia,0.2,0.0
+1704,1950,Yugoslavia,Australia,6.6999998,0.33000001
+1705,1950,Yugoslavia,New Zealand,4.4000001,0.0
+1706,1950,Greece,Bulgaria,0.0,0.0
+1707,1950,Greece,Romania,0.40000001,0.0
+1708,1950,Greece,Russia,0.0,0.0
+1709,1950,Greece,Finland,3.3,3.0
+1710,1950,Greece,Sweden,15.9,1.6
+1711,1950,Greece,Norway,3.8,0.69999999
+1712,1950,Greece,Iceland,1.9,0.0
+1713,1950,Greece,Liberia,0.0,0.0
+1714,1950,Greece,Ethiopia,0.0,0.1
+1715,1950,Greece,Iran,14.9,0.1
+1716,1950,Greece,Turkey,10.8,0.5
+1717,1950,Greece,Iraq,0.0,0.1
+1718,1950,Greece,Egypt,1.1,2.5999999
+1719,1950,Greece,Syria,0.0,0.1
+1720,1950,Greece,Lebanon,0.0,0.1
+1721,1950,Greece,Jordan,0.0,0.0
+1722,1950,Greece,Israel,0.0,0.1
+1723,1950,Greece,Saudi Arabia,0.0,0.0
+1724,1950,Greece,Yemen Arab Republic,0.0,0.0
+1725,1950,Greece,Afghanistan,0.0,0.0
+1726,1950,Greece,China,0.0,0.0
+1727,1950,Greece,Mongolia,0.0,0.0
+1728,1950,Greece,North Korea,0.0,0.0
+1729,1950,Greece,South Korea,0.0,0.0
+1730,1950,Greece,India,2.4000001,0.0
+1731,1950,Greece,Pakistan,0.0,0.0
+1732,1950,Greece,Myanmar,0.0,0.0
+1733,1950,Greece,Sri Lanka,0.0,0.0
+1734,1950,Greece,Nepal,0.0,0.0
+1735,1950,Greece,Thailand,0.0,0.0
+1736,1950,Greece,Philippines,0.0,0.0
+1737,1950,Greece,Indonesia,0.0,0.0
+1738,1950,Greece,Australia,7.5,0.1
+1739,1950,Bulgaria,Finland,0.2,0.40000001
+1740,1950,Bulgaria,Sweden,0.60000002,0.60000002
+1741,1950,Bulgaria,Denmark,0.1,0.0
+1742,1950,Bulgaria,Iceland,0.0,0.0
+1743,1950,Bulgaria,Ethiopia,0.0,0.0
+1744,1950,Bulgaria,Turkey,0.89999998,0.69999999
+1745,1950,Bulgaria,Iraq,0.0,0.0
+1746,1950,Bulgaria,Egypt,0.0,0.1
+1747,1950,Bulgaria,Syria,0.0,0.30000001
+1748,1950,Bulgaria,Lebanon,0.0,0.30000001
+1749,1950,Bulgaria,Jordan,0.0,0.0
+1750,1950,Bulgaria,Israel,0.1,1.2
+1751,1950,Bulgaria,India,0.0,0.0
+1752,1950,Bulgaria,Pakistan,0.0,0.0
+1753,1950,Bulgaria,Myanmar,0.0,0.0
+1754,1950,Bulgaria,Sri Lanka,0.0,0.0
+1755,1950,Bulgaria,Indonesia,0.0,0.0
+1756,1950,Bulgaria,Australia,0.0,0.0
+1757,1950,Bulgaria,New Zealand,0.0,0.0
+1758,1950,Romania,Finland,2.2,2.7
+1759,1950,Romania,Sweden,0.0,0.30000001
+1760,1950,Romania,Norway,0.0,0.0
+1761,1950,Romania,Denmark,0.40000001,1.2
+1762,1950,Romania,Iceland,0.0,0.0
+1763,1950,Romania,Ethiopia,0.0,0.0
+1764,1950,Romania,Turkey,0.30000001,0.1
+1765,1950,Romania,Iraq,0.0,0.0
+1766,1950,Romania,Egypt,0.89999998,2.4000001
+1767,1950,Romania,Syria,0.0,0.30000001
+1768,1950,Romania,Lebanon,0.0,0.5
+1769,1950,Romania,Jordan,0.0,0.0
+1770,1950,Romania,Israel,0.30000001,2.5999999
+1771,1950,Romania,India,0.0,0.0
+1772,1950,Romania,Pakistan,0.0,0.0
+1773,1950,Romania,Myanmar,0.0,0.0
+1774,1950,Romania,Sri Lanka,0.0,0.0
+1775,1950,Romania,Philippines,0.0,0.0
+1776,1950,Romania,Indonesia,0.0,0.0
+1777,1950,Romania,Australia,0.40000001,0.33000001
+1778,1950,Romania,New Zealand,0.0,0.0
+1779,1950,Russia,Finland,64.5,23.6
+1780,1950,Russia,Sweden,21.799999,5.9000001
+1781,1950,Russia,Norway,8.0,10.3
+1782,1950,Russia,Denmark,1.0,3.8
+1783,1950,Russia,Iceland,0.0,0.0
+1784,1950,Russia,Ethiopia,0.0,0.0
+1785,1950,Russia,South Africa,0.0,0.0
+1786,1950,Russia,Turkey,0.40000001,0.0
+1787,1950,Russia,Iraq,0.0,0.0
+1788,1950,Russia,Egypt,25.200001,16.799999
+1789,1950,Russia,Syria,0.0,0.30000001
+1790,1950,Russia,Lebanon,0.0,0.30000001
+1791,1950,Russia,Israel,0.0,0.1
+1792,1950,Russia,India,2.9000001,3.5
+1793,1950,Russia,Pakistan,11.4,1.3
+1794,1950,Russia,Myanmar,0.0,0.0
+1795,1950,Russia,Sri Lanka,0.0,0.0
+1796,1950,Russia,Philippines,0.0,0.0
+1797,1950,Russia,Indonesia,0.0,0.0
+1798,1950,Russia,Australia,23.6,0.99000001
+1799,1950,Russia,New Zealand,2.9000001,0.22
+1800,1950,Finland,Sweden,24.0,13.1
+1801,1950,Finland,Norway,6.3000002,5.5
+1802,1950,Finland,Denmark,26.0,29.0
+1803,1950,Finland,Iceland,0.0,1.2
+1804,1950,Finland,Liberia,0.0,0.0
+1805,1950,Finland,Ethiopia,0.0,0.0
+1806,1950,Finland,South Africa,0.89999998,4.6999998
+1807,1950,Finland,Iran,1.5,0.1
+1808,1950,Finland,Turkey,2.0999999,2.5
+1809,1950,Finland,Iraq,0.0,0.0
+1810,1950,Finland,Egypt,1.6,7.0999999
+1811,1950,Finland,Syria,0.0,0.5
+1812,1950,Finland,Lebanon,0.0,0.40000001
+1813,1950,Finland,Jordan,0.0,0.0
+1814,1950,Finland,Israel,1.3,2.0
+1815,1950,Finland,Saudi Arabia,0.0,0.0
+1816,1950,Finland,Yemen Arab Republic,0.0,0.0
+1817,1950,Finland,Afghanistan,0.0,0.0
+1818,1950,Finland,China,0.1,0.30000001
+1819,1950,Finland,North Korea,0.0,0.0
+1820,1950,Finland,South Korea,0.0,0.0
+1821,1950,Finland,India,0.89999998,2.3
+1822,1950,Finland,Pakistan,1.5,0.40000001
+1823,1950,Finland,Myanmar,0.0,0.1
+1824,1950,Finland,Sri Lanka,0.40000001,0.80000001
+1825,1950,Finland,Thailand,0.0,0.2
+1826,1950,Finland,Philippines,0.0,0.0
+1827,1950,Finland,Indonesia,1.7,0.80000001
+1828,1950,Finland,Australia,7.3000002,4.0700002
+1829,1950,Finland,New Zealand,0.5,0.33000001
+1830,1950,Sweden,Norway,35.0,98.099998
+1831,1950,Sweden,Denmark,41.299999,68.199997
+1832,1950,Sweden,Iceland,1.6,1.1
+1833,1950,Sweden,Liberia,0.0,0.0
+1834,1950,Sweden,Ethiopia,0.40000001,0.30000001
+1835,1950,Sweden,South Africa,8.5,19.4
+1836,1950,Sweden,Iran,27.6,1.5
+1837,1950,Sweden,Turkey,5.3000002,5.4000001
+1838,1950,Sweden,Iraq,0.30000001,1.7
+1839,1950,Sweden,Egypt,4.0,13.9
+1840,1950,Sweden,Syria,0.2,0.89999998
+1841,1950,Sweden,Lebanon,0.1,1.1
+1842,1950,Sweden,Jordan,0.0,0.0
+1843,1950,Sweden,Israel,2.0999999,4.5999999
+1844,1950,Sweden,Saudi Arabia,11.4,0.89999998
+1845,1950,Sweden,Yemen Arab Republic,0.0,0.0
+1846,1950,Sweden,Afghanistan,0.0,0.0
+1847,1950,Sweden,China,4.5999999,3.9000001
+1848,1950,Sweden,Mongolia,0.0,0.0
+1849,1950,Sweden,North Korea,0.0,0.0
+1850,1950,Sweden,South Korea,0.0,0.0
+1851,1950,Sweden,India,5.3000002,9.6000004
+1852,1950,Sweden,Pakistan,2.5,2.3
+1853,1950,Sweden,Myanmar,0.5,0.2
+1854,1950,Sweden,Sri Lanka,5.3000002,0.89999998
+1855,1950,Sweden,Thailand,1.4,1.6
+1856,1950,Sweden,Philippines,1.0,0.55000001
+1857,1950,Sweden,Indonesia,3.7,4.3000002
+1858,1950,Sweden,Australia,16.700001,25.74
+1859,1950,Sweden,New Zealand,2.5999999,3.74
+1860,1950,Norway,Denmark,26.0,29.700001
+1861,1950,Norway,Iceland,0.5,0.60000002
+1862,1950,Norway,Ethiopia,0.30000001,0.1
+1863,1950,Norway,South Africa,1.6,3.3
+1864,1950,Norway,Iran,14.8,0.0
+1865,1950,Norway,Turkey,0.69999999,1.9
+1866,1950,Norway,Iraq,0.80000001,0.2
+1867,1950,Norway,Egypt,0.69999999,9.6000004
+1868,1950,Norway,Jordan,0.0,0.0
+1869,1950,Norway,Israel,1.2,1.9
+1870,1950,Norway,Saudi Arabia,0.2,0.0
+1871,1950,Norway,Yemen Arab Republic,0.0,0.0
+1872,1950,Norway,China,2.5999999,0.80000001
+1873,1950,Norway,Mongolia,0.0,0.0
+1874,1950,Norway,North Korea,0.0,0.0
+1875,1950,Norway,South Korea,0.0,0.0
+1876,1950,Norway,India,3.2,4.0999999
+1877,1950,Norway,Pakistan,0.2,1.0
+1878,1950,Norway,Myanmar,0.30000001,0.30000001
+1879,1950,Norway,Sri Lanka,0.5,0.40000001
+1880,1950,Norway,Thailand,0.5,0.69999999
+1881,1950,Norway,Philippines,2.5999999,0.11
+1882,1950,Norway,Indonesia,2.0999999,0.60000002
+1883,1950,Norway,Australia,7.0,8.3599997
+1884,1950,Norway,New Zealand,2.3,1.87
+1885,1950,Denmark,Iceland,0.80000001,2.8
+1886,1950,Denmark,Liberia,0.0,0.0
+1887,1950,Denmark,Ethiopia,0.0,0.0
+1888,1950,Denmark,South Africa,1.1,0.60000002
+1889,1950,Denmark,Iran,0.30000001,0.1
+1890,1950,Denmark,Turkey,3.9000001,2.0
+1891,1950,Denmark,Iraq,0.0,0.0
+1892,1950,Denmark,Egypt,2.8,2.5999999
+1893,1950,Denmark,Syria,0.1,0.2
+1894,1950,Denmark,Lebanon,0.30000001,0.30000001
+1895,1950,Denmark,Jordan,0.0,0.0
+1896,1950,Denmark,Israel,5.0999999,3.9000001
+1897,1950,Denmark,Saudi Arabia,0.0,0.0
+1898,1950,Denmark,Yemen Arab Republic,0.0,0.0
+1899,1950,Denmark,Afghanistan,0.0,0.0
+1900,1950,Denmark,China,2.8,0.1
+1901,1950,Denmark,Mongolia,0.0,0.0
+1902,1950,Denmark,North Korea,0.0,0.0
+1903,1950,Denmark,South Korea,0.0,0.0
+1904,1950,Denmark,India,3.4000001,3.3
+1905,1950,Denmark,Pakistan,0.0,0.40000001
+1906,1950,Denmark,Myanmar,0.40000001,0.30000001
+1907,1950,Denmark,Nepal,0.0,0.0
+1908,1950,Denmark,Thailand,0.5,1.9
+1909,1950,Denmark,Philippines,0.80000001,0.11
+1910,1950,Denmark,Indonesia,0.1,0.5
+1911,1950,Denmark,Australia,3.0999999,1.1
+1912,1950,Denmark,New Zealand,1.3,0.22
+1913,1950,Iceland,Liberia,0.0,0.0
+1914,1950,Iceland,Ethiopia,0.0,0.0
+1915,1950,Iceland,South Africa,0.0,0.0
+1916,1950,Iceland,Iran,0.0,0.0
+1917,1950,Iceland,Turkey,0.0,0.0
+1918,1950,Iceland,Iraq,0.0,0.0
+1919,1950,Iceland,Egypt,0.0,0.1
+1920,1950,Iceland,Syria,0.0,0.0
+1921,1950,Iceland,Lebanon,0.0,0.0
+1922,1950,Iceland,Jordan,0.0,0.0
+1923,1950,Iceland,Israel,0.0,0.69999999
+1924,1950,Iceland,Saudi Arabia,0.0,0.0
+1925,1950,Iceland,Yemen Arab Republic,0.0,0.0
+1926,1950,Iceland,Afghanistan,0.0,0.0
+1927,1950,Iceland,China,0.0,0.0
+1928,1950,Iceland,North Korea,0.0,0.0
+1929,1950,Iceland,South Korea,0.0,0.0
+1930,1950,Iceland,India,0.0,0.0
+1931,1950,Iceland,Pakistan,0.0,0.0
+1932,1950,Iceland,Myanmar,0.0,0.0
+1933,1950,Iceland,Sri Lanka,0.0,0.0
+1934,1950,Iceland,Nepal,0.0,0.0
+1935,1950,Iceland,Thailand,0.0,0.0
+1936,1950,Iceland,Philippines,0.0,0.0
+1937,1950,Iceland,Indonesia,0.0,0.0
+1938,1950,Iceland,Australia,0.0,0.0
+1939,1950,Iceland,New Zealand,0.0,0.0
+1940,1950,Liberia,Ethiopia,0.0,0.0
+1941,1950,Liberia,Turkey,0.0,0.0
+1942,1950,Liberia,Egypt,0.0,0.0
+1943,1950,Liberia,Syria,0.0,0.0
+1944,1950,Liberia,Lebanon,0.0,0.0
+1945,1950,Liberia,Jordan,0.0,0.0
+1946,1950,Liberia,Israel,0.0,0.0
+1947,1950,Liberia,India,0.0,0.0
+1948,1950,Liberia,Pakistan,0.0,0.0
+1949,1950,Liberia,Sri Lanka,0.0,0.0
+1950,1950,Liberia,Philippines,0.0,0.0
+1951,1950,Liberia,Indonesia,0.0,0.0
+1952,1950,Liberia,Australia,0.0,0.0
+1953,1950,Liberia,New Zealand,0.0,0.0
+1954,1950,Ethiopia,Iran,1.9,0.0
+1955,1950,Ethiopia,Turkey,0.0,0.0
+1956,1950,Ethiopia,Iraq,0.0,0.0
+1957,1950,Ethiopia,Egypt,0.5,0.40000001
+1958,1950,Ethiopia,Syria,0.0,0.30000001
+1959,1950,Ethiopia,Lebanon,0.0,0.2
+1960,1950,Ethiopia,Jordan,0.0,0.0
+1961,1950,Ethiopia,Israel,0.0,0.2
+1962,1950,Ethiopia,Saudi Arabia,0.0,0.2
+1963,1950,Ethiopia,Yemen Arab Republic,0.0,0.0
+1964,1950,Ethiopia,China,0.2,0.0
+1965,1950,Ethiopia,Mongolia,0.0,0.0
+1966,1950,Ethiopia,North Korea,0.0,0.0
+1967,1950,Ethiopia,South Korea,0.0,0.0
+1968,1950,Ethiopia,India,8.1000004,0.1
+1969,1950,Ethiopia,Pakistan,0.0,0.0
+1970,1950,Ethiopia,Myanmar,0.0,0.0
+1971,1950,Ethiopia,Sri Lanka,0.0,1.5
+1972,1950,Ethiopia,Thailand,0.0,0.0
+1973,1950,Ethiopia,Philippines,0.0,0.0
+1974,1950,Ethiopia,Indonesia,0.0,0.0
+1975,1950,Ethiopia,New Zealand,0.0,0.0
+1976,1950,South Africa,Iran,31.0,0.0
+1977,1950,South Africa,Turkey,0.0,0.69999999
+1978,1950,South Africa,Iraq,0.0,0.1
+1979,1950,South Africa,Egypt,0.0,21.1
+1980,1950,South Africa,Lebanon,0.0,0.40000001
+1981,1950,South Africa,Jordan,0.0,0.0
+1982,1950,South Africa,Israel,0.0,11.5
+1983,1950,South Africa,Saudi Arabia,12.0,1.0
+1984,1950,South Africa,Yemen Arab Republic,0.0,0.0
+1985,1950,South Africa,China,0.0,0.0
+1986,1950,South Africa,India,2.4000001,0.0
+1987,1950,South Africa,Pakistan,0.60000002,2.9000001
+1988,1950,South Africa,Myanmar,0.0,0.0
+1989,1950,South Africa,Sri Lanka,12.1,0.5
+1990,1950,South Africa,Thailand,0.60000002,1.3
+1991,1950,South Africa,Philippines,1.0,0.0
+1992,1950,South Africa,Indonesia,3.0999999,0.5
+1993,1950,South Africa,Australia,8.5,11.77
+1994,1950,South Africa,New Zealand,0.80000001,3.0799999
+1995,1950,Iran,Turkey,0.0,4.5
+1996,1950,Iran,Iraq,5.9000001,3.7
+1997,1950,Iran,Egypt,0.1,16.299999
+1998,1950,Iran,Syria,0.30000001,3.0999999
+1999,1950,Iran,Lebanon,0.1,1.9
+2000,1950,Iran,Jordan,0.0,0.0
+2001,1950,Iran,Israel,0.0,0.89999998
+2002,1950,Iran,India,17.299999,78.699997
+2003,1950,Iran,Pakistan,0.80000001,15.6
+2004,1950,Iran,Myanmar,2.0999999,3.2
+2005,1950,Iran,Sri Lanka,0.30000001,9.8000002
+2006,1950,Iran,Philippines,0.0,0.11
+2007,1950,Iran,Indonesia,0.0,0.5
+2008,1950,Iran,Australia,1.9,34.099998
+2009,1950,Iran,New Zealand,0.30000001,11.22
+2010,1950,Turkey,Iraq,0.5,0.40000001
+2011,1950,Turkey,Egypt,0.69999999,6.9000001
+2012,1950,Turkey,Syria,5.0,8.1999998
+2013,1950,Turkey,Lebanon,0.2,4.9000001
+2014,1950,Turkey,Jordan,0.0,0.0
+2015,1950,Turkey,Israel,0.1,2.3
+2016,1950,Turkey,Saudi Arabia,6.9000001,0.0
+2017,1950,Turkey,Yemen Arab Republic,0.0,0.0
+2018,1950,Turkey,China,0.0,0.0
+2019,1950,Turkey,Mongolia,0.0,0.0
+2020,1950,Turkey,North Korea,0.0,0.0
+2021,1950,Turkey,South Korea,0.0,0.0
+2022,1950,Turkey,India,3.5,0.2
+2023,1950,Turkey,Pakistan,2.5999999,0.0
+2024,1950,Turkey,Myanmar,0.0,0.0
+2025,1950,Turkey,Sri Lanka,0.2,0.0
+2026,1950,Turkey,Nepal,0.0,0.0
+2027,1950,Turkey,Thailand,0.0,0.0
+2028,1950,Turkey,Philippines,0.0,0.0
+2029,1950,Turkey,Indonesia,0.2,0.0
+2030,1950,Turkey,Australia,4.0999999,0.22
+2031,1950,Turkey,New Zealand,0.1,0.22
+2032,1950,Iraq,Egypt,0.2,3.5999999
+2033,1950,Iraq,Syria,2.8,7.4000001
+2034,1950,Iraq,Lebanon,0.2,8.1999998
+2035,1950,Iraq,Jordan,0.0,0.0
+2036,1950,Iraq,Saudi Arabia,0.0,0.89999998
+2037,1950,Iraq,Yemen Arab Republic,0.0,0.0
+2038,1950,Iraq,Afghanistan,0.0,0.0
+2039,1950,Iraq,China,0.0,0.0
+2040,1950,Iraq,North Korea,0.0,0.0
+2041,1950,Iraq,South Korea,0.0,0.0
+2042,1950,Iraq,India,8.6999998,6.6999998
+2043,1950,Iraq,Pakistan,0.0,1.5
+2044,1950,Iraq,Myanmar,0.0,0.0
+2045,1950,Iraq,Sri Lanka,6.3000002,0.40000001
+2046,1950,Iraq,Thailand,0.1,0.0
+2047,1950,Iraq,Philippines,0.0,3.4100001
+2048,1950,Iraq,Indonesia,0.60000002,0.1
+2049,1950,Iraq,Australia,0.30000001,0.55000001
+2050,1950,Iraq,New Zealand,0.1,0.44
+2051,1950,Egypt,Syria,1.4,2.2
+2052,1950,Egypt,Lebanon,2.4000001,3.5
+2053,1950,Egypt,Jordan,0.0,0.0
+2054,1950,Egypt,Israel,0.0,0.2
+2055,1950,Egypt,Saudi Arabia,11.4,2.2
+2056,1950,Egypt,Yemen Arab Republic,0.0,0.0
+2057,1950,Egypt,Afghanistan,0.0,0.0
+2058,1950,Egypt,China,0.89999998,3.5
+2059,1950,Egypt,Mongolia,0.0,0.0
+2060,1950,Egypt,North Korea,0.0,0.0
+2061,1950,Egypt,South Korea,0.0,0.0
+2062,1950,Egypt,India,16.200001,55.900002
+2063,1950,Egypt,Pakistan,0.80000001,3.7
+2064,1950,Egypt,Myanmar,0.0,0.0
+2065,1950,Egypt,Sri Lanka,14.2,4.4000001
+2066,1950,Egypt,Nepal,0.0,0.0
+2067,1950,Egypt,Thailand,0.0,0.0
+2068,1950,Egypt,Philippines,0.0,0.22
+2069,1950,Egypt,Indonesia,2.8,0.60000002
+2070,1950,Egypt,Australia,37.0,1.54
+2071,1950,Egypt,New Zealand,0.30000001,0.22
+2072,1950,Syria,Lebanon,7.1999998,18.9
+2073,1950,Syria,Jordan,0.0,0.0
+2074,1950,Syria,Saudi Arabia,1.4,3.8
+2075,1950,Syria,Yemen Arab Republic,0.0,0.0
+2076,1950,Syria,China,1.2,0.0
+2077,1950,Syria,South Korea,0.0,0.0
+2078,1950,Syria,India,2.5,0.2
+2079,1950,Syria,Pakistan,0.0,0.0
+2080,1950,Syria,Sri Lanka,0.30000001,1.5
+2081,1950,Syria,Thailand,0.2,0.0
+2082,1950,Syria,Philippines,0.1,0.0
+2083,1950,Syria,Indonesia,0.1,0.0
+2084,1950,Syria,Australia,0.1,0.0
+2085,1950,Syria,New Zealand,0.0,0.0
+2086,1950,Lebanon,Jordan,0.0,0.0
+2087,1950,Lebanon,Saudi Arabia,3.0999999,6.1999998
+2088,1950,Lebanon,Yemen Arab Republic,0.0,0.0
+2089,1950,Lebanon,Afghanistan,0.0,0.0
+2090,1950,Lebanon,China,1.2,0.0
+2091,1950,Lebanon,South Korea,0.0,0.0
+2092,1950,Lebanon,India,0.89999998,0.0
+2093,1950,Lebanon,Pakistan,0.0,0.0
+2094,1950,Lebanon,Myanmar,0.0,0.0
+2095,1950,Lebanon,Sri Lanka,0.2,0.60000002
+2096,1950,Lebanon,Thailand,0.80000001,0.0
+2097,1950,Lebanon,Philippines,0.5,0.0
+2098,1950,Lebanon,Indonesia,0.2,0.0
+2099,1950,Lebanon,Australia,0.30000001,0.0
+2100,1950,Lebanon,New Zealand,0.0,0.0
+2101,1950,Jordan,Saudi Arabia,0.0,0.0
+2102,1950,Jordan,Yemen Arab Republic,0.0,0.0
+2103,1950,Jordan,Afghanistan,0.0,0.0
+2104,1950,Jordan,China,0.0,0.0
+2105,1950,Jordan,North Korea,0.0,0.0
+2106,1950,Jordan,South Korea,0.0,0.0
+2107,1950,Jordan,India,0.0,0.0
+2108,1950,Jordan,Pakistan,0.0,0.0
+2109,1950,Jordan,Myanmar,0.0,0.0
+2110,1950,Jordan,Sri Lanka,0.0,0.0
+2111,1950,Jordan,Thailand,0.0,0.0
+2112,1950,Jordan,Philippines,0.0,0.0
+2113,1950,Jordan,Indonesia,0.0,0.0
+2114,1950,Jordan,Australia,0.0,0.0
+2115,1950,Jordan,New Zealand,0.0,0.0
+2116,1950,Israel,China,0.1,0.0
+2117,1950,Israel,South Korea,0.0,0.0
+2118,1950,Israel,India,0.80000001,0.0
+2119,1950,Israel,Pakistan,0.1,0.0
+2120,1950,Israel,Myanmar,0.2,0.0
+2121,1950,Israel,Sri Lanka,0.30000001,0.0
+2122,1950,Israel,Nepal,0.0,0.0
+2123,1950,Israel,Thailand,0.0,0.0
+2124,1950,Israel,Philippines,2.2,0.0
+2125,1950,Israel,Indonesia,0.0,0.0
+2126,1950,Israel,Australia,2.3,0.1
+2127,1950,Israel,New Zealand,0.1,0.0
+2128,1950,Saudi Arabia,India,4.1999998,1.4
+2129,1950,Saudi Arabia,Pakistan,0.0,0.60000002
+2130,1950,Saudi Arabia,Myanmar,0.0,0.0
+2131,1950,Saudi Arabia,Sri Lanka,1.0,0.80000001
+2132,1950,Saudi Arabia,Philippines,0.0,8.8000002
+2133,1950,Saudi Arabia,Indonesia,0.30000001,0.0
+2134,1950,Saudi Arabia,Australia,1.4,4.6199999
+2135,1950,Saudi Arabia,New Zealand,0.1,0.0
+2136,1950,Yemen Arab Republic,South Korea,0.0,0.0
+2137,1950,Yemen Arab Republic,India,0.0,0.0
+2138,1950,Yemen Arab Republic,Pakistan,0.0,0.0
+2139,1950,Yemen Arab Republic,Myanmar,0.0,0.0
+2140,1950,Yemen Arab Republic,Sri Lanka,0.0,0.0
+2141,1950,Yemen Arab Republic,Philippines,0.0,0.0
+2142,1950,Yemen Arab Republic,Australia,0.0,0.0
+2143,1950,Yemen Arab Republic,New Zealand,0.0,0.0
+2144,1950,Afghanistan,India,0.0,0.0
+2145,1950,Afghanistan,Pakistan,0.0,0.0
+2146,1950,Afghanistan,Myanmar,0.0,0.0
+2147,1950,Afghanistan,Sri Lanka,0.0,0.0
+2148,1950,Afghanistan,Philippines,0.0,0.0
+2149,1950,Afghanistan,Indonesia,0.0,0.0
+2150,1950,Afghanistan,Australia,0.0,0.0
+2151,1950,Afghanistan,New Zealand,0.0,0.0
+2152,1950,China,India,5.0999999,1.0
+2153,1950,China,Pakistan,7.8000002,18.5
+2154,1950,China,Myanmar,4.9000001,3.4000001
+2155,1950,China,Sri Lanka,0.0,0.60000002
+2156,1950,China,Philippines,0.89999998,0.22
+2157,1950,China,Indonesia,0.0,2.5
+2158,1950,China,Australia,1.9,4.8400002
+2159,1950,China,New Zealand,0.0,0.88
+2160,1950,Mongolia,Pakistan,0.0,0.0
+2161,1950,Mongolia,Australia,0.0,0.0
+2162,1950,North Korea,India,0.0,0.0
+2163,1950,North Korea,Pakistan,0.0,0.0
+2164,1950,North Korea,Myanmar,0.0,0.0
+2165,1950,North Korea,Sri Lanka,0.0,0.0
+2166,1950,North Korea,Philippines,0.0,0.0
+2167,1950,North Korea,Indonesia,0.0,0.0
+2168,1950,North Korea,Australia,0.0,0.0
+2169,1950,South Korea,India,0.0,1.1
+2170,1950,South Korea,Pakistan,0.30000001,0.0
+2171,1950,South Korea,Myanmar,0.0,0.0
+2172,1950,South Korea,Sri Lanka,0.0,0.0
+2173,1950,South Korea,Philippines,2.3,0.0
+2174,1950,South Korea,Indonesia,0.0,0.0
+2175,1950,South Korea,Australia,0.0,0.0
+2176,1950,South Korea,New Zealand,0.0,0.0
+2177,1950,India,Pakistan,85.599998,79.5
+2178,1950,India,Myanmar,26.4,49.599998
+2179,1950,India,Sri Lanka,7.5,38.0
+2180,1950,India,Nepal,0.0,0.0
+2181,1950,India,Thailand,12.9,9.3000002
+2182,1950,India,Philippines,0.80000001,2.4200001
+2183,1950,India,Indonesia,6.1999998,22.6
+2184,1950,India,Australia,91.400002,70.949997
+2185,1950,India,New Zealand,3.3,6.8200002
+2186,1950,Pakistan,Myanmar,1.1,0.30000001
+2187,1950,Pakistan,Sri Lanka,8.1999998,2.8
+2188,1950,Pakistan,Nepal,0.0,0.0
+2189,1950,Pakistan,Thailand,0.2,0.1
+2190,1950,Pakistan,Philippines,0.0,0.0
+2191,1950,Pakistan,Indonesia,0.0,0.0
+2192,1950,Pakistan,Australia,0.69999999,7.04
+2193,1950,Pakistan,New Zealand,0.0,0.0
+2194,1950,Myanmar,Sri Lanka,0.1,47.900002
+2195,1950,Myanmar,Nepal,0.0,0.0
+2196,1950,Myanmar,Thailand,0.5,0.0
+2197,1950,Myanmar,Philippines,0.0,0.0
+2198,1950,Myanmar,Indonesia,0.2,26.0
+2199,1950,Myanmar,Australia,2.4000001,0.0
+2200,1950,Myanmar,New Zealand,0.1,0.11
+2201,1950,Sri Lanka,Nepal,0.0,0.0
+2202,1950,Sri Lanka,Thailand,11.9,0.2
+2203,1950,Sri Lanka,Philippines,0.0,0.66000003
+2204,1950,Sri Lanka,Indonesia,2.2,0.0
+2205,1950,Sri Lanka,Australia,16.799999,25.85
+2206,1950,Sri Lanka,New Zealand,0.0,6.0500002
+2207,1950,Nepal,Philippines,0.0,0.0
+2208,1950,Nepal,Australia,0.0,0.0
+2209,1950,Nepal,New Zealand,0.0,0.0
+2210,1950,Thailand,Philippines,0.40000001,0.99000001
+2211,1950,Thailand,Indonesia,3.2,13.8
+2212,1950,Thailand,Australia,1.7,0.22
+2213,1950,Thailand,New Zealand,0.1,0.11
+2214,1950,Philippines,Indonesia,4.8400002,0.1
+2215,1950,Philippines,Australia,1.65,0.11
+2216,1950,Philippines,New Zealand,0.0,0.0
+2217,1950,Indonesia,Australia,3.4000001,46.529999
+2218,1950,Indonesia,New Zealand,0.0,10.34
+2219,1950,Australia,New Zealand,12.43,58.52
