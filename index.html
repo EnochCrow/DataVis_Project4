@@ -21,6 +21,13 @@
       margin-top: 20px; /* Adjust as needed */
     }
 
+    /* Center the content in the top right column */
+    #observablehq-viewof-Year-f42ba35d {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
     /* Optionally, you can add styles to the text below the columns */
     .row p {
       margin-top: 20px; /* Adjust as needed */
@@ -29,7 +36,8 @@
 </head>
 <body>
 
-<h1>Moviegoing is on a Decline in the United States (2003-2021).</h1>
+<h1>World Trade During the WW2 Era (1938-1950).</h1>
+
 
 <div class="row">
   <div class="left" id="observablehq-chart-f42ba35d"> 
@@ -45,14 +53,10 @@
   </div>
 </div>
 
-  <p>The historical trade data was obtained from <a href="https://correlatesofwar.org/data-sets/bilateral-trade/">Correlates of War</a>. </p> 
-  <p>The lists of <a href="https://en.wikipedia.org/wiki/Allies_of_World_War_II">Allied</a>. and <a href="https://en.wikipedia.org/wiki/Axis_powers">Axis</a> Powers were obtained from Wikipedia. </p>
-  <p>The graphics were made with <a href="https://observablehq.com/plot/">Observable Plot</a>. </p>
-  <p>The force directed graph template was obtained from <a href="https://observablehq.com/@d3/force-directed-graph/2?collection=@d3/d3-force">D3 on Observable Plot</a>. </p>
-  <p>I used the following website to get the colors: <a href="https://imagecolorpicker.com/en">IMAGECOLORPICKER</a>. </p>
+  <p>&emspThe historical trade data was obtained from <a href="https://correlatesofwar.org/data-sets/bilateral-trade/">Correlates of War</a>. The lists of <a href="https://en.wikipedia.org/wiki/Allies_of_World_War_II">Allied</a>. and <a href="https://en.wikipedia.org/wiki/Axis_powers">Axis</a> Powers were obtained from Wikipedia. The graphics were made with <a href="https://observablehq.com/plot/">Observable Plot</a>. The force directed graph template was obtained from <a href="https://observablehq.com/@d3/force-directed-graph/2?collection=@d3/d3-force">D3 on Observable Plot</a>. I used the following website to get the colors: <a href="https://imagecolorpicker.com/en">IMAGECOLORPICKER</a>. The dataset was filtered with python with help from <a href="https://chat.openai.com/share/2a112e1c-3413-4719-95a5-18b96686ce42"Chat-GPT</a>. </p>
+  <p>I cut down the data to just the main Allied and Axis Powers to make it more manageable to visualize. You can view the change in trade during the war period by adjusting the slider. Countries may not be named as they were during the period (Russia vs. USSR), the country names were assigned by the Correlates of War team.</p>
 
-  <p>The dataset was filtered with python with help from <a href="https://chat.openai.com/share/2a112e1c-3413-4719-95a5-18b96686ce42"Chat-GPT</a>. </p>
-
+  <p>Hypothesis: Trade between Allied and Axis Powers will drop significantly due to the outbreak of hostilities in WW2. </p>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
 <script type="module">
