@@ -6,22 +6,24 @@
     {
       box-sizing: border-box;
     }
-    .column {
-      float: left;
-      padding: 10px;
+    .row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 20px; /* Adjust as needed */
     }
-    .left {
-      width: 50%;
+
+    .right-column-container {
+      display: flex;
+      flex-direction: column;
     }
+
     .right {
-      width: 50%;
+      margin-top: 20px; /* Adjust as needed */
     }
-    .row:after {
-      content: "";
-      float: none;
-      display: table;
-      margin-left: 80px;
-      clear: both;
+
+    /* Optionally, you can add styles to the text below the columns */
+    .row p {
+      margin-top: 20px; /* Adjust as needed */
     }
   </style>
 </head>
@@ -30,13 +32,16 @@
 <h1>Moviegoing is on a Decline in the United States (2003-2021).</h1>
 
 <div class="row">
-  <div class="column left" id="observablehq-chart-f42ba35d"> 
+  <div class="left" id="observablehq-chart-f42ba35d"> 
+    <!-- Content for the left column -->
   </div>
-  <div class="column right" id="observablehq-viewof-Year-f42ba35d"> 
-  </div>
-  <div class="column right" id="observablehq-chart2-f42ba35d"> 
-  </div>
-  <div style="clear: both;">
+  <div class="right-column-container">
+    <div class="right" id="observablehq-viewof-Year-f42ba35d"> 
+      <!-- Content for the first right column -->
+    </div>
+    <div class="right" id="observablehq-chart2-f42ba35d"> 
+      <!-- Content for the second right column -->
+    </div>
   </div>
 </div>
 
