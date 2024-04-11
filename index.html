@@ -18,7 +18,9 @@
     }
     .row:after {
       content: "";
+      float: none;
       display: table;
+      margin-left: 80px;
       clear: both;
     }
   </style>
@@ -27,7 +29,7 @@
 
 <h1>Moviegoing is on a Decline in the United States (2003-2021).</h1>
 
-<div class="row">
+<div class="column">
   <p> The United States Census Bureau tracks yearly data on many industries. Their County Business Patterns datasets provide by zip-code data on the number of establishments operating within each industry, which was used to create this visualization. However, in 2017 there was a sudden drop off in the number of entries for movie theaters, which continued until 2021, the most recent available data. The zip codes associated with each datapoint were paired with latitude and longitude using a dataset linked below. This allowed me to plot the theaters on a map.</p>
   <p> My original hypothesis was based on the belief COVID affected movie theater attendance, but the zip-code data past 2017 did not allow me to explore this. Therefore, I also wanted to include a visual of the change in box office revenue over the same period of time as the map. This data also does clearly show COVID's effect.</p>
   <div class="column left" id="observablehq-chart-f42ba35d"> </div>
