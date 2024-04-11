@@ -34,7 +34,9 @@
   <p> My original hypothesis was based on the belief COVID affected movie theater attendance, but the zip-code data past 2017 did not allow me to explore this. Therefore, I also wanted to include a visual of the change in box office revenue over the same period of time as the map. This data also does clearly show COVID's effect.</p>
 </div>
 
-<div class="big" id="observablehq-Box_Office_Plot-6c46a573"></div>
+<div class="big" id="observablehq-chart-f42ba35d"></div>
+<div class="small" id="observablehq-chart2-f42ba35d"></div>
+<div class="small" id="observablehq-viewof-Year-f42ba35d"></div>
 
 <div class="main">
   <p>Credit: <a href="https://observablehq.com/d/fdbcde3e5d72cb80@1091">The State of Cinemas in the United States (2003-2021) by Enoch Crow&#039;s Workspace</a></p>
@@ -51,11 +53,12 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-import define from "https://api.observablehq.com/d/616461f95ef91404.js?v=4";
+import define from "https://api.observablehq.com/d/616461f95ef91404@873.js?v=4";
 new Runtime().module(define, name => {
-  if (name === "viewof Year") return new Inspector(document.querySelector("#observablehq-viewof-Year-16c951b9"));
-  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-16c951b9"));
-  return ["selected_Year","data","data_index"].includes(name);
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-f42ba35d"));
+  if (name === "chart2") return new Inspector(document.querySelector("#observablehq-chart2-f42ba35d"));
+  if (name === "viewof Year") return new Inspector(document.querySelector("#observablehq-viewof-Year-f42ba35d"));
+  return ["selected_Year","data","dataCopy","totalOutgoingValue","totalIncomingValue"].includes(name);
 });
 </script>
 
