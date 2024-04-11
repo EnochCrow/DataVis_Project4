@@ -8,6 +8,7 @@
     }
     body {
       font-family: Arial, sans-serif;
+      padding-left: 15px;
     }
     .row {
       display: grid;
@@ -18,6 +19,9 @@
     .right-column-container {
       display: flex;
       flex-direction: column;
+      margin-top: calc(20px + /* Add margin space between text paragraphs */
+                    1em * /* Line height of the text */
+                    3 /* Number of paragraphs in the left column */);
     }
 
     .left-column {
@@ -36,8 +40,12 @@
     /* Center the content in the top right column */
     #observablehq-viewof-Year-f42ba35d {
       display: flex;
-      justify-content: center;
+      justify-content: left;
       align-items: left;
+    }
+
+    h1 {
+      text-align: center;
     }
 
     /* Optionally, you can add styles to the text below the columns */
